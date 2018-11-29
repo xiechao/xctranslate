@@ -12,5 +12,9 @@
     "translate"
   ],
   "author": "xiechao",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.19.0"
+  }
 }
