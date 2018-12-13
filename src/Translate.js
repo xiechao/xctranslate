@@ -13,10 +13,12 @@ const Translate = {
         this.readDirSync( fromFolder );
 
         //usage:
-        this.readTextFile( "/Users/Documents/workspace/test.json", function ( text ) {
-            const data = JSON.parse( text );
-            console.log( data );
-        } )
+        const text = this.readTextFile( "/Users/xiechao/codes/xctranslate/data/locales/ar.json" );
+
+        const data = JSON.parse( text );
+        console.log( data.about_us );
+
+        this.writeTextFile( "/Users/xiechao/codes/xctranslate/data/locales/ar.json", JSON.stringify( data, null, 2 ) + "\n" )
     },
 
 
@@ -34,17 +36,17 @@ const Translate = {
     },
 
 
-    readTextFile: function ( file, callback ) {
-        const rawFile = new XMLHttpRequest();
-        rawFile.overrideMimeType( "application/json" );
-        rawFile.open( "GET", file, true );
-        rawFile.onreadystatechange = function () {
-            if ( rawFile.readyState === 4 && rawFile.status == "200" ) {
-                callback( rawFile.responseText );
-            }
-        }
-        rawFile.send( null );
+    readTextFile: function ( file ) {
+        var data = fs.readFileSync( file, "utf-8" );
+
+        return data
+    },
+
+    writeTextFile: function ( file, content ) {
+        fs.writeFileSync( file, content )
     }
+
+
 };
 
 exports.Translate = Translate;
