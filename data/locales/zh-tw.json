@@ -1,0 +1,1289 @@
+{
+  "about_us": "關於我們",
+  "account": "賬號",
+  "add": "添加",
+  "add_a_new_eth_wallet": "添加一個 GTB 添加一個",
+  "add_contact": "添加聯繫人",
+  "add_contacts_successful": "成功添加聯繫人",
+  "add_new_token": "添加新資產",
+  "add_new_wallet": "添加新錢包",
+  "address": "地址",
+  "album": "相冊",
+  "algorithm": "核心算法",
+  "amount": "金額",
+  "app_name": "GTB Wallet",
+  "asset_name": "資產名稱",
+  "assets": "資產",
+  "auto_translate": "自動翻譯：",
+  "available_credit": "可用額度：",
+  "backup_keystore": "備份 Keystore",
+  "backup_private_key_tip_1": "離線保存",
+  "backup_private_key_tip_2": "建議抄寫或是打印私鑰後放置在安全地點保存.",
+  "backup_private_key_tip_3": "請勿使用網絡傳輸",
+  "backup_private_key_tip_4": "請勿通過網絡工具傳輸私鑰,請勿通過網絡工具傳輸私鑰.請勿通過網絡工具傳輸私鑰.",
+  "backup_private_key_title": "備份私鑰",
+  "balance_24h": "24H 金額",
+  "basic_info": "基本信息",
+  "beneficiary": "受益人",
+  "bind": "綁定",
+  "bind_email": "綁定郵箱",
+  "birthday": "生日",
+  "block_number": "區塊號",
+  "can_not_transfer_to_myself": "你不能向自己轉賬",
+  "cancel": "取消",
+  "change": "變化",
+  "change_24h": "24H 變化",
+  "change_email_hint": "如果你更改了郵箱地址,如果你更改了郵箱地址.",
+  "change_name": "更改用戶名",
+  "change_password": "更改密碼",
+  "change_pwd": "更改密碼",
+  "check_again": "檢查一下",
+  "check_update": "檢查更新",
+  "choose_country": "選擇國家或地區",
+  "choose_eth_wallet": "選擇一個 GTB 選擇一個",
+  "choose_token": "選擇一個代幣",
+  "close": "關閉",
+  "complete": "完成",
+  "confirm_to_delete_contact": "確定刪除聯繫人",
+  "confirm_to_top_up": "確認充值",
+  "confirm_to_transfer": "確認轉賬",
+  "contact_detail": "聯繫人",
+  "contact_number": "聯繫號碼",
+  "contacts": "聯繫人",
+  "copy": "複製",
+  "copy_address_success": "已經復制地址",
+  "copy_success": "已經復制!",
+  "copy_wallet_address": "複製錢包地址",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "安道爾"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "阿拉伯聯合酋長國"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "阿富汗"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "安提瓜和巴布達"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "安圭拉"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "阿爾巴尼亞"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "亞美尼亞"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "荷屬安的列斯"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "安哥拉"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "阿根廷"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "奧地利"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "澳大利亞"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "阿魯巴"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "阿塞拜疆"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "波斯尼亞黑塞哥維那"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "巴巴多斯"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "孟加拉國"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "比利時"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "布基納法索"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "保加利亞"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "巴林"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "布隆迪"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "貝寧"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "百慕大"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "文萊達魯薩蘭國"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "玻利維亞"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "巴西"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "巴哈馬"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "不丹"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "博茨瓦納"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "白俄羅斯"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "伯利茲"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "加拿大"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "剛果（剛果）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "中非共和國"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "剛果（剛果）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "瑞士"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "庫克群島"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "智利"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "喀麥隆"
+    },
+    "CN": {
+      "currency_name": "人民幣",
+      "sort": "ZHONG GUO",
+      "value": "中國"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "哥倫比亞"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "哥斯達黎加"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "古巴"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "卡佛維德"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "塞浦路斯"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "捷克共和國"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "德國"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "吉布提"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "丹麥"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "多米尼克"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "多明尼加共和國"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "阿爾及利亞"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "厄瓜多爾"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "愛沙尼亞"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "埃及"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "西班牙"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "埃塞俄比亞"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "芬蘭"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "斐濟"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "密克羅尼西亞"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "法羅群島"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "法國"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "加蓬"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "英國"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "格林納達"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "格魯吉亞"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "法屬圭亞那"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "根西島"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "加納"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "直布羅陀"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "格陵蘭"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "岡比亞"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "幾內亞"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "瓜德羅普"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "赤道幾內亞"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "希臘"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "危地馬拉"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "關島"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "幾內亞比紹"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "圭亞那"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "香港"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "洪都拉斯"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "克羅地亞"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "海地"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "匈牙利"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "印度尼西亞"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "愛爾蘭共和國"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "以色列"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "馬恩島"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "印度"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "伊拉克"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "伊朗"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "冰島"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "意大利"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "澤西"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "牙買加"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "約旦"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "日本"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "肯尼亞"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "吉爾吉斯斯坦"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "柬埔寨"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "基里巴斯"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "科摩羅"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "聖基茨和尼維斯"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "北韓"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "南韓"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "科威特"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "開曼群島"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "哈薩克斯坦"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "老撾"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "黎巴嫩"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "聖盧西亞"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "列支敦士登"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "斯里蘭卡"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "利比里亞"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "萊索托"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "立陶宛"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "盧森堡"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "拉脫維亞"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "利比亞"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "摩洛哥"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "摩納哥"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "摩爾多瓦"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "黑山"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "聖馬丁（聖馬丁）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "馬達加斯加"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "馬其頓"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "馬里"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "緬甸"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "蒙古"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "澳門"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "北馬里亞納群島"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "馬提尼克"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "毛里塔尼亞"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "蒙特塞拉特"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "馬耳他"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "毛里求斯"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "馬爾代夫"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "馬拉維"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "墨西哥"
+    },
+    "MY": {
+      "currency_name": "馬來西亞幣（馬來西亞幣）",
+      "sort": "MA LAI XI YA",
+      "value": "馬來西亞"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "莫桑比克"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "納米比亞"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "新喀裡多尼亞"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "尼日爾"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "諾福克島"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "尼日利亞"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "尼加拉瓜"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "荷蘭"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "挪威"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "尼泊爾"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "瑙魯"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "新西蘭"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "阿曼"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "巴拿馬"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "秘魯"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "法屬波利尼西亞"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "巴布亞新幾內亞"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "菲律賓"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "巴基斯坦"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "波蘭"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "波多黎各"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "巴勒斯坦國"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "葡萄牙"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "帕勞"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "巴拉圭"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "卡塔爾"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "留尼汪"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "羅馬尼亞"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "塞爾維亞"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "俄羅斯"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "盧旺達"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "沙特阿拉伯"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "塞舌爾"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "蘇丹"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "瑞典"
+    },
+    "SG": {
+      "currency_name": "新加坡元",
+      "sort": "XIN JIA PO",
+      "value": "新加坡"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "聖赫勒拿,聖赫勒拿"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "斯洛文尼亞"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "斯洛伐克"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "塞拉利昂"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "聖馬力諾（聖馬力諾）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "塞內加爾"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "蘇里南"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "薩爾瓦多"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "敘利亞"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "斯威士蘭"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "特克斯和凱科斯群島"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "乍得"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "多哥"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "泰國"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "塔吉克斯坦"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "東帝汶"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "土庫曼斯坦"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "突尼斯"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "湯加"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "土耳其"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "特立尼達和多巴哥"
+    },
+    "TW": {
+      "currency_name": "新台幣",
+      "sort": "TAI WAN",
+      "value": "台灣"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "坦桑尼亞"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "烏克蘭"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "烏干達"
+    },
+    "US": {
+      "currency_name": "美元",
+      "sort": "MEI GUO",
+      "value": "美國"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "烏拉圭"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "烏茲別克斯坦"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "聖文森特和格林納丁斯"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "委內瑞拉"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "英屬維爾京群島"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "維爾京群島（維爾京群島）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "越南"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "瓦努阿圖"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "薩摩亞"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "也門共和國"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "馬約特"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "南非"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "贊比亞"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "津巴布韋"
+    }
+  },
+  "create_again": "重新生成",
+  "create_eos_wallet": "生成EOS生成",
+  "create_time": "發行時間",
+  "create_wallet": "創建錢包",
+  "currency": {
+    "AED": "阿聯酋迪拉姆",
+    "AUD": "澳大利亞元",
+    "CNY": "人民幣",
+    "EUR": "歐元",
+    "GBP": "英鎊",
+    "HKD": "港元",
+    "IDR": "印尼盧比",
+    "INR": "印度盧比",
+    "JPY": "日元",
+    "KRW": "韓元",
+    "MYR": "馬來西亞林吉特",
+    "PHP": "菲律賓比索",
+    "SAR": "沙特里亞爾",
+    "SGD": "新加坡元",
+    "THB": "泰銖",
+    "USD": "美元",
+    "VND": "越南盾"
+  },
+  "currency_setting_title": "貨幣單位設置",
+  "current_password": "當前密碼",
+  "current_password_error": "當前密碼錯誤",
+  "current_version": "當前版本 {}",
+  "date": "日期",
+  "day": "天",
+  "delete": "刪除",
+  "delete_wallet": "刪除錢包",
+  "details": "詳情",
+  "do_not_take_screenshots": "請勿截圖",
+  "email": "郵箱",
+  "email_address": "郵箱地址",
+  "email_format_error": "請輸入郵箱地址",
+  "empty_data": "沒有數據",
+  "eos_entrance": "EOS 生態入口",
+  "eos_key_save_tip_2": "請妥善保存公鑰和私鑰：",
+  "eos_key_save_tip_3": ".建議抄寫或是打印後放置在安全地點.",
+  "eos_key_save_tip_4": ".不建議使用網絡傳輸私鑰,不建議使用網絡傳輸私鑰.",
+  "eos_mapping_open_source": "EOS 映射",
+  "eos_mapping_submit_contract": "提交合約",
+  "eos_mapping_submit_title": "提交映射合約",
+  "eos_mapping_success_title": "EOS 映射",
+  "eos_mapping_tip_title": "EOS 映射",
+  "eos_mapping_title": "EOS 映射",
+  "eos_mapping_verify": "驗證映射",
+  "eos_mapping_verify_title": "驗證映射",
+  "eos_mapping_wallet": "EOS 映射工具",
+  "eos_not_mapping_tip": "您的 EOS 您的.",
+  "eos_private_key": "私鑰 Private Key",
+  "eos_private_key_tip_1": "如果有人獲取你的私鑰將直接獲取你的資產！如果有人獲取你的私鑰將直接獲取你的資產.",
+  "eos_public_key": "公鑰 Public Key",
+  "eos_public_key_1": "EOS 錢包公鑰(Public key)",
+  "eos_public_key_for_return": "返回的 EOS 返回的：",
+  "eos_wallet_mapping_description": "\"映射\"映射 EOS映射 EOS 映射.映射 EOS映射.GTB Wallet 映射 EOS 映射.",
+  "eth_address_for_mapping": "映射用的 GTB 映射用的：",
+  "eth_private_key_tip_1": "如果有人獲取你的私鑰將直接獲取你的資產！如果有人獲取你的私鑰將直接獲取你的資產.",
+  "eth_wallet": "GTB 錢包",
+  "eth_wallet_add_title": "添加錢包",
+  "eth_wallet_address": "GTB 錢包地址",
+  "eth_wallet_keystore_can_not_be_null": "錢包的 Keystore 錢包的",
+  "eth_wallet_name_can_not_be_null": "錢包名不能為空",
+  "eth_wallet_password_can_not_be_null": "密碼不能為空",
+  "eth_wallet_private_key_can_not_be_null": "錢包的私鑰不能為空",
+  "eth_wallet_seed_phrase_can_not_be_null": "錢包助記詞不能為空",
+  "exchange": "交易所",
+  "export_keystore": "導出 Keystore",
+  "export_private_key": "導出私鑰",
+  "failed_to_get_permission": "獲得權限失敗",
+  "failed_to_save_photo": "保存圖片失敗",
+  "failed_to_transfer": "轉賬失敗",
+  "feedback": "反饋",
+  "find_password": "找回密碼",
+  "finish_operation": "完成",
+  "first_name": "名",
+  "forgot_password": "忘記密碼",
+  "forgot_password_hint": "您可以通過註冊的手機號找回密碼.",
+  "github_open_source_address": "Github 開源地址",
+  "good_saved": "保存好了",
+  "gtbwallet_term_title_1": "服務及隱私條款",
+  "gtbwallet_term_title_2": "我已經仔細閱讀並同意 {}",
+  "gtt_redeem_code": "GTT 兌換碼",
+  "gtt_top_up_title": "GTT 充值",
+  "have_new_version": "有新版{}",
+  "hour": "小時",
+  "i_know": "我知道了",
+  "import": "導入",
+  "import_other_eth_wallet": "導入其它 GTB 導入其它",
+  "import_wallet": "導入錢包",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "私鑰",
+  "import_wallet_by_seed_phrase": "助記詞",
+  "import_wallet_title": "導入 GTB 導入",
+  "insured": "投保人",
+  "introduction": "簡介",
+  "invalid_eth_wallet_address": "只能識別 GTB 只能識別",
+  "invalid_eth_wallet_private_key": "錢包私鑰格式錯誤",
+  "invalid_qr_code": "不能識別的二維碼",
+  "invalid_seed_phrase": "你的助記詞格式錯誤",
+  "is_newest_version": "已經是最新版",
+  "k_line": "K 線",
+  "keystore_input_placeholder": "直接複製粘貼以太坊錢包 Keystore 直接複製粘貼以太坊錢包.",
+  "keystore_password": "Keystore 密碼",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "中文",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "日本語",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "中文繁體",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "第一個語言 \"{}\" ?",
+  "language_second": "第二個語言 \"{}\" ?",
+  "language_setting_title": "語言設置",
+  "last_name": "姓",
+  "loading": "正在加載",
+  "login": "登錄",
+  "login_failed": "登錄失敗,登錄失敗",
+  "login_with_exist_account": "登錄已有賬號",
+  "logout": "退出登錄",
+  "mailbox": "郵箱",
+  "main_page_menu": {
+    "receive_money": "收款",
+    "scan": "掃一掃",
+    "transaction_history": "交易記錄",
+    "transfer": "轉賬"
+  },
+  "main_tab": {
+    "gtbwallet": "資產",
+    "mine": "我的",
+    "news": "資訊"
+  },
+  "main_tab_token_price": "行情",
+  "make_sure_again": "再次確認",
+  "make_sure_again_for_eos_private_key": "GTB Wallet 不會上傳你的 EOS 不會上傳你的,不會上傳你的,不會上傳你的.",
+  "manager_wallet": "管理錢包",
+  "mapping_contract": "映射合約",
+  "mapping_not": "未映射",
+  "mapping_now": "立即映射",
+  "mapping_status": "映射狀態",
+  "mapping_success": "已映射",
+  "market": "市場",
+  "market_value_title": "市值",
+  "max_supply": "發行總量",
+  "member_name": "姓名",
+  "member_title": "職位",
+  "mine": "我的",
+  "miner_fee": "礦工費:",
+  "minute": "分鐘",
+  "mobile_number": "手機號碼",
+  "mobile_or_email": "手機/手機",
+  "modify_success": "修改成功",
+  "multi_language": "多語言",
+  "my_eth_wallet": "我的 GTB 我的",
+  "newest": "最新{}",
+  "news_title": "資訊",
+  "news_type_title": {
+    "gtbwallet_self": "快訊",
+    "twitter": "推特",
+    "wechat": "公眾號",
+    "weibo": "微博"
+  },
+  "next_step": "下一步",
+  "no_binding": "未綁定",
+  "no_internet": "沒有網絡鏈接",
+  "not_login_account": "未登錄賬號",
+  "not_set": "未設置",
+  "notification_page_title": "通知",
+  "official_website": "官方網站",
+  "ok": "確定",
+  "operate_failed": "操作失敗,操作失敗",
+  "order_confirm": "訂單確認",
+  "order_number": "訂單號碼",
+  "password": "密碼",
+  "password2": "重複密碼",
+  "password_format_hint": "密碼長度為8-16密碼長度為,密碼長度為、密碼長度為,密碼長度為.",
+  "password_is_not_same": "密碼不一樣",
+  "password_modify_success": "修改成功, 修改成功",
+  "password_old": "舊密碼",
+  "password_tip_hint": "密碼提示信息（密碼提示信息）",
+  "password_verify": "驗證密碼",
+  "phone_number": "手機號",
+  "please_agree_gtbwallet_term": "請同意服務及隱私條款",
+  "please_inpput_address": "請輸入接收人地址",
+  "please_inpput_first_name": "請輸入名字",
+  "please_inpput_lase_name": "請輸入姓氏",
+  "please_inpput_valide_address": "請輸入有效的接收人地址",
+  "please_input_amount": "請輸入金額",
+  "please_input_gtt_code": "請輸入 GTT 兌換碼",
+  "please_input_private_key": "請輸入明文私鑰.",
+  "please_input_receiver_address": "請輸入接收者地址",
+  "please_input_seed_phrase": "請輸入助記詞,請輸入助記詞.",
+  "please_input_verify_password": "請輸入驗證密碼",
+  "please_input_wallet_password": "請輸入錢包密碼",
+  "please_set_password_hint": "設置密碼提示",
+  "please_set_password_tip": "請設定一個密碼保護錢包",
+  "please_set_wallet_name": "請設定錢包名稱",
+  "pls_input_account": "請輸入賬號",
+  "pls_input_image_verify_code": "請輸入圖形驗證碼",
+  "pls_input_phone": "請輸入電話號碼",
+  "pls_input_pwd": "請輸入密碼",
+  "pls_input_token": "請輸入驗證碼",
+  "policy_amount": "保單額度：",
+  "policy_details": "保單詳情",
+  "policy_list": "保單列表",
+  "price": "價格",
+  "price_title": "價格",
+  "privacy": "隱私條款",
+  "profile": "個人資料",
+  "progress_link": "進度鏈接",
+  "proof": "權益證明",
+  "push_setting_title": "消息推送",
+  "qr_code_title": "收款碼",
+  "qr_scan_title": "掃一掃",
+  "qr_share_tip_1": "長按二維碼",
+  "qr_share_tip_2": "獲取 EOS 獲取",
+  "quickly": "快",
+  "quit_app": "退出",
+  "receive": "收款",
+  "receiver_address": "收款地址",
+  "receiver_wallet_address": "收款錢包地址",
+  "recommend_gtbwallet": "推薦GTB Wallet",
+  "recommend_to_friends": "推薦 GTB Wallet 推薦",
+  "register": "註冊",
+  "register_failed": "註冊失敗,註冊失敗",
+  "register_hint": "GTB Wallet 暫時僅支持使用中國大陸地區手機號註冊.",
+  "register_mean_agree": "註冊即同意",
+  "register_new_account": "註冊新賬號",
+  "release": "解鎖",
+  "remark": "備註",
+  "repeat_password": "重複密碼",
+  "repeat_password_error": "請重複輸入相同的密碼",
+  "request_failed": "請求失敗,請求失敗",
+  "request_permission": "申請權限",
+  "request_permission_album": "想要保存圖片到你的相冊",
+  "resend": "重新發送",
+  "resend_count_down": "重新發送({})",
+  "road_map": "路線圖",
+  "save_keystore_tip_1": "請複制粘貼 Keystore 請複制粘貼、請複制粘貼.請複制粘貼、請複制粘貼、請複制粘貼、請複制粘貼,請複制粘貼.",
+  "save_keystore_tip_2": "請勿使用網絡傳輸",
+  "save_keystore_tip_3": "請勿通過網絡工具傳輸 Keystore 請勿通過網絡工具傳輸,請勿通過網絡工具傳輸.",
+  "save_keystore_tip_4": "密碼保險箱保存",
+  "save_keystore_tip_5": "如需在線保存,如需在線保存 1Password 如需在線保存 Keystore.",
+  "save_offline": "離線保存",
+  "scan": "掃一掃",
+  "scan_download_app": "掃描二維碼下載 App",
+  "scan_qr_to_pay": "掃描二維碼向我付款",
+  "search": "搜索",
+  "select": "選擇",
+  "select_qr_code": "選擇二維碼",
+  "sender_address": "發款地址",
+  "sent_verify_code_hint": "我們向 {} 我們向 4 我們向,我們向.",
+  "set_new_password": "設置新密碼",
+  "set_password": "設置密碼",
+  "set_password_hint": "為了您的賬戶安全,為了您的賬戶安全 8-16 為了您的賬戶安全,為了您的賬戶安全.",
+  "share": "分享",
+  "share_bull": "利好分享",
+  "share_read_more": "下載 GTB Wallet 下載",
+  "share_title": "分享",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "微信",
+    "wechat_moment": "朋友圈",
+    "weibo": "微博"
+  },
+  "slow": "慢",
+  "start_create": "開始生成",
+  "start_time": "啟動時間",
+  "submit": "提交",
+  "success_to_change_wallet_password": "成功修改密碼",
+  "success_to_delete_contact": "成功刪除聯繫人",
+  "success_to_delete_wallet": "成功刪除錢包",
+  "success_to_save_photo": "保存圖片成功",
+  "success_to_submit_order": "提交訂單成功",
+  "success_to_transfer": "交易成功",
+  "system_settings": "系統設置",
+  "team": "團隊",
+  "this_is_my_eth_wallet": "這是我的 GTB 這是我的",
+  "time_title": "時間",
+  "title": "標題",
+  "token_list_title": "添加新資產",
+  "top_up_gtt_success": "充值 GTT 成功",
+  "total_balance": "總資產 {}",
+  "total_supply": "流通量",
+  "trade_pair": "交易對",
+  "transaction_amount": "轉賬金額",
+  "transaction_amount_1": "轉賬金額,轉賬金額 {} {}",
+  "transaction_detail": "交易詳情",
+  "transaction_hash": "交易號",
+  "transaction_history": "交易記錄",
+  "transaction_list_title": "交易列表",
+  "transaction_time": "交易時間",
+  "transaction_tip": "轉賬成功並達到最低額度後,轉賬成功並達到最低額度後",
+  "transfer": "轉賬",
+  "transfer_amount": "支付金額:",
+  "transfer_progress_title": "轉賬進度",
+  "transfer_success": "轉賬已經發送到區塊鏈上等待打包",
+  "transfer_title": "轉賬",
+  "unbind": "解除綁定",
+  "unlock": "解鎖",
+  "unlock_list": "解锁列表",
+  "unverified": "未驗證",
+  "update_later": "稍後升級",
+  "update_now": "現在升級",
+  "user_agreement": "用戶使用協議",
+  "user_name": "用戶名",
+  "user_name_exist": "暱稱已被使用",
+  "validity_period": "有效期",
+  "verify": "驗證",
+  "verify_code": "驗證碼",
+  "verify_email_hint": "該郵箱還未驗證,該郵箱還未驗證.",
+  "verify_email_resent": "重新發送驗證郵件",
+  "verify_password": "驗證密碼",
+  "verify_phone": "驗證手機",
+  "verify_success": "驗證成功！",
+  "verify_wallet_password": "驗證密碼",
+  "version_check": "版本升級",
+  "view_more": "查看更多",
+  "view_progress": "查看進度",
+  "view_progress_1": "查看進度：",
+  "volume_24h": "24H 深度",
+  "wait_to_confirm_transaction": "待確認訂單",
+  "waiting_time_for_transaction": "已等待 {} 已等待",
+  "wallet_address": "錢包地址",
+  "wallet_already_exist": "賬號已經存在",
+  "wallet_change_password": "修改密碼",
+  "wallet_delete": "刪除錢包",
+  "wallet_edit_title": "編輯錢包",
+  "wallet_import": "導入錢包",
+  "wallet_manager_title": "管理錢包",
+  "wallet_name": "錢包名稱",
+  "wallet_name_change_title": "更改錢包名",
+  "wallet_name_format_1": "新錢包",
+  "wallet_name_format_2": "新錢包-{}",
+  "wallet_password": "錢包密碼",
+  "wallet_password_change_title": "更改錢包密碼",
+  "wallet_seed_phrase_show_title": "錢包助記詞",
+  "wallet_seed_phrase_tip_1": "如果有人獲取你的錢包助記詞將直接獲取你的資產！如果有人獲取你的錢包助記詞將直接獲取你的資產.",
+  "warranty": "保單",
+  "website_title": "網站",
+  "website_title_fangwei": "GT區塊鏈防偽",
+  "wechat_public_account": "公眾號"
+}

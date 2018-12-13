@@ -1,0 +1,1289 @@
+{
+  "about_us": "हमारे बारे में",
+  "account": "खाता संख्या",
+  "add": "जोड़ना",
+  "add_a_new_eth_wallet": "एक जोड़ें GTB एक जोड़ें",
+  "add_contact": "संपर्क जोड़ें",
+  "add_contacts_successful": "संपर्क सफल जोड़ें",
+  "add_new_token": "नई संपत्ति जोड़ें",
+  "add_new_wallet": "नया वॉलेट जोड़ें",
+  "address": "पता",
+  "album": "फोटो एलबम",
+  "algorithm": "एल्गोरिथ्म",
+  "amount": "रकम",
+  "app_name": "GTB Wallet",
+  "asset_name": "संपत्ति का नाम",
+  "assets": "संपत्ति",
+  "auto_translate": "स्वचालित अनुवाद：",
+  "available_credit": "उपलब्ध क्रेडिट:",
+  "backup_keystore": "बैक अप Keystore",
+  "backup_private_key_tip_1": "ऑफ़लाइन सहेजें",
+  "backup_private_key_tip_2": "निजी कुंजी की प्रतिलिपि बनाने या मुद्रित करने और इसे एक सुरक्षित स्थान पर सहेजने की अनुशंसा की जाती है.",
+  "backup_private_key_tip_3": "नेटवर्क ट्रांसमिशन का उपयोग न करें",
+  "backup_private_key_tip_4": "वेब उपकरण के माध्यम से निजी कुंजी संचारित न करें,वेब उपकरण के माध्यम से निजी कुंजी संचारित न करें.वेब उपकरण के माध्यम से निजी कुंजी संचारित न करें.",
+  "backup_private_key_title": "बैकअप निजी कुंजी",
+  "balance_24h": "बैलेंस 24 एच",
+  "basic_info": "मूलभूत जानकारी",
+  "beneficiary": "लाभार्थी",
+  "bind": "बाइंडिंग",
+  "bind_email": "मेल मेलबॉक्स",
+  "birthday": "जन्मदिन",
+  "block_number": "ब्लॉक नंबर",
+  "can_not_transfer_to_myself": "आप संपत्ति को अपने आप में स्थानांतरित नहीं कर सकते हैं",
+  "cancel": "रद्द करा",
+  "change": "परिवर्तन",
+  "change_24h": "24 एच बदलें",
+  "change_email_hint": "यदि आप ईमेल पता बदलते हैं,यदि आप ईमेल पता बदलते हैं.",
+  "change_name": "उपयोगकर्ता नाम बदलें",
+  "change_password": "पासवर्ड बदलें",
+  "change_pwd": "पासवर्ड बदलें",
+  "check_again": "इसे जांचें",
+  "check_update": "अपडेट के लिए जांचें",
+  "choose_country": "देश या क्षेत्र का चयन करें",
+  "choose_eth_wallet": "एक चुनें GTB एक चुनें",
+  "choose_token": "एक टोकन का चयन करें",
+  "close": "पास",
+  "complete": "पूरा",
+  "confirm_to_delete_contact": "संपर्क हटविणे सुनिश्चित करा",
+  "confirm_to_top_up": "रिचार्ज की पुष्टि करें",
+  "confirm_to_transfer": "स्थानांतरण की पुष्टि करें",
+  "contact_detail": "संपर्क",
+  "contact_number": "संपर्क संख्या",
+  "contacts": "संपर्क",
+  "copy": "प्रतिलिपि",
+  "copy_address_success": "पहले ही कॉपी किया गया पता है",
+  "copy_success": "पहले से ही कॉपी किया गया है!",
+  "copy_wallet_address": "वॉलेट पता कॉपी करें",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "अंडोरा"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "संयुक्त अरब अमीरात"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "अफ़ग़ानिस्तान"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "एंटीगुआ और बारबूडा"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "एंगुइला"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "अल्बानिया"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "आर्मीनिया"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "नीदरलैंड्स एंटिलीज़"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "अंगोला"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "अर्जेंटीना"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "ऑस्ट्रिया"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "ऑस्ट्रेलिया"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "अरूबा"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "आज़रबाइजान"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "बोस्निया और हर्जेगोविना"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "बारबाडोस"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "बांग्लादेश"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "बेल्जियम"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "बुर्किना फासो"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "बल्गेरियाई"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "बहरीन"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "बुस्र्न्दी"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "बेनिन"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "बरमूडा"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "ब्रुनेई दारुसलाम"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "बोलीविया"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "ब्राज़िल"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "बहामा"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "भूटान"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "बोत्सवाना"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "बेलोरूस"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "बेलीज"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "कनाडा"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "कांगो（कांगो）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "मध्य अफ़्रीकी गणराज्य"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "कांगो（कांगो）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "स्विट्जरलैंड"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "कुक द्वीप समूह"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "चिली"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "कैमरून"
+    },
+    "CN": {
+      "currency_name": "रॅन्मिन्बी",
+      "sort": "ZHONG GUO",
+      "value": "चीन"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "कोलम्बिया"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "कोस्टा रिका"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "क्यूबा"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kafoweide"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "साइप्रस"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "चेक गणराज्य"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "जर्मनी"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "जिबूती"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "डेनमार्क"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "डोमिनिका"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "डोमिनिकन गणराज्य"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "एलजीरिया"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "इक्वेडोर"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "एस्तोनिया"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "मिस्र"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "स्पेन"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "इथियोपिया"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "फिनलैंड"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "फिजी"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "माइक्रोनेशिया"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "फरो आइलैंड्स"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "फ्रांस"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "गैबॉन"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "यूनाइटेड किंगडम"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "ग्रेनेडा"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "जॉर्जिया"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "फ्रांसीसी गुयाना"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "ग्वेर्नसे"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "घाना"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "जिब्राल्टर"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "ग्रीनलैंड"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "गाम्बिया"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "गिन्नी"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "ग्वाडेलोप"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "इक्वेटोरियल गिनी"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "ग्रीस"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "ग्वाटेमाला"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "गुआम"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "गिनी-बिसाऊ"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "गुयाना"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "हांगकांग"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "होंडुरस"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "क्रोएशिया"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "हैती"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "हंगरी"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "इंडोनेशिया"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "आयरलैंड गणराज्य"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "इजराइल"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "आइल ऑफ मैन"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "भारत"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "इराक"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "ईरान"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "आइसलैंड"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "इटली"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "जर्सी"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "जमैका"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "जॉर्डन"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "जापान"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "केन्या"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "किर्गिज़स्तान"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "कंबोडिया"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "किरिबाती"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "कोमोरोस"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "सेंट किट्स एंड नेविस"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "उत्तरी कोरिया"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "दक्षिण कोरिया"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "कुवैट"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "केमैन द्वीप समूह"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "कजाखस्तान"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "लाओस"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "लेबनान"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "सेंट लूसिया"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "लिकटेंस्टीन"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "श्रीलंका"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "लाइबेरिया"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "लिसोटो"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "लिथुआनिया"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "लक्समबर्ग"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "लातविया"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "लीबिया"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "मोरक्को"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "मोनाको"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "मोलदोवा"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "मोंटेनेग्रो"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "सेंट मार्टिन（सेंट मार्टिन）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "मेडागास्कर"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "मैसेडोनिया"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "माली"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "म्यांमार"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "मंगोलिया"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "मकाओ"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "उत्तरी मारियाना द्वीप समूह"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "मार्टीनिक"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "मॉरिटानिया"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "मोंटेसेराट"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "माल्टा"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "मॉरीशस"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "मालदीव"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "मलावी"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "मेक्सिको"
+    },
+    "MY": {
+      "currency_name": "मलेशियाई मुद्रा（मलेशियाई मुद्रा）",
+      "sort": "MA LAI XI YA",
+      "value": "मलेशिया"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "मोजाम्बिक"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "नामीबिया"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "न्यू कैलेडोनिया"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "नाइजर"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "नॉरफ़ॉक द्वीप"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "नाइजीरिया"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "निकारागुआ"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "नीदरलैंड"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "नॉर्वे"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "नेपाल"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "नाउरू"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "न्यूजीलैंड"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "ओमान"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "पनामा"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "पेरू"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "फ्रेंच पॉलिनेशिया"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "पापुआ न्यू गिनी"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "फिलीपींस"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "पाकिस्तान"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "पोलैंड"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "प्वेर्टो रिको"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "फिलिस्तीन राज्य"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "पुर्तगाल"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "पलाऊ"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "परागुआ"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "कतर"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "पुनर्मिलन"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "रोमानिया"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "सर्बिया"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "रूस"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "रवांडा"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "सऊदी अरब"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "सेशेल्स"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "सूडान"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "स्वीडन"
+    },
+    "SG": {
+      "currency_name": "सिंगापुर डॉलर",
+      "sort": "XIN JIA PO",
+      "value": "सिंगापुर"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "सेंट हेलेना,सेंट हेलेना"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "स्लोवेनिया"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "स्लोवाकिया"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "सिएरा लियोन"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "सैन मैरिनो（सैन मैरिनो）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "सेनेगल"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "सूरीनाम"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "एल साल्वाडोर"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "सीरिया"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "स्वाजीलैंड"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "तुर्क और कैकोस द्वीप समूह"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "काग़ज़ का टुकड़ा"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "टोगो"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "थाईलैंड"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "तजाकिस्तान"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "पूर्वी तिमोर"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "तुर्कमेनिस्तान"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "ट्यूनीशिया"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "टोंगा"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "टर्की"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "त्रिनिदाद और टोबैगो"
+    },
+    "TW": {
+      "currency_name": "ताइवान डॉलर",
+      "sort": "TAI WAN",
+      "value": "ताइवान"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "तंजानिया"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "यूक्रेन"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "युगांडा"
+    },
+    "US": {
+      "currency_name": "अमेरिकी डॉलर",
+      "sort": "MEI GUO",
+      "value": "संयुक्त राज्य अमेरिका"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "उरुग्वे"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "उज़्बेकिस्तान"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "सेंट विन्सेंट और ग्रेनाडीन्स"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "वेनेजुएला"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "ब्रिटिश वर्जिन द्वीप समूह"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "वर्जिन द्वीप समूह（वर्जिन द्वीप समूह）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "वियतनाम"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "वानुअतु"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "समोआ"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "यमन गणराज्य"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "मैयट"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "दक्षिण अफ्रीका"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "जाम्बिया"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "जिम्बाब्वे"
+    }
+  },
+  "create_again": "फिर से बनाना",
+  "create_eos_wallet": "उत्पन्नEOSउत्पन्न",
+  "create_time": "दिनांक बनाएं",
+  "create_wallet": "वॉलेट बनाएं",
+  "currency": {
+    "AED": "संयुक्त अरब अमीरात दिरहम",
+    "AUD": "ऑस्ट्रेलियाई डॉलर",
+    "CNY": "रॅन्मिन्बी",
+    "EUR": "यूरो",
+    "GBP": "वास्तविक",
+    "HKD": "हांगकांग डॉलर",
+    "IDR": "इंडोनेशियाई रुपया",
+    "INR": "भारतीय रुपया",
+    "JPY": "येन",
+    "KRW": "दक्षिण कोरियाई जीता",
+    "MYR": "मलेशिया रिंगगिट",
+    "PHP": "फिलीपीन पेसो",
+    "SAR": "सऊदी रियाल",
+    "SGD": "सिंगापुर डॉलर",
+    "THB": "थाई बाहट",
+    "USD": "अमेरिकी डॉलर",
+    "VND": "वियतनामी डोंग"
+  },
+  "currency_setting_title": "मुद्रा इकाई सेटिंग",
+  "current_password": "वर्तमान पासवर्ड",
+  "current_password_error": "वर्तमान पासवर्ड गलत है",
+  "current_version": "वर्तमान संस्करण {}",
+  "date": "तारीख",
+  "day": "दिन",
+  "delete": "हटाना",
+  "delete_wallet": "वॉलेट हटाएं",
+  "details": "विवरण",
+  "do_not_take_screenshots": "स्क्रीनशॉट मत लें",
+  "email": "मेलबॉक्स",
+  "email_address": "ईमेल पता",
+  "email_format_error": "कृपया ईमेल पता दर्ज करें",
+  "empty_data": "कोई डेटा नहीं",
+  "eos_entrance": "EOS पारिस्थितिक प्रवेश द्वार",
+  "eos_key_save_tip_2": "कृपया सार्वजनिक और निजी कुंजी को सही तरीके से रखें：",
+  "eos_key_save_tip_3": ".कॉपी या मुद्रित करने और इसे एक सुरक्षित स्थान पर रखने की अनुशंसा की जाती है.",
+  "eos_key_save_tip_4": ".नेटवर्क ट्रांसमिशन निजी कुंजी का उपयोग करने की अनुशंसा नहीं की जाती है,नेटवर्क ट्रांसमिशन निजी कुंजी का उपयोग करने की अनुशंसा नहीं की जाती है.",
+  "eos_mapping_open_source": "EOS मानचित्रण",
+  "eos_mapping_submit_contract": "अनुबंध जमा करें",
+  "eos_mapping_submit_title": "मैपिंग अनुबंध सबमिट करें",
+  "eos_mapping_success_title": "EOS मानचित्रण",
+  "eos_mapping_tip_title": "EOS मानचित्रण",
+  "eos_mapping_title": "EOS मानचित्रण",
+  "eos_mapping_verify": "सत्यापन मानचित्र",
+  "eos_mapping_verify_title": "सत्यापन मानचित्र",
+  "eos_mapping_wallet": "EOS मानचित्रण उपकरण",
+  "eos_not_mapping_tip": "आपके EOS आपके.",
+  "eos_private_key": "निजी कुंजी Private Key",
+  "eos_private_key_tip_1": "अगर कोई आपकी निजी कुंजी प्राप्त करता है तो आपको अपनी संपत्ति सीधे मिल जाएगी！अगर कोई आपकी निजी कुंजी प्राप्त करता है तो आपको अपनी संपत्ति सीधे मिल जाएगी.",
+  "eos_public_key": "सार्वजनिक कुंजी Public Key",
+  "eos_public_key_1": "EOS वॉलेट सार्वजनिक कुंजी(Public key)",
+  "eos_public_key_for_return": "वापसी EOS वापसी：",
+  "eos_wallet_mapping_description": "\"मानचित्रण\"मानचित्रण EOSमानचित्रण EOS मानचित्रण.मानचित्रण EOSमानचित्रण.GTB Wallet मानचित्रण EOS मानचित्रण.",
+  "eth_address_for_mapping": "साथ मानचित्र GTB साथ मानचित्र：",
+  "eth_private_key_tip_1": "अगर कोई आपकी निजी कुंजी प्राप्त करता है तो आपको अपनी संपत्ति सीधे मिल जाएगी！अगर कोई आपकी निजी कुंजी प्राप्त करता है तो आपको अपनी संपत्ति सीधे मिल जाएगी.",
+  "eth_wallet": "GTB बटुआ",
+  "eth_wallet_add_title": "वॉलेट जोड़ें",
+  "eth_wallet_address": "GTB वॉलेट पता",
+  "eth_wallet_keystore_can_not_be_null": "बटुआ Keystore बटुआ",
+  "eth_wallet_name_can_not_be_null": "वॉलेट नाम खाली नहीं हो सकता है",
+  "eth_wallet_password_can_not_be_null": "पासवर्ड खाली नहीं हो सकता है",
+  "eth_wallet_private_key_can_not_be_null": "वॉलेट की निजी कुंजी खाली नहीं हो सकती है",
+  "eth_wallet_seed_phrase_can_not_be_null": "वॉलेट निमोनिक खाली नहीं हो सकता है",
+  "exchange": "एक्सचेंज",
+  "export_keystore": "निर्यात Keystore",
+  "export_private_key": "निजी कुंजी निर्यात करें",
+  "failed_to_get_permission": "अनुमति प्राप्त करने में विफल",
+  "failed_to_save_photo": "तस्वीर को सहेजने में विफल",
+  "failed_to_transfer": "स्थानांतरण विफल",
+  "feedback": "प्रतिक्रिया",
+  "find_password": "पासवर्ड पुनर्प्राप्त करें",
+  "finish_operation": "पूरा",
+  "first_name": "पहला नाम",
+  "forgot_password": "अपना पासवर्ड भूल गए",
+  "forgot_password_hint": "आप पंजीकृत मोबाइल नंबर से अपना पासवर्ड पुनर्प्राप्त कर सकते हैं.",
+  "github_open_source_address": "Github ओपन सोर्स एड्रेस",
+  "good_saved": "बचाना",
+  "gtbwallet_term_title_1": "सेवा और गोपनीयता नीति",
+  "gtbwallet_term_title_2": "मैंने ध्यान से पढ़ लिया है और सहमत हूं {}",
+  "gtt_redeem_code": "जीटीटी एक्सचेंज कोड",
+  "gtt_top_up_title": "जीटीटी रिचार्ज",
+  "have_new_version": "एक नया संस्करण है{}",
+  "hour": "घंटा",
+  "i_know": "मुझे पता है",
+  "import": "आयात कर रहा है",
+  "import_other_eth_wallet": "अन्य आयात करें GTB अन्य आयात करें",
+  "import_wallet": "वॉलेट आयात करें",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "निजी कुंजी",
+  "import_wallet_by_seed_phrase": "स्मृति सहायक",
+  "import_wallet_title": "आयात कर रहा है GTB आयात कर रहा है",
+  "insured": "बीमित",
+  "introduction": "परिचय",
+  "invalid_eth_wallet_address": "केवल पहचानो GTB केवल पहचानो",
+  "invalid_eth_wallet_private_key": "वॉलेट निजी कुंजी प्रारूप गलत है",
+  "invalid_qr_code": "अपरिचित क्यूआर कोड",
+  "invalid_seed_phrase": "आपका निमोनिक गलत प्रारूप में है",
+  "is_newest_version": "नवीनतम संस्करण पहले से ही है",
+  "k_line": "के लाइन",
+  "keystore_input_placeholder": "एथेरियम वॉलेट में सीधे कॉपी और पेस्ट करें Keystore एथेरियम वॉलेट में सीधे कॉपी और पेस्ट करें.",
+  "keystore_password": "Keystore पासवर्ड",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "चीनी",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "जापानी",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "पारंपरिक चीनी",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "पहली भाषा \"{}\" ?",
+  "language_second": "दूसरी भाषा \"{}\" ?",
+  "language_setting_title": "भाषा सेटिंग्स",
+  "last_name": "अंतिम नाम",
+  "loading": "लदान",
+  "login": "लॉग इन करें",
+  "login_failed": "लॉगिन विफल,लॉगिन विफल",
+  "login_with_exist_account": "मौजूदा खाते में लॉग इन करें",
+  "logout": "साइन आउट करें",
+  "mailbox": "मेलबॉक्स",
+  "main_page_menu": {
+    "receive_money": "प्राप्तियों",
+    "scan": "स्वीप",
+    "transaction_history": "लेनदेन इतिहास",
+    "transfer": "स्थानांतरण"
+  },
+  "main_tab": {
+    "gtbwallet": "संपत्ति",
+    "mine": "मेरी",
+    "news": "सूचना"
+  },
+  "main_tab_token_price": "कीमत",
+  "make_sure_again": "पुनः पुष्टि",
+  "make_sure_again_for_eos_private_key": "GTB Wallet आपका अपलोड नहीं करेगा EOS आपका अपलोड नहीं करेगा,आपका अपलोड नहीं करेगा,आपका अपलोड नहीं करेगा.",
+  "manager_wallet": "वॉलेट प्रबंधित करें",
+  "mapping_contract": "मैपिंग अनुबंध",
+  "mapping_not": "तुच्छ",
+  "mapping_now": "मानचित्र अब",
+  "mapping_status": "मानचित्रण राज्य",
+  "mapping_success": "मैप किए गए",
+  "market": "बाजार",
+  "market_value_title": "बाजार मूल्य",
+  "max_supply": "अधिकतम आपूर्ति",
+  "member_name": "नाम",
+  "member_title": "शीर्षक",
+  "mine": "मेरी",
+  "miner_fee": "खनिक की फीस:",
+  "minute": "मिनट",
+  "mobile_number": "मोबाइल नंबर",
+  "mobile_or_email": "सेल फोन/सेल फोन",
+  "modify_success": "सफलतापूर्वक संशोधित",
+  "multi_language": "बहु भाषा",
+  "my_eth_wallet": "मेरी GTB मेरी",
+  "newest": "नवीनतम{}",
+  "news_title": "सूचना",
+  "news_type_title": {
+    "gtbwallet_self": "समाचार",
+    "twitter": "चहचहाना",
+    "wechat": "सार्वजनिक संख्या",
+    "weibo": "Weibo"
+  },
+  "next_step": "अगला कदम",
+  "no_binding": "अबाध",
+  "no_internet": "कोई इंटरनेट कनेक्शन नहीं",
+  "not_login_account": "लॉग इन नहीं",
+  "not_set": "सेट नहीं",
+  "notification_page_title": "नोटिस",
+  "official_website": "आधिकारिक वेबसाइट",
+  "ok": "निर्धारित",
+  "operate_failed": "ऑपरेशन विफल,ऑपरेशन विफल",
+  "order_confirm": "ऑर्डर पुष्टिकरण",
+  "order_number": "क्रम संख्या",
+  "password": "पासवर्ड",
+  "password2": "पासवर्ड दोहराएं",
+  "password_format_hint": "पासवर्ड की लंबाई है8-16पासवर्ड की लंबाई है,पासवर्ड की लंबाई है、पासवर्ड की लंबाई है,पासवर्ड की लंबाई है.",
+  "password_is_not_same": "पासवर्ड एक जैसा नहीं है",
+  "password_modify_success": "सफलतापूर्वक संशोधित, सफलतापूर्वक संशोधित",
+  "password_old": "पुराना पासवर्ड",
+  "password_tip_hint": "पासवर्ड संकेत जानकारी（पासवर्ड संकेत जानकारी）",
+  "password_verify": "पासवर्ड सत्यापित करें",
+  "phone_number": "फोन नंबर",
+  "please_agree_gtbwallet_term": "कृपया सेवा और गोपनीयता नीति से सहमत हों",
+  "please_inpput_address": "कृपया रसीद पता इनपुट करें",
+  "please_inpput_first_name": "कृपया पहला नाम इनपुट करें",
+  "please_inpput_lase_name": "कृपया अंतिम नाम इनपुट करें",
+  "please_inpput_valide_address": "कृपया मान्य रसीद पता इनपुट करें",
+  "please_input_amount": "कृपया राशि दर्ज करें",
+  "please_input_gtt_code": "कृपया जीटीटी एक्सचेंज कोड दर्ज करें",
+  "please_input_private_key": "कृपया सादे टेक्स्ट निजी कुंजी दर्ज करें.",
+  "please_input_receiver_address": "प्राप्तकर्ता का पता दर्ज करें",
+  "please_input_seed_phrase": "कृपया निमोनिक दर्ज करें,कृपया निमोनिक दर्ज करें.",
+  "please_input_verify_password": "सत्यापन पासवर्ड दर्ज करें",
+  "please_input_wallet_password": "कृपया अपना वॉलेट पासवर्ड दर्ज करें",
+  "please_set_password_hint": "पासवर्ड संकेत सेट करें",
+  "please_set_password_tip": "कृपया पासवर्ड सुरक्षा वॉलेट सेट करें",
+  "please_set_wallet_name": "कृपया वॉलेट नाम सेट करें",
+  "pls_input_account": "कृपया अपना खाता नंबर दर्ज करें",
+  "pls_input_image_verify_code": "कृपया ग्राफिक सत्यापन कोड दर्ज करें",
+  "pls_input_phone": "कृपया फोन नंबर दर्ज करें",
+  "pls_input_pwd": "कृपया अपना पासवर्ड दर्ज करें",
+  "pls_input_token": "सत्यापन कोड दर्ज करें",
+  "policy_amount": "नीति राशि:",
+  "policy_details": "保单详情",
+  "policy_list": "नीति सूची",
+  "price": "कीमत",
+  "price_title": "मूल्य",
+  "privacy": "गोपनीयता नीति",
+  "profile": "व्यक्तिगत डेटा",
+  "progress_link": "प्रगति लिंक",
+  "proof": "सबूत",
+  "push_setting_title": "संदेश पुश",
+  "qr_code_title": "संग्रह कोड",
+  "qr_scan_title": "स्वीप",
+  "qr_share_tip_1": "लंबे समय तक क्यूआर कोड दबाएं",
+  "qr_share_tip_2": "मिलना EOS मिलना",
+  "quickly": "उपवास",
+  "quit_app": "Quit",
+  "receive": "प्राप्तियों",
+  "receiver_address": "रसीद पता",
+  "receiver_wallet_address": "रसीद वॉलेट पता",
+  "recommend_gtbwallet": "अनुशंसाGTB Wallet",
+  "recommend_to_friends": "अनुशंसा GTB Wallet अनुशंसा",
+  "register": "पंजीकरण",
+  "register_failed": "पंजीकरण विफल,पंजीकरण विफल",
+  "register_hint": "GTB Wallet वर्तमान में केवल मुख्य भूमि चीन में मोबाइल फोन नंबरों के पंजीकरण का समर्थन करता है.",
+  "register_mean_agree": "पंजीकरण सहमत है",
+  "register_new_account": "नया खाता पंजीकृत करें",
+  "release": "रिहाई",
+  "remark": "टिप्पणी",
+  "repeat_password": "पासवर्ड दोहराएं",
+  "repeat_password_error": "कृपया एक ही पासवर्ड दोबारा दर्ज करें",
+  "request_failed": "अनुरोध विफल,अनुरोध विफल",
+  "request_permission": "अनुमति के लिए आवेदन करें",
+  "request_permission_album": "अपने एल्बम में चित्रों को सहेजना चाहते हैं",
+  "resend": "पुन: भेजें",
+  "resend_count_down": "पुन: भेजें({})",
+  "road_map": "रोड मैप",
+  "save_keystore_tip_1": "कृपया कॉपी और पेस्ट करें Keystore कृपया कॉपी और पेस्ट करें、कृपया कॉपी और पेस्ट करें.कृपया कॉपी और पेस्ट करें、कृपया कॉपी और पेस्ट करें、कृपया कॉपी और पेस्ट करें、कृपया कॉपी और पेस्ट करें,कृपया कॉपी और पेस्ट करें.",
+  "save_keystore_tip_2": "नेटवर्क ट्रांसमिशन का उपयोग न करें",
+  "save_keystore_tip_3": "वेब टूल्स के माध्यम से स्थानांतरण न करें Keystore वेब टूल्स के माध्यम से स्थानांतरण न करें,वेब टूल्स के माध्यम से स्थानांतरण न करें.",
+  "save_keystore_tip_4": "पासवर्ड सुरक्षित जमा",
+  "save_keystore_tip_5": "अगर आपको ऑनलाइन सहेजने की ज़रूरत है,अगर आपको ऑनलाइन सहेजने की ज़रूरत है 1Password अगर आपको ऑनलाइन सहेजने की ज़रूरत है Keystore.",
+  "save_offline": "ऑफ़लाइन सहेजें",
+  "scan": "स्वीप",
+  "scan_download_app": "स्कैन क्यूआर कोड डाउनलोड करें App",
+  "scan_qr_to_pay": "मुझे भुगतान करने के लिए क्यूआर कोड स्कैन करें",
+  "search": "खोज",
+  "select": "चुनना",
+  "select_qr_code": "क्यूआर कोड का चयन करें",
+  "sender_address": "भुगतान पता",
+  "sent_verify_code_hint": "हम हैं {} हम हैं 4 हम हैं,हम हैं.",
+  "set_new_password": "नया पासवर्ड सेट करें",
+  "set_password": "पासवर्ड सेट करें",
+  "set_password_hint": "आपके खाते की सुरक्षा के लिए,आपके खाते की सुरक्षा के लिए 8-16 आपके खाते की सुरक्षा के लिए,आपके खाते की सुरक्षा के लिए.",
+  "share": "शेयर",
+  "share_bull": "अच्छी तरह से साझा करें",
+  "share_read_more": "डाउनलोड GTB Wallet डाउनलोड",
+  "share_title": "शेयर",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "माइक्रो पत्र",
+    "wechat_moment": "दोस्तों का सर्किल",
+    "weibo": "Weibo"
+  },
+  "slow": "धीरे",
+  "start_create": "उत्पन्न करना शुरू करें",
+  "start_time": "प्रारंभ दिनांक",
+  "submit": "प्रस्तुत करना",
+  "success_to_change_wallet_password": "पासवर्ड सफलतापूर्वक बदल दिया",
+  "success_to_delete_contact": "संपर्क यशस्वीरित्या हटवला",
+  "success_to_delete_wallet": "वॉलेट को सफलतापूर्वक हटा दिया गया",
+  "success_to_save_photo": "तस्वीर को सफलतापूर्वक सहेजें",
+  "success_to_submit_order": "आदेश सफलतापूर्वक जमा करें",
+  "success_to_transfer": "सफल लेनदेन",
+  "system_settings": "सिस्टम सेटिंग्स",
+  "team": "टीम",
+  "this_is_my_eth_wallet": "यह मेरा है GTB यह मेरा है",
+  "time_title": "तिथि",
+  "title": "शीर्षक",
+  "token_list_title": "नई संपत्ति जोड़ें",
+  "top_up_gtt_success": "जीटीटी सफलता रिचार्ज",
+  "total_balance": "कुल संपत्ति {}",
+  "total_supply": "कुल आपूर्ति",
+  "trade_pair": "व्यापार जोड़ी",
+  "transaction_amount": "स्थानांतरण राशि",
+  "transaction_amount_1": "स्थानांतरण राशि,स्थानांतरण राशि {} {}",
+  "transaction_detail": "लेनदेन विवरण",
+  "transaction_hash": "लेनदेन संख्या",
+  "transaction_history": "लेनदेन इतिहास",
+  "transaction_list_title": "लेनदेन सूची",
+  "transaction_time": "व्यापार का समय",
+  "transaction_tip": "स्थानांतरण सफल होने के बाद और न्यूनतम राशि तक पहुंच जाता है,स्थानांतरण सफल होने के बाद और न्यूनतम राशि तक पहुंच जाता है",
+  "transfer": "स्थानांतरण",
+  "transfer_amount": "भुगतान राशि:",
+  "transfer_progress_title": "प्रगति स्थानांतरण",
+  "transfer_success": "पैकेजिंग के लिए ब्लॉकचेन को हस्तांतरण भेजा गया है",
+  "transfer_title": "स्थानांतरण",
+  "unbind": "छुड़ाना",
+  "unlock": "अनलॉक",
+  "unlock_list": "ปลดล็อครายการ",
+  "unverified": "असत्यापित",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "उपयोगकर्ता समझौता",
+  "user_name": "प्रयोक्ता नाम",
+  "user_name_exist": "उपनाम का उपयोग किया गया है",
+  "validity_period": "वैधता अवधि",
+  "verify": "सत्यापन",
+  "verify_code": "सत्यापन कोड",
+  "verify_email_hint": "यह ईमेल सत्यापित नहीं किया गया है,यह ईमेल सत्यापित नहीं किया गया है.",
+  "verify_email_resent": "सत्यापन ईमेल पुनः भेजें",
+  "verify_password": "पासवर्ड सत्यापित करें",
+  "verify_phone": "अपने फोन को सत्यापित करें",
+  "verify_success": "सफल सत्यापन！",
+  "verify_wallet_password": "पासवर्ड सत्यापित करें",
+  "version_check": "Version Upgrade",
+  "view_more": "और देखें",
+  "view_progress": "प्रगति की जांच करें",
+  "view_progress_1": "प्रगति की जांच करें：",
+  "volume_24h": "वॉल्यूम 24 एच",
+  "wait_to_confirm_transaction": "लंबित आदेश",
+  "waiting_time_for_transaction": "मैं इंतजार कर रहा {} मैं इंतजार कर रहा",
+  "wallet_address": "वॉलेट पता",
+  "wallet_already_exist": "खाता पहले से मौजूद है",
+  "wallet_change_password": "पासवर्ड बदलें",
+  "wallet_delete": "वॉलेट हटाएं",
+  "wallet_edit_title": "वॉलेट संपादित करें",
+  "wallet_import": "वॉलेट आयात करें",
+  "wallet_manager_title": "वॉलेट प्रबंधित करें",
+  "wallet_name": "वॉलेट नाम",
+  "wallet_name_change_title": "वॉलेट नाम बदलें",
+  "wallet_name_format_1": "नया वॉलेट",
+  "wallet_name_format_2": "नया वॉलेट-{}",
+  "wallet_password": "वॉलेट पासवर्ड",
+  "wallet_password_change_title": "वॉलेट पासवर्ड बदलें",
+  "wallet_seed_phrase_show_title": "वॉलेट निमोनिक",
+  "wallet_seed_phrase_tip_1": "अगर किसी को आपका वॉलेट स्नेही मिलता है तो आपको अपनी संपत्ति सीधे मिल जाएगी！अगर किसी को आपका वॉलेट स्नेही मिलता है तो आपको अपनी संपत्ति सीधे मिल जाएगी.",
+  "warranty": "गारंटी",
+  "website_title": "वेबसाइट",
+  "website_title_fangwei": "जीटी ब्लॉकचेन एंटीफ्राउड",
+  "wechat_public_account": "सार्वजनिक संख्या"
+}

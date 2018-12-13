@@ -1,0 +1,1289 @@
+{
+  "about_us": "私たちについて",
+  "account": "口座番号",
+  "add": "追加",
+  "add_a_new_eth_wallet": "1つ追加する GTB 1つ追加する",
+  "add_contact": "連絡先を追加",
+  "add_contacts_successful": "連絡先を追加する",
+  "add_new_token": "新しいアセットを追加する",
+  "add_new_wallet": "新しいウォレットを追加する",
+  "address": "住所",
+  "album": "フォトアルバム",
+  "algorithm": "アルゴリズム",
+  "amount": "量",
+  "app_name": "GTB Wallet",
+  "asset_name": "アセット名",
+  "assets": "資産",
+  "auto_translate": "自動翻訳：",
+  "available_credit": "利用可能なクレジット：",
+  "backup_keystore": "バックアップする Keystore",
+  "backup_private_key_tip_1": "オフラインで保存",
+  "backup_private_key_tip_2": "秘密鍵をコピーまたは印刷して安全な場所に保管することをお勧めします.",
+  "backup_private_key_tip_3": "ネットワーク伝送を使用しない",
+  "backup_private_key_tip_4": "Webツール経由で秘密鍵を送信しない,Webツール経由で秘密鍵を送信しない.Webツール経由で秘密鍵を送信しない.",
+  "backup_private_key_title": "バックアップ秘密鍵",
+  "balance_24h": "バランス24H",
+  "basic_info": "基本情報",
+  "beneficiary": "受益者",
+  "bind": "バインディング",
+  "bind_email": "メールボックスをバインドする",
+  "birthday": "お誕生日",
+  "block_number": "ブロック番号",
+  "can_not_transfer_to_myself": "アセットを自分に転送することはできません",
+  "cancel": "キャンセル",
+  "change": "変更",
+  "change_24h": "24Hを変更",
+  "change_email_hint": "メールアドレスを変更した場合,メールアドレスを変更した場合.",
+  "change_name": "ユーザー名を変更する",
+  "change_password": "パスワードを変更する",
+  "change_pwd": "パスワードを変更する",
+  "check_again": "それをチェックする",
+  "check_update": "アップデートを確認する",
+  "choose_country": "国または地域を選択",
+  "choose_eth_wallet": "1つを選択 GTB 1つを選択",
+  "choose_token": "トークンを選択",
+  "close": "クローズド",
+  "complete": "完了",
+  "confirm_to_delete_contact": "連絡先を削除してください",
+  "confirm_to_top_up": "再充電を確認する",
+  "confirm_to_transfer": "転送を確認する",
+  "contact_detail": "連絡先",
+  "contact_number": "連絡先",
+  "contacts": "連絡先",
+  "copy": "重複",
+  "copy_address_success": "既にコピーされた住所",
+  "copy_success": "すでにコピーされている!",
+  "copy_wallet_address": "ウォレットの住所をコピーする",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "アンドラ"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "アラブ首長国連邦"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "アフガニスタン"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "アンティグアバーブーダ"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "アンギラ"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "アルバニア"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "アルメニア"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "オランダ領アンティル諸島"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "アンゴラ"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "アルゼンチン"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "オーストリア"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "オーストラリア"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "アルバ"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "アゼルバイジャン"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "ボスニア・ヘルツェゴビナ"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "バルバドス"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "バングラデシュ"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "ベルギー"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "ブルキナファソ"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "ブルガリア"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "バーレーン"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "ブルンジ"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "ベニン"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "バミューダ"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "ブルネイダルサラーム"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "ボリビア"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "ブラジル"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "バハマ"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "ブータン"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "ボツワナ"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "ベラルーシ"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "ベリーズ"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "カナダ人"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "コンゴ（コンゴ）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "中央アフリカ共和国"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "コンゴ（コンゴ）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "スイス"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "クック諸島"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "チリ"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "カメルーン"
+    },
+    "CN": {
+      "currency_name": "人民元",
+      "sort": "ZHONG GUO",
+      "value": "中国"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "コロンビア"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "コスタリカ"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "キューバ"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kavverd"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "キプロス"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "チェコ共和国"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "ドイツ"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "ジブチ"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "デンマーク"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "ドミニク"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "ドミニカ共和国"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "アルジェリア"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "エクアドル"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "エストニア"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "エジプト"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "スペイン語"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "エチオピア"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "フィンランド語"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "フィジー"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "ミクロネシア"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "フェロー諸島"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "フランス語"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "ガボン"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "イギリス"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "グレナダ"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "ジョージア州"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "フランス領ギアナ"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "ガーンジー島"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "ガーナー"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "ジブラルタル"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "グリーンランド"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "ガンビア"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "ギニア"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "グアドループ"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "赤道ギニア"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "ギリシャ"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "グアテマラ"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "グアム"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "ギニアビサウ"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "ガイアナ"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "香港"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "ホンジュラス"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "クロアチア"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "ハイチ"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "ハンガリー"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "インドネシア"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "アイルランド共和国"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "イスラエル"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "マン島"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "インド"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "イラク"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "イラン"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "アイスランド"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "イタリア"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "ジャージー"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "ジャマイカ"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "ヨルダン"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "日本"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "ケニア"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "キルギス"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "カンボジア"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "キリバス"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "コモロ"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "セントクリストファー・ネイビス"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "北朝鮮"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "韓国"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "クウェート"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "ケイマン諸島"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "カザフスタン"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "ラオス"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "レバノン語"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "セントルシア"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "リヒテンシュタイン"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "スリランカ"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "リベリア"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "レソト"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "リトアニア"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "ルクセンブルク"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "ラトビア"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "リビア"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "モロッコ"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "モナコ"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "モルドバ"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "モンテネグロ"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "サンマルタン（サンマルタン）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "マダガスカル"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "マケドニア"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "マリ"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "ビルマ"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "モンゴル"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "マカオ"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "北マリアナ諸島"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "マルティニーク島"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "モーリタニア"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "モントセラト"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "マルタ"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "モーリシャス"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "モルディブ"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "マラウイ"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "メキシコ人"
+    },
+    "MY": {
+      "currency_name": "マレーシア通貨（マレーシア通貨）",
+      "sort": "MA LAI XI YA",
+      "value": "マレーシア"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "モザンビーク"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "ナミビア"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "ニューカレドニア"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "ニジェール"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "ノーフォーク島"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "ナイジェリア"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "ニカラグア"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "オランダ"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "ノルウェー語"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "ネパール"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "ナウル"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "ニュージーランド"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "オマーン"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "パナマ"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "ペルー"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "フランス領ポリネシア"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "パプアニューギニア"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "フィリピン"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "パキスタン"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "ポーランド"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "プエルトリコ"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "パレスチナの状態"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "ポルトガル"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "パラオ"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "パラグアイ"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "カタール"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "レユニオン"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "ルーマニア"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "セルビア"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "ロシア"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "ルワンダ"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "サウジアラビア"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "セイシェル"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "スルタン"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "スウェーデン"
+    },
+    "SG": {
+      "currency_name": "シンガポールドル",
+      "sort": "XIN JIA PO",
+      "value": "シンガポール"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "セントヘレナ,セントヘレナ"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "スロベニア"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "スロバキア"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "シエラレオネ"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "サンマリノ（サンマリノ）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "セネガル"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "スリナム"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "エルサルバドル"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "シリア"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "スワジランド"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "タークスカイコス諸島"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "チャド"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "トーゴ"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "タイ語"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "タジキスタン"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "東チモール"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "トルクメニスタン"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "チュニジア"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "トンガ"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "トルコ"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "トリニダードトバゴ"
+    },
+    "TW": {
+      "currency_name": "台湾ドル",
+      "sort": "TAI WAN",
+      "value": "台湾"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "タンザニア"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "ウクライナ"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "ウガンダ"
+    },
+    "US": {
+      "currency_name": "米ドル",
+      "sort": "MEI GUO",
+      "value": "アメリカ合衆国"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "ウルグアイ"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "ウズベキスタン"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "セントビンセントとグレナディーン"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "ベネズエラ"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "英領ヴァージン諸島"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "バージン諸島（バージン諸島）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "ベトナム"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "バヌアツ"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "サモア"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "イエメン共和国"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "マヨット"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "南アフリカ"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "ザンビア"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "ジンバブエ"
+    }
+  },
+  "create_again": "再生成する",
+  "create_eos_wallet": "生成されたEOS生成された",
+  "create_time": "日付を作成します",
+  "create_wallet": "ウォレットを作成",
+  "currency": {
+    "AED": "アラブ首長国連邦ディルハム",
+    "AUD": "オーストラリアドル",
+    "CNY": "人民元",
+    "EUR": "ユーロ",
+    "GBP": "GBP",
+    "HKD": "香港ドル",
+    "IDR": "インドネシアルピー",
+    "INR": "インドルピー",
+    "JPY": "円",
+    "KRW": "韓国ウォン",
+    "MYR": "マレーシアリンギ",
+    "PHP": "フィリピンペソ",
+    "SAR": "サウジリヤル",
+    "SGD": "シンガポールドル",
+    "THB": "タイバーツ",
+    "USD": "米ドル",
+    "VND": "ベトナムドン"
+  },
+  "currency_setting_title": "通貨単位の設定",
+  "current_password": "現在のパスワード",
+  "current_password_error": "現在のパスワードが間違っています",
+  "current_version": "現在のバージョン {}",
+  "date": "日付",
+  "day": "日",
+  "delete": "削除する",
+  "delete_wallet": "ウォレットを削除",
+  "details": "詳細",
+  "do_not_take_screenshots": "スクリーンショットを撮ってはいけない",
+  "email": "Eメール",
+  "email_address": "メールアドレス",
+  "email_format_error": "メールアドレスを入力してください",
+  "empty_data": "データなし",
+  "eos_entrance": "EOS 生態学的玄関",
+  "eos_key_save_tip_2": "公開鍵と秘密鍵を適切に保管してください：",
+  "eos_key_save_tip_3": ".コピーまたはプリントして安全な場所に置くことをお勧めします.",
+  "eos_key_save_tip_4": ".ネットワーク送信秘密鍵を使用することは推奨されません,ネットワーク送信秘密鍵を使用することは推奨されません.",
+  "eos_mapping_open_source": "EOS マッピング",
+  "eos_mapping_submit_contract": "契約を提出する",
+  "eos_mapping_submit_title": "マッピング契約を提出する",
+  "eos_mapping_success_title": "EOS マッピング",
+  "eos_mapping_tip_title": "EOS マッピング",
+  "eos_mapping_title": "EOS マッピング",
+  "eos_mapping_verify": "検証マップ",
+  "eos_mapping_verify_title": "検証マップ",
+  "eos_mapping_wallet": "EOS マッピングツール",
+  "eos_not_mapping_tip": "あなたの EOS あなたの.",
+  "eos_private_key": "秘密鍵 Private Key",
+  "eos_private_key_tip_1": "誰かが秘密鍵を取得した場合は、資産を直接取得します！誰かが秘密鍵を取得した場合は、資産を直接取得します.",
+  "eos_public_key": "公開鍵 Public Key",
+  "eos_public_key_1": "EOS ウォレットの公開鍵(Public key)",
+  "eos_public_key_for_return": "返された EOS 返された：",
+  "eos_wallet_mapping_description": "\"マッピング\"マッピング EOSマッピング EOS マッピング.マッピング EOSマッピング.GTB Wallet マッピング EOS マッピング.",
+  "eth_address_for_mapping": "マップされた GTB マップされた：",
+  "eth_private_key_tip_1": "誰かが秘密鍵を取得した場合は、資産を直接取得します！誰かが秘密鍵を取得した場合は、資産を直接取得します.",
+  "eth_wallet": "GTB ウォレット",
+  "eth_wallet_add_title": "ウォレットを追加",
+  "eth_wallet_address": "GTB ウォレットの住所",
+  "eth_wallet_keystore_can_not_be_null": "ウォレット Keystore ウォレット",
+  "eth_wallet_name_can_not_be_null": "ウォレット名は空欄にできません",
+  "eth_wallet_password_can_not_be_null": "パスワードを空にすることはできません",
+  "eth_wallet_private_key_can_not_be_null": "ウォレットのプライベートキーを空にすることはできません",
+  "eth_wallet_seed_phrase_can_not_be_null": "ウォレットニーモニックは空にできません",
+  "exchange": "交換",
+  "export_keystore": "輸出 Keystore",
+  "export_private_key": "秘密鍵のエクスポート",
+  "failed_to_get_permission": "許可を得ることができませんでした",
+  "failed_to_save_photo": "画像を保存できませんでした",
+  "failed_to_transfer": "転送に失敗しました",
+  "feedback": "フィードバック",
+  "find_password": "パスワードを回復する",
+  "finish_operation": "完了",
+  "first_name": "ファーストネーム",
+  "forgot_password": "パスワードを忘れた",
+  "forgot_password_hint": "登録された携帯電話番号でパスワードを取得できます.",
+  "github_open_source_address": "Github オープンソースアドレス",
+  "good_saved": "保存された",
+  "gtbwallet_term_title_1": "サービス＆プライバシーポリシー",
+  "gtbwallet_term_title_2": "私は注意深く読んで同意した {}",
+  "gtt_redeem_code": "GTT交換コード",
+  "gtt_top_up_title": "GTT充電",
+  "have_new_version": "新しいバージョンがあります{}",
+  "hour": "時間",
+  "i_know": "私は知っている",
+  "import": "インポート",
+  "import_other_eth_wallet": "その他のインポート GTB その他のインポート",
+  "import_wallet": "ウォレットをインポートする",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "秘密鍵",
+  "import_wallet_by_seed_phrase": "ニーモニック",
+  "import_wallet_title": "インポート GTB インポート",
+  "insured": "被保険者",
+  "introduction": "紹介",
+  "invalid_eth_wallet_address": "認識のみ GTB 認識のみ",
+  "invalid_eth_wallet_private_key": "ウォレットの秘密鍵の形式が間違っています",
+  "invalid_qr_code": "認識されないQRコード",
+  "invalid_seed_phrase": "ニーモニックの形式が間違っています",
+  "is_newest_version": "すでに最新バージョン",
+  "k_line": "Kライン",
+  "keystore_input_placeholder": "Ethereum Walletに直接コピー＆ペーストする Keystore Ethereum Walletに直接コピー＆ペーストする.",
+  "keystore_password": "Keystore パスワード",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "中国語",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "日本語",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "繁体字中国語",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "第一言語 \"{}\" ?",
+  "language_second": "第二言語 \"{}\" ?",
+  "language_setting_title": "言語設定",
+  "last_name": "姓",
+  "loading": "読み込み中",
+  "login": "ログイン",
+  "login_failed": "ログインに失敗しました,ログインに失敗しました",
+  "login_with_exist_account": "既存のアカウントにログインする",
+  "logout": "サインアウト",
+  "mailbox": "メールボックス",
+  "main_page_menu": {
+    "receive_money": "領収書",
+    "scan": "掃引",
+    "transaction_history": "取引履歴",
+    "transfer": "転送"
+  },
+  "main_tab": {
+    "gtbwallet": "資産",
+    "mine": "私",
+    "news": "情報"
+  },
+  "main_tab_token_price": "引用",
+  "make_sure_again": "再確認",
+  "make_sure_again_for_eos_private_key": "GTB Wallet あなたのものをアップロードしません EOS あなたのものをアップロードしません,あなたのものをアップロードしません,あなたのものをアップロードしません.",
+  "manager_wallet": "ウォレットを管理する",
+  "mapping_contract": "マッピング契約",
+  "mapping_not": "マップされていない",
+  "mapping_now": "今すぐマップする",
+  "mapping_status": "マッピング状態",
+  "mapping_success": "マップされた",
+  "market": "市場",
+  "market_value_title": "市場価値",
+  "max_supply": "最大供給",
+  "member_name": "名前",
+  "member_title": "タイトル",
+  "mine": "私",
+  "miner_fee": "鉱夫の手数料:",
+  "minute": "分",
+  "mobile_number": "携帯電話番号",
+  "mobile_or_email": "携帯電話/携帯電話",
+  "modify_success": "変更に成功しました",
+  "multi_language": "多言語",
+  "my_eth_wallet": "私 GTB 私",
+  "newest": "最新{}",
+  "news_title": "情報",
+  "news_type_title": {
+    "gtbwallet_self": "アラート",
+    "twitter": "Twitter",
+    "wechat": "公衆番号",
+    "weibo": "ウェイボ"
+  },
+  "next_step": "次のステップ",
+  "no_binding": "アンバウンド",
+  "no_internet": "インターネット接続なし",
+  "not_login_account": "ログインしていません",
+  "not_set": "設定されていない",
+  "notification_page_title": "お知らせ",
+  "official_website": "公式サイト",
+  "ok": "OK",
+  "operate_failed": "操作が失敗しました,操作が失敗しました",
+  "order_confirm": "注文の確認",
+  "order_number": "注文番号",
+  "password": "パスワード",
+  "password2": "パスワードを繰り返します",
+  "password_format_hint": "パスワードの長さは8-16パスワードの長さは,パスワードの長さは、パスワードの長さは,パスワードの長さは.",
+  "password_is_not_same": "パスワードは同じではありません",
+  "password_modify_success": "変更に成功しました, 変更に成功しました",
+  "password_old": "古いパスワード",
+  "password_tip_hint": "パスワードヒント情報（パスワードヒント情報）",
+  "password_verify": "パスワードを確認する",
+  "phone_number": "電話番号",
+  "please_agree_gtbwallet_term": "サービスとプライバシーポリシーに同意してください",
+  "please_inpput_address": "領収書のアドレスを入力してください",
+  "please_inpput_first_name": "名前を入力してください",
+  "please_inpput_lase_name": "姓を入力してください",
+  "please_inpput_valide_address": "有効な領収書アドレスを入力してください",
+  "please_input_amount": "金額を入力してください",
+  "please_input_gtt_code": "GTT交換コードを入力してください",
+  "please_input_private_key": "平文の秘密鍵を入力してください.",
+  "please_input_receiver_address": "受取人の住所を入力してください",
+  "please_input_seed_phrase": "ニーモニックを入力してください,ニーモニックを入力してください.",
+  "please_input_verify_password": "確認用のパスワードを入力してください",
+  "please_input_wallet_password": "ウォレットのパスワードを入力してください",
+  "please_set_password_hint": "パスワードのヒントを設定する",
+  "please_set_password_tip": "パスワード保護ウォレットを設定してください",
+  "please_set_wallet_name": "ウォレット名を設定してください",
+  "pls_input_account": "あなたのアカウント番号を入力してください",
+  "pls_input_image_verify_code": "グラフィック認証コードを入力してください",
+  "pls_input_phone": "電話番号を入力してください",
+  "pls_input_pwd": "パスワードを入力してください",
+  "pls_input_token": "確認コードを入力してください",
+  "policy_amount": "方針額：",
+  "policy_details": "保单详情",
+  "policy_list": "ポリシーリスト",
+  "price": "価格",
+  "price_title": "価格",
+  "privacy": "プライバシーポリシー",
+  "profile": "個人データ",
+  "progress_link": "進行中のリンク",
+  "proof": "証明",
+  "push_setting_title": "メッセージプッシュ",
+  "qr_code_title": "コレクションコード",
+  "qr_scan_title": "掃引",
+  "qr_share_tip_1": "長押しのQRコード",
+  "qr_share_tip_2": "取得する EOS 取得する",
+  "quickly": "速い",
+  "quit_app": "Quit",
+  "receive": "領収書",
+  "receiver_address": "領収書アドレス",
+  "receiver_wallet_address": "領収書ウォレットアドレス",
+  "recommend_gtbwallet": "おすすめGTB Wallet",
+  "recommend_to_friends": "おすすめ GTB Wallet おすすめ",
+  "register": "登録",
+  "register_failed": "登録に失敗しました,登録に失敗しました",
+  "register_hint": "GTB Wallet 現在、中国本土での携帯電話番号の登録のみをサポートしています.",
+  "register_mean_agree": "登録が合意されました",
+  "register_new_account": "新しいアカウントを登録する",
+  "release": "リリース",
+  "remark": "ノート",
+  "repeat_password": "パスワードを繰り返します",
+  "repeat_password_error": "同じパスワードを再入力してください",
+  "request_failed": "リクエストが失敗しました,リクエストが失敗しました",
+  "request_permission": "許可を申請する",
+  "request_permission_album": "あなたのアルバムに写真を保存したい",
+  "resend": "再送信する",
+  "resend_count_down": "再送信する({})",
+  "road_map": "ロードマップ",
+  "save_keystore_tip_1": "コピー＆ペーストしてください Keystore コピー＆ペーストしてください、コピー＆ペーストしてください.コピー＆ペーストしてください、コピー＆ペーストしてください、コピー＆ペーストしてください、コピー＆ペーストしてください,コピー＆ペーストしてください.",
+  "save_keystore_tip_2": "ネットワーク伝送を使用しない",
+  "save_keystore_tip_3": "ウェブツール経由で転送しない Keystore ウェブツール経由で転送しない,ウェブツール経由で転送しない.",
+  "save_keystore_tip_4": "パスワードセーフデポジット",
+  "save_keystore_tip_5": "オンラインで保存する必要がある場合,オンラインで保存する必要がある場合 1Password オンラインで保存する必要がある場合 Keystore.",
+  "save_offline": "オフラインで保存",
+  "scan": "掃引",
+  "scan_download_app": "スキャンQRコードのダウンロード App",
+  "scan_qr_to_pay": "QRコードをスキャンして私に支払う",
+  "search": "検索",
+  "select": "選択",
+  "select_qr_code": "QRコードを選択",
+  "sender_address": "支払い先住所",
+  "sent_verify_code_hint": "私たちは {} 私たちは 4 私たちは,私たちは.",
+  "set_new_password": "新しいパスワードを設定する",
+  "set_password": "パスワードを設定する",
+  "set_password_hint": "あなたのアカウントのセキュリティ,あなたのアカウントのセキュリティ 8-16 あなたのアカウントのセキュリティ,あなたのアカウントのセキュリティ.",
+  "share": "共有",
+  "share_bull": "よく分かち合う",
+  "share_read_more": "ダウンロード GTB Wallet ダウンロード",
+  "share_title": "共有",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "友達のサークル",
+    "weibo": "ウェイボ"
+  },
+  "slow": "遅い",
+  "start_create": "生成を開始する",
+  "start_time": "開始日",
+  "submit": "提出する",
+  "success_to_change_wallet_password": "パスワードを変更しました",
+  "success_to_delete_contact": "連絡先を削除しました",
+  "success_to_delete_wallet": "ウォレットを削除しました",
+  "success_to_save_photo": "画像を正常に保存",
+  "success_to_submit_order": "注文を正常に送信",
+  "success_to_transfer": "成功した取引",
+  "system_settings": "システム設定",
+  "team": "チーム",
+  "this_is_my_eth_wallet": "これは私です GTB これは私です",
+  "time_title": "日付",
+  "title": "タイトル",
+  "token_list_title": "新しいアセットを追加する",
+  "top_up_gtt_success": "再充電GTTの成功",
+  "total_balance": "総資産 {}",
+  "total_supply": "総供給",
+  "trade_pair": "トレードペア",
+  "transaction_amount": "振込額",
+  "transaction_amount_1": "振込額,振込額 {} {}",
+  "transaction_detail": "取引の詳細",
+  "transaction_hash": "取引番号",
+  "transaction_history": "取引履歴",
+  "transaction_list_title": "取引リスト",
+  "transaction_time": "取引時間",
+  "transaction_tip": "転送が成功し、最小量に達した後,転送が成功し、最小量に達した後",
+  "transfer": "転送",
+  "transfer_amount": "お支払い金額:",
+  "transfer_progress_title": "転送の進行状況",
+  "transfer_success": "パッケージングのためにブロックチェーンに転送されました",
+  "transfer_title": "転送",
+  "unbind": "アンバインド",
+  "unlock": "ロックを解除する",
+  "unlock_list": "ロック解除リスト",
+  "unverified": "未確認",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "利用規約",
+  "user_name": "ユーザー名",
+  "user_name_exist": "ニックネームが使用されました",
+  "validity_period": "有効期間",
+  "verify": "検証",
+  "verify_code": "確認コード",
+  "verify_email_hint": "このメールは確認されていません,このメールは確認されていません.",
+  "verify_email_resent": "確認メールを再送信",
+  "verify_password": "パスワードを確認する",
+  "verify_phone": "お使いの携帯電話を確認する",
+  "verify_success": "検証の成功！",
+  "verify_wallet_password": "パスワードを確認する",
+  "version_check": "Version Upgrade",
+  "view_more": "もっと見る",
+  "view_progress": "進捗状況を確認する",
+  "view_progress_1": "進捗状況を確認する：",
+  "volume_24h": "巻24H",
+  "wait_to_confirm_transaction": "保留中の注文",
+  "waiting_time_for_transaction": "待っていた {} 待っていた",
+  "wallet_address": "ウォレットの住所",
+  "wallet_already_exist": "アカウントは既に存在します",
+  "wallet_change_password": "パスワードを変更する",
+  "wallet_delete": "ウォレットを削除",
+  "wallet_edit_title": "ウォレットを編集する",
+  "wallet_import": "ウォレットをインポートする",
+  "wallet_manager_title": "ウォレットを管理する",
+  "wallet_name": "ウォレット名",
+  "wallet_name_change_title": "ウォレット名を変更する",
+  "wallet_name_format_1": "新しい財布",
+  "wallet_name_format_2": "新しい財布-{}",
+  "wallet_password": "ウォレットのパスワード",
+  "wallet_password_change_title": "ウォレットのパスワードを変更する",
+  "wallet_seed_phrase_show_title": "ウォレットニーモニック",
+  "wallet_seed_phrase_tip_1": "誰かが財布をニーモニックにすると、資産を直接手に入れることができます！誰かが財布をニーモニックにすると、資産を直接手に入れることができます.",
+  "warranty": "保証",
+  "website_title": "ウェブサイト",
+  "website_title_fangwei": "GTブロックチェーンアンチフェアード",
+  "wechat_public_account": "公衆番号"
+}

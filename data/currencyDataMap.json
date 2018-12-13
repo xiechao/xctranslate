@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "symbol": "S$",
+    "code": "SGD"
+  },
+  {
+    "id": 2,
+    "symbol": "$",
+    "code": "USD"
+  },
+  {
+    "id": 3,
+    "symbol": "￥",
+    "code": "CNY"
+  },
+  {
+    "id": 4,
+    "symbol": "RM",
+    "code": "MYR"
+  },
+  {
+    "id": 5,
+    "symbol": "€",
+    "code": "EUR"
+  },
+  {
+    "id": 6,
+    "symbol": "฿",
+    "code": "THB"
+  },
+  {
+    "id": 7,
+    "symbol": "₱",
+    "code": "PHP"
+  },
+  {
+    "id": 8,
+    "symbol": "£",
+    "code": "GBP"
+  },
+  {
+    "id": 9,
+    "symbol": "₹",
+    "code": "INR"
+  },
+  {
+    "id": 10,
+    "symbol": "$",
+    "code": "AUD"
+  },
+  {
+    "id": 11,
+    "symbol": "¥",
+    "code": "JPY"
+  },
+  {
+    "id": 12,
+    "symbol": "Rp",
+    "code": "IDR"
+  },
+  {
+    "id": 13,
+    "symbol": "HK$",
+    "code": "HKD"
+  },
+  {
+    "id": 14,
+    "symbol": "₩",
+    "code": "KRW"
+  }
+]

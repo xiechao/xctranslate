@@ -1,0 +1,1289 @@
+{
+  "about_us": "About",
+  "account": "Account",
+  "add": "Add",
+  "add_a_new_eth_wallet": "Add a GTB Wallet",
+  "add_contact": "Add Contact",
+  "add_contacts_successful": "Add contacts successful",
+  "add_new_token": "Add new token",
+  "add_new_wallet": "Add new wallet",
+  "address": "Address",
+  "album": "Album",
+  "algorithm": "Algorithm",
+  "amount": "Amount",
+  "app_name": "GTB Wallet",
+  "asset_name": "Asset Name",
+  "assets": "Assets",
+  "auto_translate": "Auto translation:",
+  "available_credit": "Available credits:",
+  "backup_keystore": "Backup Keystore",
+  "backup_private_key_tip_1": "Save offline",
+  "backup_private_key_tip_2": "It is recommended to copy or print the private key and store it in a safe place.",
+  "backup_private_key_tip_3": "Keep offline",
+  "backup_private_key_tip_4": "Do not transmit private keys through web tools, such as sending them to your computer via WeChat. Once acquired by hackers will cause irreparable loss of assets.",
+  "backup_private_key_title": "Backup private key",
+  "balance_24h": "Balance 24H",
+  "basic_info": "Basic Info",
+  "beneficiary": "Beneficiary",
+  "bind": "Binding",
+  "bind_email": "Bind mailbox",
+  "birthday": "Birthday",
+  "block_number": "Block Number",
+  "can_not_transfer_to_myself": "You can't transfer asset to yourself",
+  "cancel": "Cancel",
+  "change": "Change",
+  "change_24h": "Change 24H",
+  "change_email_hint": "If you change your email address, you need to re-verify the email address.",
+  "change_name": "Change username",
+  "change_password": "Change password",
+  "change_pwd": "Change Password",
+  "check_again": "Check again",
+  "check_update": "Check for updates",
+  "choose_country": "Region",
+  "choose_eth_wallet": "Choose an GTB wallet",
+  "choose_token": "Choose a token",
+  "close": "Close",
+  "complete": "Done",
+  "confirm_to_delete_contact": "Make sure to delete the contact",
+  "confirm_to_top_up": "Confirm recharge",
+  "confirm_to_transfer": "Confirm",
+  "contact_detail": "Contact",
+  "contact_number": "Contact number",
+  "contacts": "Contacts",
+  "copy": "Copy",
+  "copy_address_success": "Copy address success",
+  "copy_success": "Already copied!",
+  "copy_wallet_address": "Copy wallet address",
+  "country": {
+    "AD": {
+      "sort": "",
+      "value": "Andorra"
+    },
+    "AE": {
+      "sort": "",
+      "value": "United Arab Emirates"
+    },
+    "AF": {
+      "sort": "",
+      "value": "Afghanistan"
+    },
+    "AG": {
+      "sort": "",
+      "value": "Antigua and Barbuda"
+    },
+    "AI": {
+      "sort": "",
+      "value": "Anguilla"
+    },
+    "AL": {
+      "sort": "",
+      "value": "Albania"
+    },
+    "AM": {
+      "sort": "",
+      "value": "Armenia"
+    },
+    "AN": {
+      "sort": "",
+      "value": "Netherlands Antilles"
+    },
+    "AO": {
+      "sort": "",
+      "value": "Angola"
+    },
+    "AR": {
+      "sort": "",
+      "value": "Argentina"
+    },
+    "AT": {
+      "sort": "",
+      "value": "Austria"
+    },
+    "AU": {
+      "sort": "",
+      "value": "Australia"
+    },
+    "AW": {
+      "sort": "",
+      "value": "Aruba"
+    },
+    "AZ": {
+      "sort": "",
+      "value": "Azerbaijan"
+    },
+    "BA": {
+      "sort": "",
+      "value": "Bosnia Herzegovina"
+    },
+    "BB": {
+      "sort": "",
+      "value": "Barbados"
+    },
+    "BD": {
+      "sort": "",
+      "value": "Bangladesh"
+    },
+    "BE": {
+      "sort": "",
+      "value": "Belgium"
+    },
+    "BF": {
+      "sort": "",
+      "value": "Burkina Faso"
+    },
+    "BG": {
+      "sort": "",
+      "value": "Bulgaria"
+    },
+    "BH": {
+      "sort": "",
+      "value": "Bahrain"
+    },
+    "BI": {
+      "sort": "",
+      "value": "Burundi"
+    },
+    "BJ": {
+      "sort": "",
+      "value": "Benin"
+    },
+    "BM": {
+      "sort": "",
+      "value": "Bermuda"
+    },
+    "BN": {
+      "sort": "",
+      "value": "Brunei Darussalam"
+    },
+    "BO": {
+      "sort": "",
+      "value": "Bolivia"
+    },
+    "BR": {
+      "sort": "",
+      "value": "Brazil"
+    },
+    "BS": {
+      "sort": "",
+      "value": "Bahamas"
+    },
+    "BT": {
+      "sort": "",
+      "value": "Bhutan"
+    },
+    "BW": {
+      "sort": "",
+      "value": "Botswana"
+    },
+    "BY": {
+      "sort": "",
+      "value": "Belarus"
+    },
+    "BZ": {
+      "sort": "",
+      "value": "Belize"
+    },
+    "CA": {
+      "sort": "",
+      "value": "Canada"
+    },
+    "CD": {
+      "sort": "",
+      "value": "Congo (Democratic Republic)"
+    },
+    "CF": {
+      "sort": "",
+      "value": "Central African Republic"
+    },
+    "CG": {
+      "sort": "",
+      "value": "Congo (Republic of)"
+    },
+    "CH": {
+      "sort": "",
+      "value": "Switzerland"
+    },
+    "CK": {
+      "sort": "",
+      "value": "Cook Islands"
+    },
+    "CL": {
+      "sort": "",
+      "value": "Chile"
+    },
+    "CM": {
+      "sort": "",
+      "value": "Cameroon"
+    },
+    "CN": {
+      "currency_name": "Chinese Yuan",
+      "sort": "",
+      "value": "China"
+    },
+    "CO": {
+      "sort": "",
+      "value": "Colombia"
+    },
+    "CR": {
+      "sort": "",
+      "value": "Costa Rica"
+    },
+    "CU": {
+      "sort": "",
+      "value": "Cuba"
+    },
+    "CV": {
+      "sort": "",
+      "value": "Cabo Verde"
+    },
+    "CY": {
+      "sort": "",
+      "value": "Cyprus"
+    },
+    "CZ": {
+      "sort": "",
+      "value": "Czech Republic"
+    },
+    "DE": {
+      "sort": "",
+      "value": "Germany"
+    },
+    "DJ": {
+      "sort": "",
+      "value": "Djibouti"
+    },
+    "DK": {
+      "sort": "",
+      "value": "Denmark"
+    },
+    "DM": {
+      "sort": "",
+      "value": "Dominica"
+    },
+    "DO": {
+      "sort": "",
+      "value": "Dominican Republic"
+    },
+    "DZ": {
+      "sort": "",
+      "value": "Algeria"
+    },
+    "EC": {
+      "sort": "",
+      "value": "Ecuador"
+    },
+    "EE": {
+      "sort": "",
+      "value": "Estonia"
+    },
+    "EG": {
+      "sort": "",
+      "value": "Egypt"
+    },
+    "ES": {
+      "sort": "",
+      "value": "Spain"
+    },
+    "ET": {
+      "sort": "",
+      "value": "Ethiopia"
+    },
+    "FI": {
+      "sort": "",
+      "value": "Finland"
+    },
+    "FJ": {
+      "sort": "",
+      "value": "Fiji"
+    },
+    "FM": {
+      "sort": "",
+      "value": "Micronesia"
+    },
+    "FO": {
+      "sort": "",
+      "value": "Faroe Islands"
+    },
+    "FR": {
+      "sort": "",
+      "value": "France"
+    },
+    "GA": {
+      "sort": "",
+      "value": "Gabon"
+    },
+    "GB": {
+      "sort": "",
+      "value": "United Kingdom"
+    },
+    "GD": {
+      "sort": "",
+      "value": "Grenada"
+    },
+    "GE": {
+      "sort": "",
+      "value": "Georgia"
+    },
+    "GF": {
+      "sort": "",
+      "value": "French Guiana"
+    },
+    "GG": {
+      "sort": "",
+      "value": "Guernsey"
+    },
+    "GH": {
+      "sort": "",
+      "value": "Ghana"
+    },
+    "GI": {
+      "sort": "",
+      "value": "Gibraltar"
+    },
+    "GL": {
+      "sort": "",
+      "value": "Greenland"
+    },
+    "GM": {
+      "sort": "",
+      "value": "Gambia"
+    },
+    "GN": {
+      "sort": "",
+      "value": "Guinea"
+    },
+    "GP": {
+      "sort": "",
+      "value": "Guadeloupe"
+    },
+    "GQ": {
+      "sort": "",
+      "value": "Equatorial Guinea"
+    },
+    "GR": {
+      "sort": "",
+      "value": "Greece"
+    },
+    "GT": {
+      "sort": "",
+      "value": "Guatemala"
+    },
+    "GU": {
+      "sort": "",
+      "value": "Guam"
+    },
+    "GW": {
+      "sort": "",
+      "value": "Guinea-Bissau"
+    },
+    "GY": {
+      "sort": "",
+      "value": "Guyana"
+    },
+    "HK": {
+      "sort": "",
+      "value": "Hong Kong"
+    },
+    "HN": {
+      "sort": "",
+      "value": "Honduras"
+    },
+    "HR": {
+      "sort": "",
+      "value": "Croatia"
+    },
+    "HT": {
+      "sort": "",
+      "value": "Haiti"
+    },
+    "HU": {
+      "sort": "",
+      "value": "Hungary"
+    },
+    "ID": {
+      "sort": "",
+      "value": "Indonesia"
+    },
+    "IE": {
+      "sort": "",
+      "value": "Ireland (Republic of)"
+    },
+    "IL": {
+      "sort": "",
+      "value": "Israel"
+    },
+    "IM": {
+      "sort": "",
+      "value": "Isle of Man"
+    },
+    "IN": {
+      "sort": "",
+      "value": "India"
+    },
+    "IQ": {
+      "sort": "",
+      "value": "Iraq"
+    },
+    "IR": {
+      "sort": "",
+      "value": "Iran"
+    },
+    "IS": {
+      "sort": "",
+      "value": "Iceland"
+    },
+    "IT": {
+      "sort": "",
+      "value": "Italy"
+    },
+    "JE": {
+      "sort": "",
+      "value": "Jersey"
+    },
+    "JM": {
+      "sort": "",
+      "value": "Jamaica"
+    },
+    "JO": {
+      "sort": "",
+      "value": "Jordan"
+    },
+    "JP": {
+      "sort": "",
+      "value": "Japan"
+    },
+    "KE": {
+      "sort": "",
+      "value": "Kenya"
+    },
+    "KG": {
+      "sort": "",
+      "value": "Kyrgyzstan"
+    },
+    "KH": {
+      "sort": "",
+      "value": "Cambodia"
+    },
+    "KI": {
+      "sort": "",
+      "value": "Kiribati"
+    },
+    "KM": {
+      "sort": "",
+      "value": "Comoros"
+    },
+    "KN": {
+      "sort": "",
+      "value": "Saint Kitts and Nevis"
+    },
+    "KP": {
+      "sort": "",
+      "value": "North Korea"
+    },
+    "KR": {
+      "sort": "",
+      "value": "South Korea"
+    },
+    "KW": {
+      "sort": "",
+      "value": "Kuwait"
+    },
+    "KY": {
+      "sort": "",
+      "value": "Cayman Islands"
+    },
+    "KZ": {
+      "sort": "",
+      "value": "Kazakhstan"
+    },
+    "LA": {
+      "sort": "",
+      "value": "Laos"
+    },
+    "LB": {
+      "sort": "",
+      "value": "Lebanon"
+    },
+    "LC": {
+      "sort": "",
+      "value": "Saint Lucia"
+    },
+    "LI": {
+      "sort": "",
+      "value": "Liechtenstein"
+    },
+    "LK": {
+      "sort": "",
+      "value": "Sri Lanka"
+    },
+    "LR": {
+      "sort": "",
+      "value": "Liberia"
+    },
+    "LS": {
+      "sort": "",
+      "value": "Lesotho"
+    },
+    "LT": {
+      "sort": "",
+      "value": "Lithuania"
+    },
+    "LU": {
+      "sort": "",
+      "value": "Luxembourg"
+    },
+    "LV": {
+      "sort": "",
+      "value": "Latvia"
+    },
+    "LY": {
+      "sort": "",
+      "value": "Libya"
+    },
+    "MA": {
+      "sort": "",
+      "value": "Morocco"
+    },
+    "MC": {
+      "sort": "",
+      "value": "Monaco"
+    },
+    "MD": {
+      "sort": "",
+      "value": "Moldova"
+    },
+    "ME": {
+      "sort": "",
+      "value": "Montenegro"
+    },
+    "MF": {
+      "sort": "",
+      "value": "Saint Martin (French part)"
+    },
+    "MG": {
+      "sort": "",
+      "value": "Madagascar"
+    },
+    "MK": {
+      "sort": "",
+      "value": "Macedonia"
+    },
+    "ML": {
+      "sort": "",
+      "value": "Mali"
+    },
+    "MM": {
+      "sort": "",
+      "value": "Myanmar"
+    },
+    "MN": {
+      "sort": "",
+      "value": "Mongolia"
+    },
+    "MO": {
+      "sort": "",
+      "value": "Macau"
+    },
+    "MP": {
+      "sort": "",
+      "value": "Northern Mariana Islands"
+    },
+    "MQ": {
+      "sort": "",
+      "value": "Martinique"
+    },
+    "MR": {
+      "sort": "",
+      "value": "Mauritania"
+    },
+    "MS": {
+      "sort": "",
+      "value": "Montserrat"
+    },
+    "MT": {
+      "sort": "",
+      "value": "Malta"
+    },
+    "MU": {
+      "sort": "",
+      "value": "Mauritius"
+    },
+    "MV": {
+      "sort": "",
+      "value": "Maldives"
+    },
+    "MW": {
+      "sort": "",
+      "value": "Malawi"
+    },
+    "MX": {
+      "sort": "",
+      "value": "Mexico"
+    },
+    "MY": {
+      "currency_name": "Malaysia Ringgit",
+      "sort": "",
+      "value": "Malaysia"
+    },
+    "MZ": {
+      "sort": "",
+      "value": "Mozambique"
+    },
+    "NA": {
+      "sort": "",
+      "value": "Namibia"
+    },
+    "NC": {
+      "sort": "",
+      "value": "New Caledonia"
+    },
+    "NE": {
+      "sort": "",
+      "value": "Niger"
+    },
+    "NF": {
+      "sort": "",
+      "value": "Norfolk Island"
+    },
+    "NG": {
+      "sort": "",
+      "value": "Nigeria"
+    },
+    "NI": {
+      "sort": "",
+      "value": "Nicaragua"
+    },
+    "NL": {
+      "sort": "",
+      "value": "Netherlands"
+    },
+    "NO": {
+      "sort": "",
+      "value": "Norway"
+    },
+    "NP": {
+      "sort": "",
+      "value": "Nepal"
+    },
+    "NR": {
+      "sort": "",
+      "value": "Nauru"
+    },
+    "NZ": {
+      "sort": "",
+      "value": "New Zealand"
+    },
+    "OM": {
+      "sort": "",
+      "value": "Oman"
+    },
+    "PA": {
+      "sort": "",
+      "value": "Panama"
+    },
+    "PE": {
+      "sort": "",
+      "value": "Peru"
+    },
+    "PF": {
+      "sort": "",
+      "value": "French Polynesia"
+    },
+    "PG": {
+      "sort": "",
+      "value": "Papua New Guinea"
+    },
+    "PH": {
+      "sort": "",
+      "value": "Philippines"
+    },
+    "PK": {
+      "sort": "",
+      "value": "Pakistan"
+    },
+    "PL": {
+      "sort": "",
+      "value": "Poland"
+    },
+    "PR": {
+      "sort": "",
+      "value": "Puerto Rico"
+    },
+    "PS": {
+      "sort": "",
+      "value": "Palestine, State of"
+    },
+    "PT": {
+      "sort": "",
+      "value": "Portugal"
+    },
+    "PW": {
+      "sort": "",
+      "value": "Palau"
+    },
+    "PY": {
+      "sort": "",
+      "value": "Paraguay"
+    },
+    "QA": {
+      "sort": "",
+      "value": "Qatar"
+    },
+    "RE": {
+      "sort": "",
+      "value": "Reunion"
+    },
+    "RO": {
+      "sort": "",
+      "value": "Romania"
+    },
+    "RS": {
+      "sort": "",
+      "value": "Serbia"
+    },
+    "RU": {
+      "sort": "",
+      "value": "Russia"
+    },
+    "RW": {
+      "sort": "",
+      "value": "Rwanda"
+    },
+    "SA": {
+      "sort": "",
+      "value": "Saudi Arabia"
+    },
+    "SC": {
+      "sort": "",
+      "value": "Seychelles"
+    },
+    "SD": {
+      "sort": "",
+      "value": "Sudan"
+    },
+    "SE": {
+      "sort": "",
+      "value": "Sweden"
+    },
+    "SG": {
+      "currency_name": "Singapore Dollar",
+      "sort": "",
+      "value": "Singapore"
+    },
+    "SH": {
+      "sort": "",
+      "value": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "SI": {
+      "sort": "",
+      "value": "Slovenia"
+    },
+    "SK": {
+      "sort": "",
+      "value": "Slovakia"
+    },
+    "SL": {
+      "sort": "",
+      "value": "Sierra Leone"
+    },
+    "SM": {
+      "sort": "",
+      "value": "San Marino (Republic of)"
+    },
+    "SN": {
+      "sort": "",
+      "value": "Senegal"
+    },
+    "SR": {
+      "sort": "",
+      "value": "Suriname"
+    },
+    "SV": {
+      "sort": "",
+      "value": "El Salvador"
+    },
+    "SY": {
+      "sort": "",
+      "value": "Syria"
+    },
+    "SZ": {
+      "sort": "",
+      "value": "Swaziland"
+    },
+    "TC": {
+      "sort": "",
+      "value": "Turks and Caicos Islands"
+    },
+    "TD": {
+      "sort": "",
+      "value": "Chad"
+    },
+    "TG": {
+      "sort": "",
+      "value": "Togo"
+    },
+    "TH": {
+      "sort": "",
+      "value": "Thailand"
+    },
+    "TJ": {
+      "sort": "",
+      "value": "Tajikistan"
+    },
+    "TL": {
+      "sort": "",
+      "value": "Timor-Leste"
+    },
+    "TM": {
+      "sort": "",
+      "value": "Turkmenistan"
+    },
+    "TN": {
+      "sort": "",
+      "value": "Tunisia"
+    },
+    "TO": {
+      "sort": "",
+      "value": "Tonga"
+    },
+    "TR": {
+      "sort": "",
+      "value": "Turkey"
+    },
+    "TT": {
+      "sort": "",
+      "value": "Trinidad & Tobago"
+    },
+    "TW": {
+      "currency_name": "New Taiwan Dollar",
+      "sort": "",
+      "value": "Taiwan"
+    },
+    "TZ": {
+      "sort": "",
+      "value": "Tanzania"
+    },
+    "UA": {
+      "sort": "",
+      "value": "Ukraine"
+    },
+    "UG": {
+      "sort": "",
+      "value": "Uganda"
+    },
+    "US": {
+      "currency_name": "US Dollar",
+      "sort": "",
+      "value": "United States"
+    },
+    "UY": {
+      "sort": "",
+      "value": "Uruguay"
+    },
+    "UZ": {
+      "sort": "",
+      "value": "Uzbekistan"
+    },
+    "VC": {
+      "sort": "",
+      "value": "Saint Vincent and the Grenadines"
+    },
+    "VE": {
+      "sort": "",
+      "value": "Venezuela"
+    },
+    "VG": {
+      "sort": "",
+      "value": "British Virgin Islands"
+    },
+    "VI": {
+      "sort": "",
+      "value": "Virgin Islands (USA)"
+    },
+    "VN": {
+      "sort": "",
+      "value": "Vietnam"
+    },
+    "VU": {
+      "sort": "",
+      "value": "Vanuatu"
+    },
+    "WS": {
+      "sort": "",
+      "value": "Samoa"
+    },
+    "YE": {
+      "sort": "",
+      "value": "Yemen Republic"
+    },
+    "YT": {
+      "sort": "",
+      "value": "Mayotte"
+    },
+    "ZA": {
+      "sort": "",
+      "value": "South Africa"
+    },
+    "ZM": {
+      "sort": "",
+      "value": "Zambia"
+    },
+    "ZW": {
+      "sort": "",
+      "value": "Zimbabwe"
+    }
+  },
+  "create_again": "Regenerate",
+  "create_eos_wallet": "Generate EOS Wallet",
+  "create_time": "Create Date",
+  "create_wallet": "Create Wallet",
+  "currency": {
+    "AED": "Emirati Dirham",
+    "AUD": "Australian Dollar",
+    "CNY": "Chinese Yuan",
+    "EUR": "Euro",
+    "GBP": "British Pound",
+    "HKD": "Hong Kong Dollar",
+    "IDR": "Indonesian Rupiah",
+    "INR": "Indian Rupee",
+    "JPY": "Japanese Yen",
+    "KRW": "South Korean Won",
+    "MYR": "Malaysia Ringgit",
+    "PHP": "Philippine Peso",
+    "SAR": "Saudi Riyal",
+    "SGD": "Singapore Dollar",
+    "THB": "Thai Baht",
+    "USD": "US Dollar",
+    "VND": "Vietnamese Dong"
+  },
+  "currency_setting_title": "Currency Setting",
+  "current_password": "current password",
+  "current_password_error": "The current password is wrong",
+  "current_version": "Current version{}",
+  "date": "Date",
+  "day": "Day",
+  "delete": "Delete",
+  "delete_wallet": "Delete wallet",
+  "details": "Details",
+  "do_not_take_screenshots": "Do not take screenshots",
+  "email": "mailbox",
+  "email_address": "Email address",
+  "email_format_error": "Please input the email address",
+  "empty_data": "No data",
+  "eos_entrance": "EOS ecological entrance",
+  "eos_key_save_tip_2": "Please save the public and private keys properly:",
+  "eos_key_save_tip_3": "It is recommended to copy or print and place it in a safe place.",
+  "eos_key_save_tip_4": "It is not recommended to use the network to transmit private keys, such as sending them to the computer using WeChat.",
+  "eos_mapping_open_source": "EOS Mapping",
+  "eos_mapping_submit_contract": "Submit contract",
+  "eos_mapping_submit_title": "Submit a mapping contract",
+  "eos_mapping_success_title": "EOS mapping",
+  "eos_mapping_tip_title": "EOS mapping",
+  "eos_mapping_title": "EOS mapping",
+  "eos_mapping_verify": "Verification mapping",
+  "eos_mapping_verify_title": "Verification mapping",
+  "eos_mapping_wallet": "EOS mapping tool",
+  "eos_not_mapping_tip": "Your EOS has not been mapped.",
+  "eos_private_key": "Private Key Private Key",
+  "eos_private_key_tip_1": "If someone gets your private key you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "eos_public_key": "Public Key",
+  "eos_public_key_1": "EOS wallet public key",
+  "eos_public_key_for_return": "Returned EOS public key:",
+  "eos_wallet_mapping_description": "The \"map\" is to register the EOS wallet public key on Ethereum's EOS contract. So you need to get an public key of the EOS wallet. GTB Wallet uses the official open source EOS address generator.",
+  "eth_address_for_mapping": "GTB wallet for mapping:",
+  "eth_private_key_tip_1": "If someone gets your private key you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "eth_wallet": "GTB Wallet",
+  "eth_wallet_add_title": "Add wallet",
+  "eth_wallet_address": "GTB wallet address",
+  "eth_wallet_keystore_can_not_be_null": "Wallet Keystore cannot be empty",
+  "eth_wallet_name_can_not_be_null": "Wallet name cannot be empty",
+  "eth_wallet_password_can_not_be_null": "Password can not be blank",
+  "eth_wallet_private_key_can_not_be_null": "Wallet's private key cannot be empty",
+  "eth_wallet_seed_phrase_can_not_be_null": "Wallet mnemonic cannot be empty",
+  "exchange": "Exchange",
+  "export_keystore": "Export Keystore",
+  "export_private_key": "Export private key",
+  "failed_to_get_permission": "Failed to get permission",
+  "failed_to_save_photo": "Failed to save the picture",
+  "failed_to_transfer": "Transfer failed",
+  "feedback": "Feedback",
+  "find_password": "Recover password",
+  "finish_operation": "Done",
+  "first_name": "First name",
+  "forgot_password": "forget password",
+  "forgot_password_hint": "You can find password by phone number",
+  "github_open_source_address": "Github open source address",
+  "good_saved": "Saved",
+  "gtbwallet_term_title_1": "Service & Privacy Policy",
+  "gtbwallet_term_title_2": "I have carefully read and agree with {}",
+  "gtt_redeem_code": "GTT exchange code",
+  "gtt_top_up_title": "GTT recharge",
+  "have_new_version": "New version {}",
+  "hour": "Hour",
+  "i_know": "I know",
+  "import": "Import",
+  "import_other_eth_wallet": "Import other GTB wallets",
+  "import_wallet": "Import wallet",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "Private key",
+  "import_wallet_by_seed_phrase": "Mnemonic",
+  "import_wallet_title": "Import GTB Wallet",
+  "insured": "Insured",
+  "introduction": "Introduction",
+  "invalid_eth_wallet_address": "Only GTB wallet address can be identified",
+  "invalid_eth_wallet_private_key": "Wallet private key format is wrong",
+  "invalid_qr_code": "Unrecognized QR code",
+  "invalid_seed_phrase": "Your mnemonic is in the wrong format",
+  "is_newest_version": "This is the newest version",
+  "k_line": "K Line",
+  "keystore_input_placeholder": "Copy and paste the Ethereum wallet directly from the Keystore file content from here.",
+  "keystore_password": "Keystore password",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "中文",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "日本語",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "中文繁體",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "The first language \"{}\" ?",
+  "language_second": "The second language \"{}\" ?",
+  "language_setting_title": "Language",
+  "last_name": "Last name",
+  "loading": "Loading",
+  "login": "Login",
+  "login_failed": "Login failed, please try again later",
+  "login_with_exist_account": "Login",
+  "logout": "sign out",
+  "mailbox": "Mailbox",
+  "main_page_menu": {
+    "receive_money": "Receipt",
+    "scan": "Scan",
+    "transaction_history": "Transaction",
+    "transfer": "Transfer"
+  },
+  "main_tab": {
+    "gtbwallet": "Assets",
+    "mine": "Me",
+    "news": "News"
+  },
+  "main_tab_token_price": "Markets",
+  "make_sure_again": "Double confirm",
+  "make_sure_again_for_eos_private_key": "GTB Wallet will not upload your EOS wallet private key. Once it is lost, it cannot be retrieved. Please keep it safe.",
+  "manager_wallet": "Manage wallet",
+  "mapping_contract": "Mapping contract",
+  "mapping_not": "Unmapped",
+  "mapping_now": "Map now",
+  "mapping_status": "Mapping state",
+  "mapping_success": "Mapped",
+  "market": "Market",
+  "market_value_title": "Market Value",
+  "max_supply": "Max Supply",
+  "member_name": "Name",
+  "member_title": "Title",
+  "mine": "Me",
+  "miner_fee": "Miners' fees:",
+  "minute": "Minute",
+  "mobile_number": "Mobile number",
+  "mobile_or_email": "mobile / email",
+  "modify_success": "Successfully modified",
+  "multi_language": "Multi-language",
+  "my_eth_wallet": "My GTB address",
+  "newest": "Newest {}",
+  "news_title": "News",
+  "news_type_title": {
+    "gtbwallet_self": "News",
+    "twitter": "Twitter",
+    "wechat": "WeChat",
+    "weibo": "WeiBo"
+  },
+  "next_step": "Next",
+  "no_binding": "No binding",
+  "no_internet": "No Internet Connection",
+  "not_login_account": "no login",
+  "not_set": "Not set",
+  "notification_page_title": "Notification",
+  "official_website": "Official website",
+  "ok": "OK",
+  "operate_failed": "Operation failed, please try again later",
+  "order_confirm": "Order confirm",
+  "order_number": "Order number",
+  "password": "Password",
+  "password2": "Repeat password",
+  "password_format_hint": "The password is 8-16 characters in length and supports characters, numbers, and symbols. Spaces are not supported.",
+  "password_is_not_same": "Password is not the same",
+  "password_modify_success": "Modified successfully, please Login again",
+  "password_old": "Old password",
+  "password_tip_hint": "Password hint information (optional)",
+  "password_verify": "Verify password",
+  "phone_number": "phone number",
+  "please_agree_gtbwallet_term": "Please agree to the service and privacy policy",
+  "please_inpput_address": "Please input receipt address",
+  "please_inpput_first_name": "Please input first name",
+  "please_inpput_lase_name": "Please input last name",
+  "please_inpput_valide_address": "Please input valid receipt address",
+  "please_input_amount": "Please enter the amount",
+  "please_input_gtt_code": "Please enter GTT exchange code",
+  "please_input_private_key": "Please enter the private key.",
+  "please_input_receiver_address": "Please enter the address of the recipient",
+  "please_input_seed_phrase": "Please enter mnemonics, separated by spaces.",
+  "please_input_verify_password": "Please input verify password",
+  "please_input_wallet_password": "Wallet password",
+  "please_set_password_hint": "Set password hint",
+  "please_set_password_tip": "Please set a password",
+  "please_set_wallet_name": "Please set wallet name",
+  "pls_input_account": "Please input Username",
+  "pls_input_image_verify_code": "Please enter the graphic verification code",
+  "pls_input_phone": "Please input Phone number",
+  "pls_input_pwd": "Please enter your password",
+  "pls_input_token": "Please input verify code",
+  "policy_amount": "Policy amount:",
+  "policy_details": "Policy details",
+  "policy_list": "Policy list",
+  "price": "Price",
+  "price_title": "Price",
+  "privacy": "Privacy Policy",
+  "profile": "Personal information",
+  "progress_link": "Progress link",
+  "proof": "Proof",
+  "push_setting_title": "Message push",
+  "qr_code_title": "Collection code",
+  "qr_scan_title": "Scan",
+  "qr_share_tip_1": "Long press identification QR code to see details",
+  "qr_share_tip_2": "Share to GTB Wallet App",
+  "quickly": "FAST",
+  "quit_app": "Quit",
+  "receive": "Receipt",
+  "receiver_address": "Receipt address",
+  "receiver_wallet_address": "Receiver's wallet address",
+  "recommend_gtbwallet": "Share GTB Wallet",
+  "recommend_to_friends": "Share GTB Wallet",
+  "register": "Register",
+  "register_failed": "Registration failed, please try again later",
+  "register_hint": "GTB Wallet only supports the registration of mobile phone numbers in mainland China for the time being.",
+  "register_mean_agree": "Registration is agreed",
+  "register_new_account": "Register new account",
+  "release": "Release",
+  "remark": "Note",
+  "repeat_password": "Repeat password",
+  "repeat_password_error": "Please re-enter the same password",
+  "request_failed": "Request failed, please try again later",
+  "request_permission": "Request for access",
+  "request_permission_album": "Want to save pictures to your album",
+  "resend": "Resend",
+  "resend_count_down": "Resend({})",
+  "road_map": "Road Map",
+  "save_keystore_tip_1": "Please copy and paste the Keystore file to a safe, offline place to save. Do not save to email, notepad, web disk, chat tools, etc. This can be very dangerous.",
+  "save_keystore_tip_2": "Do not use network transmission",
+  "save_keystore_tip_3": "Do not transfer Keystore files through network tools. Once acquired by hackers, it will cause irreparable loss of assets.",
+  "save_keystore_tip_4": "Password safe deposit",
+  "save_keystore_tip_5": "If you need to save online, it is recommended that you use a password security software such as 1Password to save Keystore.",
+  "save_offline": "Save offline",
+  "scan": "Scan",
+  "scan_download_app": "Scan QR code to download App",
+  "scan_qr_to_pay": "Scan QR code to pay me",
+  "search": "Search",
+  "select": "Chose",
+  "select_qr_code": "Select QR code",
+  "sender_address": "Payment address",
+  "sent_verify_code_hint": "We sent a SMS verify code to your phone {}，Please input。",
+  "set_new_password": "Set new password",
+  "set_password": "Set Password",
+  "set_password_hint": "Please set a password",
+  "share": "Share",
+  "share_bull": "Share BULL",
+  "share_read_more": "Download GTB Wallet read full",
+  "share_title": "Share",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "Moments",
+    "weibo": "WeiBo"
+  },
+  "slow": "SLOW",
+  "start_create": "Go",
+  "start_time": "Start Date",
+  "submit": "Submit",
+  "success_to_change_wallet_password": "Successfully changed password",
+  "success_to_delete_contact": "Successfully deleted contact",
+  "success_to_delete_wallet": "Successfully deleted wallet",
+  "success_to_save_photo": "Save picture successfully",
+  "success_to_submit_order": "Submit order successfully",
+  "success_to_transfer": "Success to transfer",
+  "system_settings": "Settings",
+  "team": "Team",
+  "this_is_my_eth_wallet": "This is my GTB address",
+  "time_title": "Date",
+  "title": "Title",
+  "token_list_title": "Add new assets",
+  "top_up_gtt_success": "Recharge GTT Success",
+  "total_balance": "Assets {}",
+  "total_supply": "Total Supply",
+  "trade_pair": "Trade Pair",
+  "transaction_amount": "Transfer amount",
+  "transaction_amount_1": "Transfer amount, balance {} {}",
+  "transaction_detail": "Transaction Detail",
+  "transaction_hash": "Transaction Hash",
+  "transaction_history": "Transaction Record",
+  "transaction_list_title": "Transactions",
+  "transaction_time": "Transaction Time",
+  "transaction_tip": "After the transfer is successful and the minimum amount is reached, the order is confirmed",
+  "transfer": "Transfer",
+  "transfer_amount": "Payment amount:",
+  "transfer_progress_title": "Transfer progress",
+  "transfer_success": "Transfers have been sent to the blockchain for packaging",
+  "transfer_title": "Transfer",
+  "unbind": "Unbound",
+  "unlock": "Unlock",
+  "unlock_list": "Unlock list",
+  "unverified": "Unverified",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "User Agreement",
+  "user_name": "username",
+  "user_name_exist": "Nickname has been used",
+  "validity_period": "Validity period",
+  "verify": "Verify",
+  "verify_code": "Verify Code",
+  "verify_email_hint": "This email has not been verified. Please log in to your email to check and verify.",
+  "verify_email_resent": "Resend verification email",
+  "verify_password": "verify password",
+  "verify_phone": "Phone verify",
+  "verify_success": "Successful verification!",
+  "verify_wallet_password": "Verify Password",
+  "version_check": "Version Upgrade",
+  "view_more": "View more",
+  "view_progress": "Check the progress",
+  "view_progress_1": "Check the progress:",
+  "volume_24h": "Volume 24H",
+  "wait_to_confirm_transaction": "Pending order",
+  "waiting_time_for_transaction": "Waited for {} seconds",
+  "wallet_address": "Wallet address",
+  "wallet_already_exist": "Wallet already exist",
+  "wallet_change_password": "Change Password",
+  "wallet_delete": "Delete wallet",
+  "wallet_edit_title": "Edit Wallet",
+  "wallet_import": "Import wallet",
+  "wallet_manager_title": "Manage wallet",
+  "wallet_name": "Wallet name",
+  "wallet_name_change_title": "Change wallet name",
+  "wallet_name_format_1": "New Wallet",
+  "wallet_name_format_2": "New Wallet-{}",
+  "wallet_password": "Wallet password",
+  "wallet_password_change_title": "Change wallet password",
+  "wallet_seed_phrase_show_title": "Wallet mnemonic",
+  "wallet_seed_phrase_tip_1": "If someone gets your wallet mnemonic you will get your assets directly! Please copy the private key and store it in a safe place.",
+  "warranty": "Warranty",
+  "website_title": "website",
+  "website_title_fangwei": "GT Blockchain Antifraude",
+  "wechat_public_account": "WeChat subscription number"
+}

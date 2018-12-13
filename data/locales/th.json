@@ -1,0 +1,1289 @@
+{
+  "about_us": "เกี่ยวกับเรา",
+  "account": "หมายเลขบัญชี",
+  "add": "เพิ่ม",
+  "add_a_new_eth_wallet": "เพิ่มหนึ่ง GTB เพิ่มหนึ่ง",
+  "add_contact": "เพิ่มผู้ติดต่อ",
+  "add_contacts_successful": "เพิ่มรายชื่อติดต่อสำเร็จแล้ว",
+  "add_new_token": "เพิ่มเนื้อหาใหม่",
+  "add_new_wallet": "เพิ่มกระเป๋าสตางค์ใหม่",
+  "address": "ที่อยู่",
+  "album": "อัลบั้มรูป",
+  "algorithm": "อัลกอริทึม",
+  "amount": "จำนวน",
+  "app_name": "GTB Wallet",
+  "asset_name": "ชื่อสินทรัพย์",
+  "assets": "สินทรัพย์",
+  "auto_translate": "การแปลอัตโนมัติ：",
+  "available_credit": "เครดิตที่ใช้ได้:",
+  "backup_keystore": "สำรองข้อมูล Keystore",
+  "backup_private_key_tip_1": "บันทึกแบบออฟไลน์",
+  "backup_private_key_tip_2": "ขอแนะนำให้คัดลอกหรือพิมพ์คีย์ส่วนตัวแล้วเก็บไว้ในที่ปลอดภัย.",
+  "backup_private_key_tip_3": "อย่าใช้การส่งผ่านเครือข่าย",
+  "backup_private_key_tip_4": "อย่าส่งคีย์ส่วนตัวผ่านทางเครื่องมือเว็บ,อย่าส่งคีย์ส่วนตัวผ่านทางเครื่องมือเว็บ.อย่าส่งคีย์ส่วนตัวผ่านทางเครื่องมือเว็บ.",
+  "backup_private_key_title": "คีย์ส่วนตัวของการสำรองข้อมูล",
+  "balance_24h": "ยอดคงเหลือ 24 ชั่วโมง",
+  "basic_info": "ข้อมูลพื้นฐาน",
+  "beneficiary": "ผู้รับประโยชน์",
+  "bind": "ผูกพัน",
+  "bind_email": "ผูกกล่องจดหมาย",
+  "birthday": "วันเกิด",
+  "block_number": "หมายเลขบล็อค",
+  "can_not_transfer_to_myself": "คุณไม่สามารถโอนสินทรัพย์ให้กับตัวเองได้",
+  "cancel": "ยกเลิก",
+  "change": "เปลี่ยนแปลง",
+  "change_24h": "เปลี่ยน 24H",
+  "change_email_hint": "หากคุณเปลี่ยนที่อยู่อีเมล,หากคุณเปลี่ยนที่อยู่อีเมล.",
+  "change_name": "เปลี่ยนชื่อผู้ใช้",
+  "change_password": "เปลี่ยนรหัสผ่าน",
+  "change_pwd": "เปลี่ยนรหัสผ่าน",
+  "check_again": "ตรวจสอบ",
+  "check_update": "ตรวจหาการอัปเดต",
+  "choose_country": "เลือกประเทศหรือภูมิภาค",
+  "choose_eth_wallet": "เลือกอย่างใดอย่างหนึ่ง GTB เลือกอย่างใดอย่างหนึ่ง",
+  "choose_token": "เลือกโทเค็น",
+  "close": "ใกล้",
+  "complete": "สมบูรณ์",
+  "confirm_to_delete_contact": "ตรวจสอบให้แน่ใจว่าได้ลบผู้ติดต่อแล้ว",
+  "confirm_to_top_up": "ยืนยันการเติมเงิน",
+  "confirm_to_transfer": "ยืนยันการโอน",
+  "contact_detail": "ติดต่อ",
+  "contact_number": "เบอร์ติดต่อ",
+  "contacts": "รายชื่อผู้ติดต่อ",
+  "copy": "สำเนา",
+  "copy_address_success": "คัดลอกที่อยู่แล้ว",
+  "copy_success": "คัดลอกแล้ว!",
+  "copy_wallet_address": "คัดลอกที่อยู่กระเป๋าสตางค์",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "อันดอร์รา"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "สหรัฐอาหรับเอมิเรตส์"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "อัฟกานิสถาน"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "แอนติกาและบาร์บูดา"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "แองกวิลลา"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "แอลเบเนีย"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "อาร์เมเนีย"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "เนเธอร์แลนด์แอนทิลลิส"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "แองโกลา"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "อาร์เจนตินา"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "ออสเตรีย"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "ออสเตรเลีย"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "อารูบา"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "อาเซอร์ไบจาน"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "บอสเนียและเฮอร์เซโกวีนา"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "บาร์เบโดส"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "บังคลาเทศ"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "เบลเยียม"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "บูร์กินาฟาโซ"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "บัลแกเรีย"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "บาห์เรน"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "บุรุนดี"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "เบนิน"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "เบอร์มิวดา"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "บรูไนดารุสซาลาม"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "โบลิเวีย"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "บราซิล"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "บาฮามาส"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "ภูฏาน"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "บอตสวานา"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "เบลารุส"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "เบลีซ"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "แคนาดา"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "ประเทศคองโก（ประเทศคองโก）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "สาธารณรัฐแอฟริกากลาง"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "ประเทศคองโก（ประเทศคองโก）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "ประเทศสวิสเซอร์แลนด์"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "หมู่เกาะคุก"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "ชิลี"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "แคเมอรูน"
+    },
+    "CN": {
+      "currency_name": "Renminbi",
+      "sort": "ZHONG GUO",
+      "value": "ประเทศจีน"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "โคลอมเบีย"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "คอสตาริกา"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "คิวบา"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kafoweide"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "ประเทศไซปรัส"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "สาธารณรัฐเช็ก"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "ประเทศเยอรมัน"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "จิบูตี"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "เดนมาร์ก"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "โดมินิกา"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "สาธารณรัฐโดมินิกัน"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "แอลจีเรีย"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "เอกวาดอร์"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "เอสโตเนีย"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "อียิปต์"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "สเปน"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "สาธารณรัฐเอธิโอเปีย"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "ฟินแลนด์"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "ฟิจิ"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "ไมโครนีเซีย"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "หมู่เกาะแฟโร"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "ฝรั่งเศส"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "ประเทศกาบอง"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "สหราชอาณาจักร"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "เกรเนดา"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "จอร์เจีย"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "เฟรนช์เกียนา"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "เสื้อไหมพรม"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "ประเทศกานา"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "ยิบรอลตา"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "เกาะกรีนแลนด์"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "แกมเบีย"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "ประเทศกินี"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "ลุป"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "อิเควทอเรียลกินี"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "กรีก"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "กัวเตมาลา"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "กวม"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "กินีบิสเซา"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "กายอานา"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "ฮ่องกง"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "ฮอนดูรัส"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "โครเอเชีย"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "ไฮติ"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "ฮังการี"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "อินโดนีเซีย"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "สาธารณรัฐไอร์แลนด์"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "อิสราเอล"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "เกาะแมน"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "อินเดีย"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "อิรัก"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "อิหร่าน"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "ประเทศไอซ์แลนด์"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "อิตาลี"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "นิวเจอร์ซีย์"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "เกาะจาเมกา"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "จอร์แดน"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "ประเทศญี่ปุ่น"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "ประเทศเคนย่า"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "คีร์กีสถาน"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "ประเทศกัมพูชา"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "ประเทศคิริบาส"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "คอโมโรส"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "เซนต์คิตส์และเนวิส"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "เกาหลีเหนือ"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "เกาหลีใต้"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "คูเวต"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "หมู่เกาะเคย์แมน"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "คาซัคสถาน"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "ลาว"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "เลบานอน"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "เซนต์ลูเซีย"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "นสไตน์"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "ศรีลังกา"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "ประเทศไลบีเรีย"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "เลโซโท"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "ประเทศลิธัวเนีย"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "ลักเซมเบิร์ก"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "ลัตเวีย"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "ประเทศลิบยา"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "โมร็อกโก"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "โมนาโก"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "มอลโดวา"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "มอนเตเนโก"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "เซนต์มาร์ติน（เซนต์มาร์ติน）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "มาดากัสการ์"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "มาซิโดเนีย"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "มาลี"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "พม่า"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "ประเทศมองโกเลีย"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "มาเก๊า"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "หมู่เกาะนอร์เทิร์นมาเรียนา"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "มาร์ตินีก"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "ประเทศมอริเตเนีย"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "มอนต์เซอร์รัต"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "เกาะมอลตา"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "มอริเชียส"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "มัลดีฟส์"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "มาลาวี"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "เม็กซิโก"
+    },
+    "MY": {
+      "currency_name": "สกุลเงินมาเลเซีย（สกุลเงินมาเลเซีย）",
+      "sort": "MA LAI XI YA",
+      "value": "ประเทศมาเลเซีย"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "ประเทศโมซัมบิก"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "นามิเบีย"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "นิวแคลิโดเนีย"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "ประเทศไนเธอร์"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "เกาะนอร์ฟอล์ก"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "ประเทศไนจีเรีย"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "นิการากัว"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "เนเธอร์แลนด์"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "นอร์เวย์"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "ประเทศเนปาล"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "ประเทศนาอูรู"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "นิวซีแลนด์"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "โอมาน"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "ปานามา"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "เปรู"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "เฟรนช์โปลินีเซีย"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "ปาปัวนิวกีนี"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "ฟิลิปปินส์"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "ประเทศปากีสถาน"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "โปแลนด์"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "เปอร์โตริโก"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "รัฐปาเลสไตน์"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "โปรตุเกส"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "ปาเลา"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "ประเทศแพรากเว"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "กาตาร์"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "การรวมตัวใหม่"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "โรมาเนีย"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "เซอร์เบีย"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "รัสเซีย"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "รวันดา"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "ซาอุดิอาราเบีย"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "เซเชลส์"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "ซูดาน"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "สวีเดน"
+    },
+    "SG": {
+      "currency_name": "ดอลลาร์สิงคโปร์",
+      "sort": "XIN JIA PO",
+      "value": "สิงคโปร์"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "เซนต์เฮเลนา,เซนต์เฮเลนา"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "สโลวีเนีย"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "สโลวะเกีย"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "เซียร์ราลีโอน"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "ซานมาริโน（ซานมาริโน）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "ประเทศเซเนกัล"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "ซูรินาเม"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "เอลซัลวาดอร์"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "ซีเรีย"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "สวาซิแลนด์"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "หมู่เกาะเติกส์และหมู่เกาะเคคอส"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "ชาด"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "โตโก"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "ประเทศไทย"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "ทาจิกิสถาน"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "ติมอร์ตะวันออก"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "เติร์กเมนิสถาน"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "ตูนิเซีย"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "ตองกา"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "ตุรกี"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "ตรินิแดดและโตเบโก"
+    },
+    "TW": {
+      "currency_name": "ดอลลาร์ไต้หวัน",
+      "sort": "TAI WAN",
+      "value": "ไต้หวัน"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "ประเทศแทนซาเนีย"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "ยูเครน"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "ยูกันดา"
+    },
+    "US": {
+      "currency_name": "ค่าเงินดอลลาร์สหรัฐ",
+      "sort": "MEI GUO",
+      "value": "สหรัฐอเมริกา"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "อุรุกวัย"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "อุซเบกิ"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "เซนต์วินเซนต์และเกรนาดีนส์"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "เวเนซุเอลา"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "หมู่เกาะบริติชเวอร์จิน"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "หมู่เกาะเวอร์จิน（หมู่เกาะเวอร์จิน）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "เวียดนาม"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "วานูอาตู"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "ซามัว"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "สาธารณรัฐเยเมน"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "มายอต"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "แอฟริกาใต้"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "แซมเบีย"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "ประเทศซิมบับเว"
+    }
+  },
+  "create_again": "สร้างใหม่",
+  "create_eos_wallet": "ผลิตEOSผลิต",
+  "create_time": "สร้างวันที่",
+  "create_wallet": "สร้าง Wallet",
+  "currency": {
+    "AED": "สหรัฐอาหรับเอมิเรตส์ Dirham",
+    "AUD": "ดอลลาร์ออสเตรเลีย",
+    "CNY": "Renminbi",
+    "EUR": "ยูโร",
+    "GBP": "เงินสเตอร์ลิง",
+    "HKD": "ดอลลาร์ฮ่องกง",
+    "IDR": "รูปีอินโดนีเซีย",
+    "INR": "รูปีอินเดีย",
+    "JPY": "เยน",
+    "KRW": "เกาหลีใต้ชนะแล้ว",
+    "MYR": "มาเลเซียริงกิต",
+    "PHP": "เงินเปโซของฟิลิปปินส์",
+    "SAR": "Saudi Riyal",
+    "SGD": "ดอลลาร์สิงคโปร์",
+    "THB": "เงินบาท",
+    "USD": "ค่าเงินดอลลาร์สหรัฐ",
+    "VND": "เวียดนาม dong"
+  },
+  "currency_setting_title": "การตั้งค่าหน่วยเงินตรา",
+  "current_password": "รหัสผ่านปัจจุบัน",
+  "current_password_error": "รหัสผ่านปัจจุบันไม่ถูกต้อง",
+  "current_version": "เวอร์ชันปัจจุบัน {}",
+  "date": "วันที่",
+  "day": "วัน",
+  "delete": "ลบ",
+  "delete_wallet": "ลบ Wallet",
+  "details": "รายละเอียด",
+  "do_not_take_screenshots": "อย่าใช้หน้าจอ",
+  "email": "ตู้จดหมาย",
+  "email_address": "ที่อยู่อีเมล",
+  "email_format_error": "โปรดป้อนที่อยู่อีเมล",
+  "empty_data": "ไม่มีข้อมูล",
+  "eos_entrance": "EOS ทางเข้าเชิงนิเวศน์",
+  "eos_key_save_tip_2": "โปรดเก็บคีย์สาธารณะและคีย์ส่วนตัวไว้อย่างถูกต้อง：",
+  "eos_key_save_tip_3": ".ขอแนะนำให้คัดลอกหรือพิมพ์และเก็บไว้ในที่ปลอดภัย.",
+  "eos_key_save_tip_4": ".ไม่แนะนำให้ใช้คีย์ส่วนตัวของระบบส่งเครือข่าย,ไม่แนะนำให้ใช้คีย์ส่วนตัวของระบบส่งเครือข่าย.",
+  "eos_mapping_open_source": "EOS การทำแผนที่",
+  "eos_mapping_submit_contract": "ส่งสัญญา",
+  "eos_mapping_submit_title": "ส่งสัญญาการทำแผนที่",
+  "eos_mapping_success_title": "EOS การทำแผนที่",
+  "eos_mapping_tip_title": "EOS การทำแผนที่",
+  "eos_mapping_title": "EOS การทำแผนที่",
+  "eos_mapping_verify": "แผนที่การยืนยัน",
+  "eos_mapping_verify_title": "แผนที่การยืนยัน",
+  "eos_mapping_wallet": "EOS เครื่องมือการทำแผนที่",
+  "eos_not_mapping_tip": "ของคุณ EOS ของคุณ.",
+  "eos_private_key": "คีย์ส่วนตัว Private Key",
+  "eos_private_key_tip_1": "ถ้ามีใครได้คีย์ส่วนตัวของคุณคุณจะได้รับทรัพย์สินของคุณโดยตรง！ถ้ามีใครได้คีย์ส่วนตัวของคุณคุณจะได้รับทรัพย์สินของคุณโดยตรง.",
+  "eos_public_key": "คีย์สาธารณะ Public Key",
+  "eos_public_key_1": "EOS คีย์สาธารณะ Wallet(Public key)",
+  "eos_public_key_for_return": "กลับ EOS กลับ：",
+  "eos_wallet_mapping_description": "\"การทำแผนที่\"การทำแผนที่ EOSการทำแผนที่ EOS การทำแผนที่.การทำแผนที่ EOSการทำแผนที่.GTB Wallet การทำแผนที่ EOS การทำแผนที่.",
+  "eth_address_for_mapping": "แผนที่ด้วย GTB แผนที่ด้วย：",
+  "eth_private_key_tip_1": "ถ้ามีใครได้คีย์ส่วนตัวของคุณคุณจะได้รับทรัพย์สินของคุณโดยตรง！ถ้ามีใครได้คีย์ส่วนตัวของคุณคุณจะได้รับทรัพย์สินของคุณโดยตรง.",
+  "eth_wallet": "GTB กระเป๋าสตางค์",
+  "eth_wallet_add_title": "เพิ่มกระเป๋าสตางค์",
+  "eth_wallet_address": "GTB ที่อยู่ Wallet",
+  "eth_wallet_keystore_can_not_be_null": "กระเป๋าสตางค์ Keystore กระเป๋าสตางค์",
+  "eth_wallet_name_can_not_be_null": "ชื่อกระเป๋าเงินต้องไม่ว่างเปล่า",
+  "eth_wallet_password_can_not_be_null": "รหัสผ่านต้องไม่ว่างเปล่า",
+  "eth_wallet_private_key_can_not_be_null": "รหัสส่วนตัวของ Wallet ต้องไม่ว่างเปล่า",
+  "eth_wallet_seed_phrase_can_not_be_null": "ความทรงจำของ Wallet ต้องไม่ว่างเปล่า",
+  "exchange": "แลกเปลี่ยน",
+  "export_keystore": "ส่งออก Keystore",
+  "export_private_key": "ส่งออกคีย์ส่วนตัว",
+  "failed_to_get_permission": "ไม่ได้รับอนุญาต",
+  "failed_to_save_photo": "ไม่สามารถบันทึกรูปภาพได้",
+  "failed_to_transfer": "การโอนล้มเหลว",
+  "feedback": "ผลตอบรับ",
+  "find_password": "กู้คืนรหัสผ่าน",
+  "finish_operation": "สมบูรณ์",
+  "first_name": "ชื่อ",
+  "forgot_password": "ลืมรหัสผ่าน",
+  "forgot_password_hint": "คุณสามารถเรียกรหัสผ่านของคุณตามหมายเลขโทรศัพท์ที่ลงทะเบียน.",
+  "github_open_source_address": "Github ที่อยู่โอเพนซอร์ส",
+  "good_saved": "บันทึก",
+  "gtbwallet_term_title_1": "นโยบายการบริการและความเป็นส่วนตัว",
+  "gtbwallet_term_title_2": "ฉันได้อ่านอย่างถี่ถ้วนและตกลงกัน {}",
+  "gtt_redeem_code": "รหัสแลกเปลี่ยน GTT",
+  "gtt_top_up_title": "โหลด GTT",
+  "have_new_version": "มีเวอร์ชันใหม่{}",
+  "hour": "ชั่วโมง",
+  "i_know": "ฉันรู้",
+  "import": "การนำเข้า",
+  "import_other_eth_wallet": "นำเข้าอื่น ๆ GTB นำเข้าอื่น ๆ",
+  "import_wallet": "นำเข้ากระเป๋าสตางค์",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "คีย์ส่วนตัว",
+  "import_wallet_by_seed_phrase": "ช่วยในการจำ",
+  "import_wallet_title": "การนำเข้า GTB การนำเข้า",
+  "insured": "มีประกัน",
+  "introduction": "บทนำ",
+  "invalid_eth_wallet_address": "รู้จักเท่านั้น GTB รู้จักเท่านั้น",
+  "invalid_eth_wallet_private_key": "รูปแบบคีย์ส่วนตัวของ Wallet มีข้อผิดพลาด",
+  "invalid_qr_code": "ไม่รู้จักรหัส QR",
+  "invalid_seed_phrase": "ความจำของคุณอยู่ในรูปแบบที่ไม่ถูกต้อง",
+  "is_newest_version": "เป็นเวอร์ชันล่าสุดแล้ว",
+  "k_line": "K Line",
+  "keystore_input_placeholder": "คัดลอกและวางลงใน Ethereum Wallet โดยตรง Keystore คัดลอกและวางลงใน Ethereum Wallet โดยตรง.",
+  "keystore_password": "Keystore รหัสผ่าน",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "จีน",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "ญี่ปุ่น",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "จีนดั้งเดิม",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "ภาษาแรก \"{}\" ?",
+  "language_second": "ภาษาที่สอง \"{}\" ?",
+  "language_setting_title": "การตั้งค่าภาษา",
+  "last_name": "นามสกุล",
+  "loading": "กำลังโหลด",
+  "login": "เข้าสู่ระบบ",
+  "login_failed": "เข้าสู่ระบบล้มเหลว,เข้าสู่ระบบล้มเหลว",
+  "login_with_exist_account": "เข้าสู่ระบบบัญชีที่มีอยู่แล้ว",
+  "logout": "ออกจากระบบ",
+  "mailbox": "ตู้จดหมาย",
+  "main_page_menu": {
+    "receive_money": "ลูกหนี้",
+    "scan": "กวาด",
+    "transaction_history": "ประวัติการทำธุรกรรม",
+    "transfer": "โอน"
+  },
+  "main_tab": {
+    "gtbwallet": "สินทรัพย์",
+    "mine": "ของฉัน",
+    "news": "ข้อมูล"
+  },
+  "main_tab_token_price": "ราคา",
+  "make_sure_again": "ยืนยันอีกครั้ง",
+  "make_sure_again_for_eos_private_key": "GTB Wallet จะไม่อัปโหลดไฟล์ของคุณ EOS จะไม่อัปโหลดไฟล์ของคุณ,จะไม่อัปโหลดไฟล์ของคุณ,จะไม่อัปโหลดไฟล์ของคุณ.",
+  "manager_wallet": "จัดการกระเป๋าสตางค์",
+  "mapping_contract": "แผนที่สัญญา",
+  "mapping_not": "unmapped",
+  "mapping_now": "แผนที่เดี๋ยวนี้",
+  "mapping_status": "การทำแผนที่สถานะ",
+  "mapping_success": "แมป",
+  "market": "ตลาด",
+  "market_value_title": "มูลค่าตลาด",
+  "max_supply": "ซัพพลายสูงสุด",
+  "member_name": "ชื่อ",
+  "member_title": "ชื่อเรื่อง",
+  "mine": "ของฉัน",
+  "miner_fee": "ค่าธรรมเนียมเหมืองแร่:",
+  "minute": "นาที",
+  "mobile_number": "เบอร์มือถือ",
+  "mobile_or_email": "โทรศัพท์มือถือ/โทรศัพท์มือถือ",
+  "modify_success": "ปรับเปลี่ยนเรียบร้อยแล้ว",
+  "multi_language": "หลายภาษา",
+  "my_eth_wallet": "ของฉัน GTB ของฉัน",
+  "newest": "ล่าสุด{}",
+  "news_title": "ข้อมูล",
+  "news_type_title": {
+    "gtbwallet_self": "ข่าว",
+    "twitter": "พูดเบาและรวดเร็ว",
+    "wechat": "หมายเลขสาธารณะ",
+    "weibo": "Weibo"
+  },
+  "next_step": "ขั้นตอนต่อไป",
+  "no_binding": "หลุด",
+  "no_internet": "Подключение к Интернету отсутствует",
+  "not_login_account": "ไม่ได้ลงชื่อเข้าใช้",
+  "not_set": "ยังไม่ได้ตั้งค่า",
+  "notification_page_title": "แจ้งให้ทราบ",
+  "official_website": "เว็บไซต์อย่างเป็นทางการ",
+  "ok": "กำหนด",
+  "operate_failed": "การดำเนินการล้มเหลว,การดำเนินการล้มเหลว",
+  "order_confirm": "ยืนยันการสั่งซื้อ",
+  "order_number": "เลขที่ใบสั่งซื้อ",
+  "password": "รหัสผ่าน",
+  "password2": "ทำซ้ำรหัสผ่าน",
+  "password_format_hint": "ความยาวของรหัสผ่านคือ8-16ความยาวของรหัสผ่านคือ,ความยาวของรหัสผ่านคือ、ความยาวของรหัสผ่านคือ,ความยาวของรหัสผ่านคือ.",
+  "password_is_not_same": "รหัสผ่านไม่เหมือนกัน",
+  "password_modify_success": "ปรับเปลี่ยนเรียบร้อยแล้ว, ปรับเปลี่ยนเรียบร้อยแล้ว",
+  "password_old": "รหัสผ่านเก่า",
+  "password_tip_hint": "ข้อมูลคำแนะนำเกี่ยวกับรหัสผ่าน（ข้อมูลคำแนะนำเกี่ยวกับรหัสผ่าน）",
+  "password_verify": "ยืนยันรหัสผ่าน",
+  "phone_number": "หมายเลขโทรศัพท์",
+  "please_agree_gtbwallet_term": "โปรดยอมรับบริการและนโยบายความเป็นส่วนตัว",
+  "please_inpput_address": "โปรดป้อนที่อยู่ใบเสร็จ",
+  "please_inpput_first_name": "กรุณาใส่ชื่อ",
+  "please_inpput_lase_name": "กรุณาใส่นามสกุล",
+  "please_inpput_valide_address": "โปรดป้อนที่อยู่ใบเสร็จที่ถูกต้อง",
+  "please_input_amount": "โปรดป้อนจำนวนเงิน",
+  "please_input_gtt_code": "โปรดป้อนรหัสแลกเปลี่ยน GTT",
+  "please_input_private_key": "โปรดป้อนคีย์ส่วนตัว plaintext.",
+  "please_input_receiver_address": "กรุณากรอกที่อยู่ของผู้รับ",
+  "please_input_seed_phrase": "กรุณาใส่ความจำ,กรุณาใส่ความจำ.",
+  "please_input_verify_password": "โปรดป้อนรหัสผ่านยืนยัน",
+  "please_input_wallet_password": "โปรดป้อนรหัสผ่านกระเป๋าเงินของคุณ",
+  "please_set_password_hint": "ตั้งคำใบ้รหัสผ่าน",
+  "please_set_password_tip": "โปรดตั้งค่ากระเป๋าสตางค์ป้องกันด้วยรหัสผ่าน",
+  "please_set_wallet_name": "โปรดตั้งชื่อกระเป๋าสตางค์",
+  "pls_input_account": "โปรดป้อนหมายเลขบัญชีของคุณ",
+  "pls_input_image_verify_code": "โปรดป้อนรหัสยืนยันภาพ",
+  "pls_input_phone": "โปรดป้อนหมายเลขโทรศัพท์",
+  "pls_input_pwd": "โปรดป้อนรหัสผ่านของคุณ",
+  "pls_input_token": "โปรดป้อนรหัสยืนยัน",
+  "policy_amount": "จำนวนเงินตามนโยบาย:",
+  "policy_details": "保单详情",
+  "policy_list": "รายการนโยบาย",
+  "price": "ราคา",
+  "price_title": "ราคา",
+  "privacy": "นโยบายส่วนบุคคล",
+  "profile": "ข้อมูลส่วนบุคคล",
+  "progress_link": "ลิงก์ความคืบหน้า",
+  "proof": "หลักฐาน",
+  "push_setting_title": "Push ข้อความ",
+  "qr_code_title": "โค้ดคอลเล็กชัน",
+  "qr_scan_title": "กวาด",
+  "qr_share_tip_1": "กด QR code ยาว",
+  "qr_share_tip_2": "ได้รับ EOS ได้รับ",
+  "quickly": "รวดเร็ว",
+  "quit_app": "Quit",
+  "receive": "ลูกหนี้",
+  "receiver_address": "ที่อยู่รับ",
+  "receiver_wallet_address": "ที่อยู่กระเป๋าสตางค์ใบเสร็จรับเงิน",
+  "recommend_gtbwallet": "คำแนะนำGTB Wallet",
+  "recommend_to_friends": "คำแนะนำ GTB Wallet คำแนะนำ",
+  "register": "การลงทะเบียน",
+  "register_failed": "การลงทะเบียนล้มเหลว,การลงทะเบียนล้มเหลว",
+  "register_hint": "GTB Wallet ขณะนี้รองรับการลงทะเบียนหมายเลขโทรศัพท์มือถือในจีนแผ่นดินใหญ่เท่านั้น.",
+  "register_mean_agree": "ลงทะเบียนแล้ว",
+  "register_new_account": "ลงทะเบียนบัญชีใหม่",
+  "release": "ปล่อย",
+  "remark": "คำพูด",
+  "repeat_password": "ทำซ้ำรหัสผ่าน",
+  "repeat_password_error": "โปรดป้อนรหัสผ่านเดียวกันอีกครั้ง",
+  "request_failed": "คำขอล้มเหลว,คำขอล้มเหลว",
+  "request_permission": "ขออนุญาต",
+  "request_permission_album": "ต้องการบันทึกภาพลงในอัลบั้มของคุณ",
+  "resend": "ส่ง",
+  "resend_count_down": "ส่ง({})",
+  "road_map": "แผนที่ถนน",
+  "save_keystore_tip_1": "โปรดคัดลอกและวาง Keystore โปรดคัดลอกและวาง、โปรดคัดลอกและวาง.โปรดคัดลอกและวาง、โปรดคัดลอกและวาง、โปรดคัดลอกและวาง、โปรดคัดลอกและวาง,โปรดคัดลอกและวาง.",
+  "save_keystore_tip_2": "อย่าใช้การส่งผ่านเครือข่าย",
+  "save_keystore_tip_3": "อย่าโอนผ่านทางเครื่องมือเว็บ Keystore อย่าโอนผ่านทางเครื่องมือเว็บ,อย่าโอนผ่านทางเครื่องมือเว็บ.",
+  "save_keystore_tip_4": "รหัสผ่านปลอดภัย",
+  "save_keystore_tip_5": "หากต้องการบันทึกออนไลน์,หากต้องการบันทึกออนไลน์ 1Password หากต้องการบันทึกออนไลน์ Keystore.",
+  "save_offline": "บันทึกแบบออฟไลน์",
+  "scan": "กวาด",
+  "scan_download_app": "สแกน QR code ดาวน์โหลด App",
+  "scan_qr_to_pay": "สแกนโค้ด QR เพื่อจ่ายเงินให้ฉัน",
+  "search": "ค้นหา",
+  "select": "เลือก",
+  "select_qr_code": "เลือกรหัส QR",
+  "sender_address": "ที่อยู่การชำระเงิน",
+  "sent_verify_code_hint": "เราเป็น {} เราเป็น 4 เราเป็น,เราเป็น.",
+  "set_new_password": "ตั้งรหัสผ่านใหม่",
+  "set_password": "ตั้งรหัสผ่าน",
+  "set_password_hint": "สำหรับความปลอดภัยของบัญชี,สำหรับความปลอดภัยของบัญชี 8-16 สำหรับความปลอดภัยของบัญชี,สำหรับความปลอดภัยของบัญชี.",
+  "share": "หุ้น",
+  "share_bull": "แบ่งปันกัน",
+  "share_read_more": "ดาวน์โหลด GTB Wallet ดาวน์โหลด",
+  "share_title": "หุ้น",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "จดหมายไมโคร",
+    "wechat_moment": "แวดวงเพื่อน",
+    "weibo": "Weibo"
+  },
+  "slow": "ช้า",
+  "start_create": "เริ่มการสร้าง",
+  "start_time": "วันที่เริ่มต้น",
+  "submit": "เสนอ",
+  "success_to_change_wallet_password": "เปลี่ยนรหัสผ่านเรียบร้อยแล้ว",
+  "success_to_delete_contact": "ลบที่อยู่ติดต่อเรียบร้อยแล้ว",
+  "success_to_delete_wallet": "ลบ Wallet เรียบร้อยแล้ว",
+  "success_to_save_photo": "บันทึกภาพได้สำเร็จ",
+  "success_to_submit_order": "ส่งคำสั่งซื้อเรียบร้อยแล้ว",
+  "success_to_transfer": "การทำธุรกรรมที่ประสบความสำเร็จ",
+  "system_settings": "การตั้งค่าระบบ",
+  "team": "ทีม",
+  "this_is_my_eth_wallet": "นี่เป็นของฉัน GTB นี่เป็นของฉัน",
+  "time_title": "วัน",
+  "title": "หัวข้อ",
+  "token_list_title": "เพิ่มเนื้อหาใหม่",
+  "top_up_gtt_success": "เติมความสำเร็จ GTT",
+  "total_balance": "สินทรัพย์รวม {}",
+  "total_supply": "ซัพพลายรวม",
+  "trade_pair": "คู่ทางการค้า",
+  "transaction_amount": "จำนวนเงินโอน",
+  "transaction_amount_1": "จำนวนเงินโอน,จำนวนเงินโอน {} {}",
+  "transaction_detail": "รายละเอียดธุรกรรม",
+  "transaction_hash": "หมายเลขธุรกรรม",
+  "transaction_history": "ประวัติการทำธุรกรรม",
+  "transaction_list_title": "รายการธุรกรรม",
+  "transaction_time": "เวลาซื้อขาย",
+  "transaction_tip": "หลังจากการถ่ายโอนสำเร็จและถึงจำนวนขั้นต่ำ,หลังจากการถ่ายโอนสำเร็จและถึงจำนวนขั้นต่ำ",
+  "transfer": "โอน",
+  "transfer_amount": "จำนวนเงินที่ชำระ:",
+  "transfer_progress_title": "โอนความคืบหน้า",
+  "transfer_success": "มีการถ่ายโอนไปยัง blockchain สำหรับบรรจุภัณฑ์",
+  "transfer_title": "โอน",
+  "unbind": "แกะ",
+  "unlock": "ปลดล็อค",
+  "unlock_list": "ปลดล็อครายการ",
+  "unverified": "ไม่สอบ",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "ข้อตกลงผู้ใช้",
+  "user_name": "ชื่อผู้ใช้",
+  "user_name_exist": "ใช้ชื่อเล่นแล้ว",
+  "validity_period": "ระยะเวลามีผล",
+  "verify": "การตรวจสอบ",
+  "verify_code": "รหัสยืนยัน",
+  "verify_email_hint": "อีเมลนี้ยังไม่ได้รับการยืนยัน,อีเมลนี้ยังไม่ได้รับการยืนยัน.",
+  "verify_email_resent": "ส่งอีเมลยืนยันอีกครั้ง",
+  "verify_password": "ยืนยันรหัสผ่าน",
+  "verify_phone": "ยืนยันโทรศัพท์ของคุณ",
+  "verify_success": "การยืนยันที่ประสบความสำเร็จ！",
+  "verify_wallet_password": "ยืนยันรหัสผ่าน",
+  "version_check": "Version Upgrade",
+  "view_more": "ดูเพิ่มเติม",
+  "view_progress": "ดูความคืบหน้า",
+  "view_progress_1": "ดูความคืบหน้า：",
+  "volume_24h": "Volume 24H",
+  "wait_to_confirm_transaction": "คำสั่งซื้อที่รอดำเนินการ",
+  "waiting_time_for_transaction": "ฉันได้รับการรอ {} ฉันได้รับการรอ",
+  "wallet_address": "ที่อยู่ Wallet",
+  "wallet_already_exist": "บัญชีมีอยู่แล้ว",
+  "wallet_change_password": "เปลี่ยนรหัสผ่าน",
+  "wallet_delete": "ลบ Wallet",
+  "wallet_edit_title": "แก้ไข Wallet",
+  "wallet_import": "นำเข้ากระเป๋าสตางค์",
+  "wallet_manager_title": "จัดการกระเป๋าสตางค์",
+  "wallet_name": "ชื่อกระเป๋าเงิน",
+  "wallet_name_change_title": "เปลี่ยนชื่อกระเป๋าสตางค์",
+  "wallet_name_format_1": "กระเป๋าสตางค์ใหม่",
+  "wallet_name_format_2": "กระเป๋าสตางค์ใหม่-{}",
+  "wallet_password": "รหัสผ่าน Wallet",
+  "wallet_password_change_title": "เปลี่ยนรหัสผ่านกระเป๋าเงิน",
+  "wallet_seed_phrase_show_title": "Wallet mnemonic",
+  "wallet_seed_phrase_tip_1": "ถ้ามีใครได้รับกระเป๋าสตางค์ของคุณคุณจะได้รับทรัพย์สินโดยตรง！ถ้ามีใครได้รับกระเป๋าสตางค์ของคุณคุณจะได้รับทรัพย์สินโดยตรง.",
+  "warranty": "การประกัน",
+  "website_title": "เว็บไซต์",
+  "website_title_fangwei": "GT Blockchain Antifraude",
+  "wechat_public_account": "หมายเลขสาธารณะ"
+}

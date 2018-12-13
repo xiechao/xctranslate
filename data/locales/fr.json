@@ -1,0 +1,1289 @@
+{
+  "about_us": "À propos de nous",
+  "account": "Numéro de compte",
+  "add": "Ajouter",
+  "add_a_new_eth_wallet": "Ajouter un GTB Ajouter un",
+  "add_contact": "Ajouter un contact",
+  "add_contacts_successful": "Ajouter des contacts réussis",
+  "add_new_token": "Ajouter de nouveaux actifs",
+  "add_new_wallet": "Ajouter un nouveau portefeuille",
+  "address": "Adresse",
+  "album": "Album photo",
+  "algorithm": "Algorithme",
+  "amount": "Montant",
+  "app_name": "GTB Wallet",
+  "asset_name": "Nom de l'élément",
+  "assets": "Actifs",
+  "auto_translate": "Traduction automatique：",
+  "available_credit": "Crédits disponibles:",
+  "backup_keystore": "Sauvegarder Keystore",
+  "backup_private_key_tip_1": "Enregistrer hors connexion",
+  "backup_private_key_tip_2": "Il est recommandé de copier ou d'imprimer la clé privée et de l'enregistrer dans un endroit sûr.",
+  "backup_private_key_tip_3": "Ne pas utiliser la transmission réseau",
+  "backup_private_key_tip_4": "Ne pas transmettre de clés privées via des outils Web,Ne pas transmettre de clés privées via des outils Web.Ne pas transmettre de clés privées via des outils Web.",
+  "backup_private_key_title": "Clé privée de sauvegarde",
+  "balance_24h": "Balance 24H",
+  "basic_info": "Informations de base",
+  "beneficiary": "Bénéficiaire",
+  "bind": "Liaison",
+  "bind_email": "Bind boîte aux lettres",
+  "birthday": "Anniversaire",
+  "block_number": "Numéro de bloc",
+  "can_not_transfer_to_myself": "Vous ne pouvez pas transférer d'actif à vous-même",
+  "cancel": "Annuler",
+  "change": "Changement",
+  "change_24h": "Changer 24H",
+  "change_email_hint": "Si vous modifiez l'adresse e-mail,Si vous modifiez l'adresse e-mail.",
+  "change_name": "Changer le nom d'utilisateur",
+  "change_password": "Changer mot de passe",
+  "change_pwd": "Changer mot de passe",
+  "check_again": "Vérifiez-le",
+  "check_update": "Vérifier les mises à jour",
+  "choose_country": "Sélectionnez un pays ou une région",
+  "choose_eth_wallet": "Choisissez-en un GTB Choisissez-en un",
+  "choose_token": "Sélectionnez un jeton",
+  "close": "Fermé",
+  "complete": "Achèvement",
+  "confirm_to_delete_contact": "Assurez-vous de supprimer le contact",
+  "confirm_to_top_up": "Confirmer la recharge",
+  "confirm_to_transfer": "Confirmer le transfert",
+  "contact_detail": "Contact",
+  "contact_number": "Numéro de contact",
+  "contacts": "Contacts",
+  "copy": "Dupliquer",
+  "copy_address_success": "Adresse déjà copiée",
+  "copy_success": "Déjà copié!",
+  "copy_wallet_address": "Copier l'adresse du portefeuille",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "Andorre"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "Émirats arabes unis"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "Afghanistan"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "Antigua et Barbuda"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "Anguilla"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "Albanie"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "Arménie"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "Antilles néerlandaises"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "Angola"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "Argentine"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "Autriche"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "Australie"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "Aruba"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "Azerbaïdjan"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "Bosnie-Herzégovine"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "Barbade"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "Bangladesh"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "Belgique"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "Burkina Faso"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "Bulgarie"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "Bahreïn"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "Burundi"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "Bénin"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "Bermudes"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "Brunéi Darussalam"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "Bolivie"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "Brésil"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "Bahamas"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "Bhoutan"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "Botswana"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "Bélarus"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "Belize"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "Canadien"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "Congo（Congo）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "République centrafricaine"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "Congo（Congo）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "Suisse"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "Iles Cook"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "Chili"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "Cameroun"
+    },
+    "CN": {
+      "currency_name": "RMB",
+      "sort": "ZHONG GUO",
+      "value": "Chine"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "Columbia"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "Costa Rica"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "Cuba"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kafoweide"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "Chypre"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "République tchèque"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "Allemagne"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "Djibouti"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "Danemark"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "Dominic"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "République dominicaine"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "Algérie"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "Equateur"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "Estonie"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "Egypte"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "Espagnol"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "Ethiopie"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "Finlandais"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "Fidji"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "Micronésie"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "Îles Féroé"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "Français"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "Gabon"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "Royaume-Uni"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "Grenade"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "Géorgie"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "Guyane française"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "Guernesey"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "Garner"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "Gibraltar"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "Groenland"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "Gambie"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "Guinée"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "Guadeloupe"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "Guinée équatoriale"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "Grèce"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "Guatemala"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "Guam"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "Guinée-Bissau"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "Guyana"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "Hong Kong"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "Honduras"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "Croatie"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "Haïti"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "Hongrie"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "Indonésie"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "République d'Irlande"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "Israël"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "Île de Man"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "Inde"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "Iraq"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "Iran"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "Islande"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "Italie"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "Jersey"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "Jamaïque"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "Jordanie"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "Japon"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "Kenya"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "Kirghizistan"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "Cambodge"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "Kiribati"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "Comores"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "Saint-Christophe-et-Niévès"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "Corée du Nord"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "Corée du Sud"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "Kuwait"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "Îles Caïmans"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "Kazakhstan"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "Laos"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "Libanais"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "Sainte-Lucie"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "Liechtenstein"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "Sri Lanka"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "Liberia"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "Lesotho"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "Lituanie"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "Luxembourg"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "Lettonie"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "Libye"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "Maroc"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "Monaco"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "Moldavie"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "Monténégro"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "Saint Martin（Saint Martin）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "Madagascar"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "Macédoine"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "Mali"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "Birmanie"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "Mongolie"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "Macao"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "Îles Mariannes du Nord"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "Martinique"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "Mauritanie"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "Montserrat"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "Malte"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "Maurice"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "Maldives"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "Malawi"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "Mexicaine"
+    },
+    "MY": {
+      "currency_name": "Devise malaisienne（Devise malaisienne）",
+      "sort": "MA LAI XI YA",
+      "value": "Malaisie"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "Mozambique"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "Namibie"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "Nouvelle-Calédonie"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "Niger"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "Île de Norfolk"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "Nigéria"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "Nicaragua"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "Hollande"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "Norwegian"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "Nepal"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "Nauru"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "Nouvelle-Zélande"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "Oman"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "Panama"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "Pérou"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "Polynésie française"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "Papouasie-Nouvelle-Guinée"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "Philippines"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "Pakistan"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "Pologne"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "Porto Rico"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "Etat de Palestine"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "Portugal"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "Palau"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "Paraguay"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "Qatar"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "Réunion"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "Roumanie"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "Serbie"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "Russie"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "Rwanda"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "Arabie Saoudite"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "Seychelles"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "Sultan"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "Suède"
+    },
+    "SG": {
+      "currency_name": "Dollar de Singapour",
+      "sort": "XIN JIA PO",
+      "value": "Singapour"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "Sainte-Hélène,Sainte-Hélène"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "Slovénie"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "Slovaquie"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "Sierra Leone"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "Saint-Marin（Saint-Marin）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "Sénégal"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "Suriname"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "El Salvador"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "Syrie"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "Swaziland"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "Îles Turques et Caïques"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "Chad"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "Togo"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "Thai"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "Tadjikistan"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "Timor oriental"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "Turkménistan"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "Tunisie"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "Tonga"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "Turquie"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "Trinidad et Tobago"
+    },
+    "TW": {
+      "currency_name": "Dollar de Taiwan",
+      "sort": "TAI WAN",
+      "value": "Taiwan"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "Tanzanie"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "Ukraine"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "Ouganda"
+    },
+    "US": {
+      "currency_name": "USD",
+      "sort": "MEI GUO",
+      "value": "États-Unis"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "Uruguay"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "Ouzbékistan"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "Saint-Vincent et les Grenadines"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "Venezuela"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "Îles Vierges britanniques"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "Îles Vierges（Îles Vierges）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "Vietnam"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "Vanuatu"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "Samoa"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "République du Yémen"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "Mayotte"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "Afrique du Sud"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "Zambie"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "Zimbabwe"
+    }
+  },
+  "create_again": "Régénérer",
+  "create_eos_wallet": "GénéréEOSGénéré",
+  "create_time": "créer un rendez-vous",
+  "create_wallet": "Créer un portefeuille",
+  "currency": {
+    "AED": "Dirham des Émirats Arabes Unis",
+    "AUD": "Dollar australien",
+    "CNY": "RMB",
+    "EUR": "Euro",
+    "GBP": "GBP",
+    "HKD": "Dollar de Hong Kong",
+    "IDR": "Roupie indonésienne",
+    "INR": "Roupie indienne",
+    "JPY": "Yen",
+    "KRW": "Won sud-coréen",
+    "MYR": "Ringgit de Malaisie",
+    "PHP": "Peso philippin",
+    "SAR": "Riyal saoudien",
+    "SGD": "Dollar de Singapour",
+    "THB": "Baht thaïlandais",
+    "USD": "USD",
+    "VND": "Dong vietnamien"
+  },
+  "currency_setting_title": "Réglage de l'unité monétaire",
+  "current_password": "Mot de passe actuel",
+  "current_password_error": "Le mot de passe actuel est incorrect",
+  "current_version": "Version actuelle {}",
+  "date": "Rendez-vous amoureux",
+  "day": "Jour",
+  "delete": "Supprimer",
+  "delete_wallet": "Supprimer le portefeuille",
+  "details": "Détails",
+  "do_not_take_screenshots": "Ne pas prendre de captures d'écran",
+  "email": "E-mail",
+  "email_address": "Adresse e-mail",
+  "email_format_error": "Veuillez entrer votre adresse e-mail",
+  "empty_data": "Pas de données",
+  "eos_entrance": "EOS Entrée écologique",
+  "eos_key_save_tip_2": "S'il vous plaît garder les clés publiques et privées correctement：",
+  "eos_key_save_tip_3": ".Il est recommandé de copier ou d'imprimer et de le placer dans un endroit sûr.",
+  "eos_key_save_tip_4": ".Il n'est pas recommandé d'utiliser la clé privée de transmission réseau,Il n'est pas recommandé d'utiliser la clé privée de transmission réseau.",
+  "eos_mapping_open_source": "EOS Cartographie",
+  "eos_mapping_submit_contract": "Envoyer un contrat",
+  "eos_mapping_submit_title": "Soumettre un contrat de cartographie",
+  "eos_mapping_success_title": "EOS Cartographie",
+  "eos_mapping_tip_title": "EOS Cartographie",
+  "eos_mapping_title": "EOS Cartographie",
+  "eos_mapping_verify": "Carte de vérification",
+  "eos_mapping_verify_title": "Carte de vérification",
+  "eos_mapping_wallet": "EOS Outil de cartographie",
+  "eos_not_mapping_tip": "Le vôtre EOS Le vôtre.",
+  "eos_private_key": "Clé privée Private Key",
+  "eos_private_key_tip_1": "Si quelqu'un obtient votre clé privée, vous recevrez directement vos actifs！Si quelqu'un obtient votre clé privée, vous recevrez directement vos actifs.",
+  "eos_public_key": "Clé publique Public Key",
+  "eos_public_key_1": "EOS Clé publique du portefeuille(Public key)",
+  "eos_public_key_for_return": "Retourné EOS Retourné：",
+  "eos_wallet_mapping_description": "\"Cartographie\"Cartographie EOSCartographie EOS Cartographie.Cartographie EOSCartographie.GTB Wallet Cartographie EOS Cartographie.",
+  "eth_address_for_mapping": "Mappé GTB Mappé：",
+  "eth_private_key_tip_1": "Si quelqu'un obtient votre clé privée, vous recevrez directement vos actifs！Si quelqu'un obtient votre clé privée, vous recevrez directement vos actifs.",
+  "eth_wallet": "GTB Portefeuille",
+  "eth_wallet_add_title": "Ajouter un portefeuille",
+  "eth_wallet_address": "GTB Adresse du portefeuille",
+  "eth_wallet_keystore_can_not_be_null": "Portefeuille Keystore Portefeuille",
+  "eth_wallet_name_can_not_be_null": "Le nom du portefeuille ne peut pas être vide",
+  "eth_wallet_password_can_not_be_null": "Le mot de passe ne peut pas être vide",
+  "eth_wallet_private_key_can_not_be_null": "La clé privée de Wallet ne peut pas être vide",
+  "eth_wallet_seed_phrase_can_not_be_null": "Le mnémonique du portefeuille ne peut pas être vide",
+  "exchange": "Échange",
+  "export_keystore": "Exporter Keystore",
+  "export_private_key": "Exporter la clé privée",
+  "failed_to_get_permission": "Impossible d'obtenir la permission",
+  "failed_to_save_photo": "Échec de l'enregistrement de l'image",
+  "failed_to_transfer": "Transfert échoué",
+  "feedback": "Commentaires",
+  "find_password": "Récupérer le mot",
+  "finish_operation": "Achèvement",
+  "first_name": "Prénom",
+  "forgot_password": "Mot de passe oublié",
+  "forgot_password_hint": "Vous pouvez récupérer votre mot de passe par numéro de portable enregistré.",
+  "github_open_source_address": "Github Adresse open source",
+  "good_saved": "Enregistré",
+  "gtbwallet_term_title_1": "Service et politique de confidentialité",
+  "gtbwallet_term_title_2": "J'ai lu attentivement et convenu {}",
+  "gtt_redeem_code": "Code d'échange GTT",
+  "gtt_top_up_title": "GTT recharge",
+  "have_new_version": "Il y a une nouvelle version{}",
+  "hour": "Heure",
+  "i_know": "Je sais",
+  "import": "Importer",
+  "import_other_eth_wallet": "Importer d'autres GTB Importer d'autres",
+  "import_wallet": "Portefeuille d'importation",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "Clé privée",
+  "import_wallet_by_seed_phrase": "Mnémonique",
+  "import_wallet_title": "Importer GTB Importer",
+  "insured": "Assuré",
+  "introduction": "introduction",
+  "invalid_eth_wallet_address": "Seulement reconnaître GTB Seulement reconnaître",
+  "invalid_eth_wallet_private_key": "Le format de clé privée du portefeuille est incorrect",
+  "invalid_qr_code": "Code QR non reconnu",
+  "invalid_seed_phrase": "Votre mnémonique est dans le mauvais format",
+  "is_newest_version": "Déjà la dernière version",
+  "k_line": "Ligne K",
+  "keystore_input_placeholder": "Copiez et collez directement dans Ethereum Wallet Keystore Copiez et collez directement dans Ethereum Wallet.",
+  "keystore_password": "Keystore Password",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "Chinois",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "Japonais",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "Chinois traditionnel",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "Première langue \"{}\" ?",
+  "language_second": "Deuxième langue \"{}\" ?",
+  "language_setting_title": "Paramètres de langue",
+  "last_name": "Nom de famille",
+  "loading": "Chargement",
+  "login": "Connectez-vous",
+  "login_failed": "L'ouverture de session,L'ouverture de session",
+  "login_with_exist_account": "Connectez-vous au compte existant",
+  "logout": "Se déconnecter",
+  "mailbox": "Boites aux lettres",
+  "main_page_menu": {
+    "receive_money": "Reçu",
+    "scan": "Balayer",
+    "transaction_history": "Historique des transactions",
+    "transfer": "Transfert"
+  },
+  "main_tab": {
+    "gtbwallet": "Actifs",
+    "mine": "Mon",
+    "news": "Information"
+  },
+  "main_tab_token_price": "Citations",
+  "make_sure_again": "Reconfirmer",
+  "make_sure_again_for_eos_private_key": "GTB Wallet Ne téléchargera pas le vôtre EOS Ne téléchargera pas le vôtre,Ne téléchargera pas le vôtre,Ne téléchargera pas le vôtre.",
+  "manager_wallet": "Gérer le portefeuille",
+  "mapping_contract": "Contrat de cartographie",
+  "mapping_not": "Non mappé",
+  "mapping_now": "Carte maintenant",
+  "mapping_status": "Etat de mappage",
+  "mapping_success": "Mappé",
+  "market": "Marché",
+  "market_value_title": "Valeur marchande",
+  "max_supply": "Max Supply",
+  "member_name": "prénom",
+  "member_title": "Titre",
+  "mine": "Mon",
+  "miner_fee": "Les frais des mineurs:",
+  "minute": "Minute",
+  "mobile_number": "numéro de portable",
+  "mobile_or_email": "Téléphone portable/Téléphone portable",
+  "modify_success": "Modifié avec succès",
+  "multi_language": "Multilingue",
+  "my_eth_wallet": "Mon GTB Mon",
+  "newest": "Date{}",
+  "news_title": "Information",
+  "news_type_title": {
+    "gtbwallet_self": "Alertes",
+    "twitter": "Twitter",
+    "wechat": "Numéro public",
+    "weibo": "Weibo"
+  },
+  "next_step": "L'étape suivante",
+  "no_binding": "Non lié",
+  "no_internet": "Pas de connexion Internet",
+  "not_login_account": "Non connecté",
+  "not_set": "Non défini",
+  "notification_page_title": "Avis",
+  "official_website": "Site officiel",
+  "ok": "OK",
+  "operate_failed": "Opération échou,Opération échou",
+  "order_confirm": "Confirmation de commande",
+  "order_number": "Numéro de commande",
+  "password": "Password",
+  "password2": "Répétez le mot",
+  "password_format_hint": "La longueur du mot de passe8-16La longueur du mot de passe,La longueur du mot de passe、La longueur du mot de passe,La longueur du mot de passe.",
+  "password_is_not_same": "Les mots de passe ne sont pas les mêmes",
+  "password_modify_success": "Modifié avec succès, Modifié avec succès",
+  "password_old": "Ancien mot de passe",
+  "password_tip_hint": "Informations sur les indices de mot de passe（Informations sur les indices de mot de passe）",
+  "password_verify": "Vérifier le mot de",
+  "phone_number": "Numéro de téléphone",
+  "please_agree_gtbwallet_term": "Veuillez accepter le service et la politique de confidentialité",
+  "please_inpput_address": "S'il vous plaît entrer l'adresse",
+  "please_inpput_first_name": "S'il vous plaît entrer le prénom",
+  "please_inpput_lase_name": "Veuillez entrer le nom de famille",
+  "please_inpput_valide_address": "Veuillez entrer une adresse de réception valide",
+  "please_input_amount": "Veuillez entrer le montant",
+  "please_input_gtt_code": "Veuillez entrer le code d'échange GTT",
+  "please_input_private_key": "Veuillez entrer la clé privée en clair.",
+  "please_input_receiver_address": "Veuillez entrer l'adresse du destinataire",
+  "please_input_seed_phrase": "S'il vous plaît entrer mnémonique,S'il vous plaît entrer mnémonique.",
+  "please_input_verify_password": "Veuillez entrer le mot de passe de vérification",
+  "please_input_wallet_password": "Veuillez entrer le mot de passe de votre portefeuille",
+  "please_set_password_hint": "Définir un indice de mot de passe",
+  "please_set_password_tip": "Veuillez définir un portefeuille de protection par mot de passe",
+  "please_set_wallet_name": "Veuillez définir le nom du portefeuille",
+  "pls_input_account": "Veuillez entrer votre numéro de compte",
+  "pls_input_image_verify_code": "Veuillez entrer le code de vérification graphique",
+  "pls_input_phone": "S'il vous plaît entrer le numéro de téléphone",
+  "pls_input_pwd": "Veuillez entrer votre mot de passe",
+  "pls_input_token": "Veuillez entrer le code de vérification",
+  "policy_amount": "Montant de la police:",
+  "policy_details": "保单详情",
+  "policy_list": "Liste de politique",
+  "price": "Prix",
+  "price_title": "Prix",
+  "privacy": "Politique de confidentialité",
+  "profile": "Données personnelles",
+  "progress_link": "Lien de progression",
+  "proof": "Preuve",
+  "push_setting_title": "Push du message",
+  "qr_code_title": "Code de collection",
+  "qr_scan_title": "Balayer",
+  "qr_share_tip_1": "Appuyez longuement sur le code QR",
+  "qr_share_tip_2": "Obtenir EOS Obtenir",
+  "quickly": "Rapide",
+  "quit_app": "Quit",
+  "receive": "Reçu",
+  "receiver_address": "Adresse de réception",
+  "receiver_wallet_address": "Adresse du portefeuille de reçus",
+  "recommend_gtbwallet": "RecommandéGTB Wallet",
+  "recommend_to_friends": "Recommandé GTB Wallet Recommandé",
+  "register": "Inscription",
+  "register_failed": "Échec,Échec",
+  "register_hint": "GTB Wallet Actuellement, ne prend en charge l'enregistrement des numéros de téléphone mobile en Chine continentale.",
+  "register_mean_agree": "L'inscription est acceptée",
+  "register_new_account": "Enregistrer un nouveau compte",
+  "release": "Libération",
+  "remark": "Remarque",
+  "repeat_password": "Répétez le mot",
+  "repeat_password_error": "Veuillez entrer à nouveau le même mot de passe",
+  "request_failed": "Demande refusée,Demande refusée",
+  "request_permission": "Demande d'autorisation",
+  "request_permission_album": "Voulez-vous enregistrer des photos dans votre album?",
+  "resend": "Renvoyer",
+  "resend_count_down": "Renvoyer({})",
+  "road_map": "Carte routière",
+  "save_keystore_tip_1": "Veuillez copier et coller Keystore Veuillez copier et coller、Veuillez copier et coller.Veuillez copier et coller、Veuillez copier et coller、Veuillez copier et coller、Veuillez copier et coller,Veuillez copier et coller.",
+  "save_keystore_tip_2": "Ne pas utiliser la transmission réseau",
+  "save_keystore_tip_3": "Ne pas transférer via des outils Web Keystore Ne pas transférer via des outils Web,Ne pas transférer via des outils Web.",
+  "save_keystore_tip_4": "Mot de passe sécurisé",
+  "save_keystore_tip_5": "Si vous devez enregistrer en ligne,Si vous devez enregistrer en ligne 1Password Si vous devez enregistrer en ligne Keystore.",
+  "save_offline": "Enregistrer hors connexion",
+  "scan": "Balayer",
+  "scan_download_app": "Scannez le téléchargement de code QR App",
+  "scan_qr_to_pay": "Scannez le code QR pour me payer",
+  "search": "Chercher",
+  "select": "Sélectionnez",
+  "select_qr_code": "Sélectionnez le code QR",
+  "sender_address": "Adresse de paiement",
+  "sent_verify_code_hint": "Nous sommes {} Nous sommes 4 Nous sommes,Nous sommes.",
+  "set_new_password": "Définir nouveau mot de passe",
+  "set_password": "Définir le mot",
+  "set_password_hint": "Pour la sécurité de votre compte,Pour la sécurité de votre compte 8-16 Pour la sécurité de votre compte,Pour la sécurité de votre compte.",
+  "share": "Partage",
+  "share_bull": "Partagez bien",
+  "share_read_more": "Téléchargement GTB Wallet Téléchargement",
+  "share_title": "Partage",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "Cercle d'amis",
+    "weibo": "Weibo"
+  },
+  "slow": "Lent",
+  "start_create": "Commencez à générer",
+  "start_time": "Date de début",
+  "submit": "Envoyer",
+  "success_to_change_wallet_password": "Mot de passe modifié avec succès",
+  "success_to_delete_contact": "Contact supprimé avec succès",
+  "success_to_delete_wallet": "Portefeuille supprimé avec succès",
+  "success_to_save_photo": "Enregistrer l'image avec succès",
+  "success_to_submit_order": "Envoyer la commande avec succès",
+  "success_to_transfer": "Transaction réussie",
+  "system_settings": "Paramètres système",
+  "team": "Équipe",
+  "this_is_my_eth_wallet": "C'est mon GTB C'est mon",
+  "time_title": "Rendez-vous amoureux",
+  "title": "Titre",
+  "token_list_title": "Ajouter de nouveaux actifs",
+  "top_up_gtt_success": "Recharge GTT Succès",
+  "total_balance": "Total des actifs {}",
+  "total_supply": "Total de l'offre",
+  "trade_pair": "Paire de commerce",
+  "transaction_amount": "Montant du transfert",
+  "transaction_amount_1": "Montant du transfert,Montant du transfert {} {}",
+  "transaction_detail": "Détails de la transaction",
+  "transaction_hash": "Numéro de transaction",
+  "transaction_history": "Historique des transactions",
+  "transaction_list_title": "Liste de transaction",
+  "transaction_time": "Temps de négociation",
+  "transaction_tip": "Après le transfert est réussi et atteint le montant minimum,Après le transfert est réussi et atteint le montant minimum",
+  "transfer": "Transfert",
+  "transfer_amount": "Montant du paiement:",
+  "transfer_progress_title": "Progression du transfert",
+  "transfer_success": "Les transferts ont été envoyés à la blockchain pour l'emballage",
+  "transfer_title": "Transfert",
+  "unbind": "Dénouement",
+  "unlock": "Déverrouiller",
+  "unlock_list": "Jiěsuǒ lièbiǎo Déverrouiller la liste",
+  "unverified": "Non vérifié",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "Accord d'utilisateur",
+  "user_name": "Nom d'utilisateur",
+  "user_name_exist": "Le surnom a été utilisé",
+  "validity_period": "Période de validité",
+  "verify": "Vérification",
+  "verify_code": "Code de vérification",
+  "verify_email_hint": "Cet e-mail n'a pas été vérifié,Cet e-mail n'a pas été vérifié.",
+  "verify_email_resent": "Renvoyer le courriel de vérification",
+  "verify_password": "Vérifier le mot de",
+  "verify_phone": "Vérifiez votre téléphone",
+  "verify_success": "Vérification réussie！",
+  "verify_wallet_password": "Vérifier le mot de",
+  "version_check": "Version Upgrade",
+  "view_more": "Voir plus",
+  "view_progress": "Vérifiez les progrès",
+  "view_progress_1": "Vérifiez les progrès：",
+  "volume_24h": "Volume 24H",
+  "wait_to_confirm_transaction": "Ordre en attente",
+  "waiting_time_for_transaction": "Attendu {} Attendu",
+  "wallet_address": "Adresse du portefeuille",
+  "wallet_already_exist": "Le compte existe déjà",
+  "wallet_change_password": "Changer mot de passe",
+  "wallet_delete": "Supprimer le portefeuille",
+  "wallet_edit_title": "Modifier le portefeuille",
+  "wallet_import": "Portefeuille d'importation",
+  "wallet_manager_title": "Gérer le portefeuille",
+  "wallet_name": "Nom du portefeuille",
+  "wallet_name_change_title": "Changer le nom du portefeuille",
+  "wallet_name_format_1": "Nouveau portefeuille",
+  "wallet_name_format_2": "Nouveau portefeuille-{}",
+  "wallet_password": "Mot de passe du portefeuille",
+  "wallet_password_change_title": "Changer le mot de passe du portefeuille",
+  "wallet_seed_phrase_show_title": "Porte-monnaie mnémotechnique",
+  "wallet_seed_phrase_tip_1": "Si quelqu'un obtient votre mnémotechnique de portefeuille, vous obtiendrez vos actifs directement！Si quelqu'un obtient votre mnémotechnique de portefeuille, vous obtiendrez vos actifs directement.",
+  "warranty": "Garantie",
+  "website_title": "Site web",
+  "website_title_fangwei": "GT Blockchain Antifraude",
+  "wechat_public_account": "Numéro public"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "chinese",
+    "code": "zh"
+  },
+  {
+    "name": "taiwan",
+    "code": "zh-tw"
+  },
+  {
+    "name": "english",
+    "code": "en"
+  },
+  {
+    "name": "arabic",
+    "code": "ar"
+  },
+  {
+    "name": "spanish",
+    "code": "es"
+  },
+  {
+    "name": "french",
+    "code": "fr"
+  },
+  {
+    "name": "hindi",
+    "code": "hi"
+  },
+  {
+    "name": "indonesian",
+    "code": "in"
+  },
+  {
+    "name": "japanese",
+    "code": "ja"
+  },
+  {
+    "name": "korean",
+    "code": "ko"
+  },
+  {
+    "name": "malay",
+    "code": "ms"
+  },
+  {
+    "name": "nepali",
+    "code": "ne"
+  },
+  {
+    "name": "russian",
+    "code": "ru"
+  },
+  {
+    "name": "thai",
+    "code": "th"
+  },
+  {
+    "name": "vietnamese",
+    "code": "vi"
+  }
+]

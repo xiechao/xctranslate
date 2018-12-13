@@ -1,0 +1,1289 @@
+{
+  "about_us": "Về chúng tôi",
+  "account": "Số tài khoản",
+  "add": "Thêm",
+  "add_a_new_eth_wallet": "Thêm một GTB Thêm một",
+  "add_contact": "Thêm liên hệ",
+  "add_contacts_successful": "Thêm địa chỉ liên hệ thành công",
+  "add_new_token": "Thêm nội dung mới",
+  "add_new_wallet": "Thêm ví mới",
+  "address": "Địa chỉ",
+  "album": "Album ảnh",
+  "algorithm": "Thuật toán",
+  "amount": "Số tiền",
+  "app_name": "GTB Wallet",
+  "asset_name": "Tên nội dung",
+  "assets": "Tài sản",
+  "auto_translate": "Dịch tự động：",
+  "available_credit": "Tín dụng có sẵn:",
+  "backup_keystore": "Sao lưu Keystore",
+  "backup_private_key_tip_1": "Lưu vào ngoại tuyến",
+  "backup_private_key_tip_2": "Bạn nên sao chép hoặc in khóa cá nhân và lưu nó vào một nơi an toàn.",
+  "backup_private_key_tip_3": "Không sử dụng truyền dẫn mạng",
+  "backup_private_key_tip_4": "Không truyền các khóa riêng thông qua các công cụ web,Không truyền các khóa riêng thông qua các công cụ web.Không truyền các khóa riêng thông qua các công cụ web.",
+  "backup_private_key_title": "Sao lưu khóa cá nhân",
+  "balance_24h": "Số dư 24H",
+  "basic_info": "Thông tin cơ bản",
+  "beneficiary": "Người thụ hưởng",
+  "bind": "Ràng buộc",
+  "bind_email": "Đóng hộp thư",
+  "birthday": "Sinh nhật",
+  "block_number": "Số khối",
+  "can_not_transfer_to_myself": "Bạn không thể chuyển nội dung cho chính bạn",
+  "cancel": "Hủy bỏ",
+  "change": "Thay đổi",
+  "change_24h": "Thay đổi 24H",
+  "change_email_hint": "Nếu bạn thay đổi địa chỉ email,Nếu bạn thay đổi địa chỉ email.",
+  "change_name": "Thay đổi tên người dùng",
+  "change_password": "Thay đổi mật khẩu",
+  "change_pwd": "Thay đổi mật khẩu",
+  "check_again": "Kiểm tra nó",
+  "check_update": "Kiểm tra các bản cập nhật",
+  "choose_country": "Chọn quốc gia hoặc khu vực",
+  "choose_eth_wallet": "Chọn một GTB Chọn một",
+  "choose_token": "Chọn mã thông báo",
+  "close": "Đã đóng",
+  "complete": "Hoàn thành",
+  "confirm_to_delete_contact": "Đảm bảo xóa địa chỉ liên hệ",
+  "confirm_to_top_up": "Xác nhận nạp tiền",
+  "confirm_to_transfer": "Xác nhận chuyển khoản",
+  "contact_detail": "Liên hệ",
+  "contact_number": "Số liên lạc",
+  "contacts": "Danh bạ",
+  "copy": "Nhân đôi",
+  "copy_address_success": "Đã sao chép địa chỉ",
+  "copy_success": "Đã sao chép!",
+  "copy_wallet_address": "Sao chép địa chỉ ví",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "Andorra"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "Các tiểu vương quốc Ả Rập thống nhất"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "Afghanistan"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "Antigua và Barbuda"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "Anguilla"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "Albania"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "Armenia"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "Đảo Antilles của Hà Lan"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "Angola"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "Argentina"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "Áo"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "Nước Úc"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "Aruba"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "Azerbaijan"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "Bosnia và Herzegovina"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "Barbados"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "Bangladesh"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "Nước Bỉ"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "Burkina Faso"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "Bungari"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "Bahrain"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "Burundi"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "Benin"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "Bermuda"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "Brunei Darussalam"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "Bolivia"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "Braxin"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "Bahamas"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "Bhutan"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "Botswana"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "Belarus"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "Belize"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "Người Canada"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "Congo（Congo）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "Cộng hòa Trung Phi"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "Congo（Congo）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "Thụy Sĩ"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "Quần đảo Cook"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "Chile"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "Cameroon"
+    },
+    "CN": {
+      "currency_name": "RMB",
+      "sort": "ZHONG GUO",
+      "value": "Trung Quốc"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "Columbia"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "Costa Rica"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "Cuba"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kavverd"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "Síp"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "Cộng hòa Séc"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "Nước Đức"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "Djibouti"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "Đan Mạch"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "Dominic"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "Cộng hòa Dominica"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "Algeria"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "Ecuador"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "Estonia"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "Ai Cập"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "Tiếng Tây Ban Nha"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "Ethiopia"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "Tiếng Phần Lan"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "Fiji"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "Liên bang Micronesia"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "Quần đảo Faroe"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "Người Pháp"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "Gabon"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "Vương quốc Anh"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "Grenada"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "Georgia"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "Guiana thuộc Pháp"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "Guernsey"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "Garner"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "Gibraltar"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "Greenland"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "Gambia"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "Guinea"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "Guadeloupe"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "Guinea Xích đạo"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "Hy Lạp"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "Guatemala"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "Guam"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "Guinea-Bissau"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "Guyana"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "Hồng Kông"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "Honduras"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "Croatia"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "Haiti"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "Hungary"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "Indonesia"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "Cộng hòa Ireland"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "Israel"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "Đảo Man"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "Ấn Độ"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "Iraq"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "Iran"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "Iceland"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "Nước ý"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "Jersey"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "Jamaica"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "Jordan"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "Nhật Bản"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "Kenya"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "Kyrgyzstan"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "Campuchia"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "Kiribati"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "Comoros"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "Saint Kitts và Nevis"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "Bắc Triều Tiên"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "Hàn Quốc"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "Kuwait"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "Quần đảo Cayman"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "Kazakhstan"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "Lào"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "Người Lebanon"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "Saint Lucia"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "Liechtenstein"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "Sri Lanka"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "Liberia"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "Lesotho"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "Lithuania"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "Luxembourg"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "Latvia"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "Libya"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "Morocco"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "Monaco"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "Moldova"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "Montenegro"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "Saint Martin（Saint Martin）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "Madagascar"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "Macedonia"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "Mali"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "Miến Điện"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "Mông Cổ"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "Ma Cao"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "Quần đảo Bắc Mariana"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "Martinique"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "Mauritania"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "Montserrat"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "Malta"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "Mauritius"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "Maldives"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "Malawi"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "Người Mexico"
+    },
+    "MY": {
+      "currency_name": "Tiền tệ của Malaysia（Tiền tệ của Malaysia）",
+      "sort": "MA LAI XI YA",
+      "value": "Malaysia"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "Mozambique"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "Namibia"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "New Caledonia"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "Niger"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "Đảo Norfolk"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "Nigeria"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "Nicaragua"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "Hà lan"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "Người Na uy"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "Nepal"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "Nauru"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "New Zealand"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "Oman"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "Panama"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "Peru"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "Polynésie thuộc Pháp"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "Papua New Guinea"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "Philippines"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "Pakistan"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "Ba Lan"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "Puerto Rico"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "Nhà nước Palestine"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "Bồ Đào Nha"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "Palau"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "Paraguay"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "Qatar"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "Reunion"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "Rumani"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "Serbia"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "Nước Nga"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "Rwanda"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "Ả Rập Xê Út"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "Seychelles"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "Sultan"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "Thụy Điển"
+    },
+    "SG": {
+      "currency_name": "Đô la Singapore",
+      "sort": "XIN JIA PO",
+      "value": "Singapore"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "St. Helena,St. Helena"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "Slovenia"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "Slovakia"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "Sierra Leone"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "San Marino（San Marino）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "Senegal"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "Suriname"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "El Salvador"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "Syria"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "Swaziland"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "Quần đảo Turks và Caicos"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "Chad"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "Togo"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "Người Thái"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "Tajikistan"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "Đông Timor"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "Turkmenistan"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "Tunisia"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "Tonga"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "Thổ Nhĩ Kỳ"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "Trinidad và Tobago"
+    },
+    "TW": {
+      "currency_name": "Đô la Đài Loan",
+      "sort": "TAI WAN",
+      "value": "Đài Loan"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "Tanzania"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "Ukraine"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "Uganda"
+    },
+    "US": {
+      "currency_name": "USD",
+      "sort": "MEI GUO",
+      "value": "Hoa Kỳ"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "Uruguay"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "Uzbekistan"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "Saint Vincent và Grenadines"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "Venezuela"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "Quần đảo Virgin thuộc Anh"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "Quần đảo Virgin（Quần đảo Virgin）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "Việt nam"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "Vanuatu"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "Samoa"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "Cộng hòa Yemen"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "Mayotte"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "Nam Phi"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "Zambia"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "Zimbabwe"
+    }
+  },
+  "create_again": "Tạo lại",
+  "create_eos_wallet": "Đã tạoEOSĐã tạo",
+  "create_time": "Tạo ngày",
+  "create_wallet": "Tạo Wallet",
+  "currency": {
+    "AED": "United Arab Emirates Dirham",
+    "AUD": "Đô la Úc",
+    "CNY": "RMB",
+    "EUR": "Euro",
+    "GBP": "GBP",
+    "HKD": "Đô la Hồng Kông",
+    "IDR": "Đồng rupee Indonesia",
+    "INR": "Rupi Ấn Độ",
+    "JPY": "Yên",
+    "KRW": "Hàn Quốc thắng",
+    "MYR": "Malaysia Ringgit",
+    "PHP": "Peso Philippine",
+    "SAR": "Saudi Riyal",
+    "SGD": "Đô la Singapore",
+    "THB": "Baht Thái",
+    "USD": "USD",
+    "VND": "Đồng việt nam"
+  },
+  "currency_setting_title": "Cài đặt đơn vị tiền tệ",
+  "current_password": "Mật khẩu hiện tại",
+  "current_password_error": "Mật khẩu hiện tại sai",
+  "current_version": "Phiên bản hiện tại {}",
+  "date": "Ngày",
+  "day": "Ngày",
+  "delete": "Xóa",
+  "delete_wallet": "Xóa ví",
+  "details": "Chi tiết",
+  "do_not_take_screenshots": "Không chụp ảnh màn hình",
+  "email": "E-mail",
+  "email_address": "Địa chỉ email",
+  "email_format_error": "Vui lòng nhập địa chỉ email",
+  "empty_data": "Không có dữ liệu",
+  "eos_entrance": "EOS Lối vào sinh thái",
+  "eos_key_save_tip_2": "Vui lòng giữ các khóa công khai và riêng tư đúng cách：",
+  "eos_key_save_tip_3": ".Bạn nên sao chép hoặc in và đặt nó ở nơi an toàn.",
+  "eos_key_save_tip_4": ".Không nên sử dụng khóa cá nhân truyền mạng,Không nên sử dụng khóa cá nhân truyền mạng.",
+  "eos_mapping_open_source": "EOS Ánh xạ",
+  "eos_mapping_submit_contract": "Gửi hợp đồng",
+  "eos_mapping_submit_title": "Gửi hợp đồng bản đồ",
+  "eos_mapping_success_title": "EOS Ánh xạ",
+  "eos_mapping_tip_title": "EOS Ánh xạ",
+  "eos_mapping_title": "EOS Ánh xạ",
+  "eos_mapping_verify": "Bản đồ xác minh",
+  "eos_mapping_verify_title": "Bản đồ xác minh",
+  "eos_mapping_wallet": "EOS Công cụ lập bản đồ",
+  "eos_not_mapping_tip": "Của bạn EOS Của bạn.",
+  "eos_private_key": "Khóa cá nhân Private Key",
+  "eos_private_key_tip_1": "Nếu ai đó nhận khóa riêng tư của bạn, bạn sẽ trực tiếp nhận được tài sản của mình！Nếu ai đó nhận khóa riêng tư của bạn, bạn sẽ trực tiếp nhận được tài sản của mình.",
+  "eos_public_key": "Khóa công cộng Public Key",
+  "eos_public_key_1": "EOS Khóa công khai của Wallet(Public key)",
+  "eos_public_key_for_return": "Đã trả lại EOS Đã trả lại：",
+  "eos_wallet_mapping_description": "\"Ánh xạ\"Ánh xạ EOSÁnh xạ EOS Ánh xạ.Ánh xạ EOSÁnh xạ.GTB Wallet Ánh xạ EOS Ánh xạ.",
+  "eth_address_for_mapping": "Đã lập bản đồ GTB Đã lập bản đồ：",
+  "eth_private_key_tip_1": "Nếu ai đó nhận khóa riêng tư của bạn, bạn sẽ trực tiếp nhận được tài sản của mình！Nếu ai đó nhận khóa riêng tư của bạn, bạn sẽ trực tiếp nhận được tài sản của mình.",
+  "eth_wallet": "GTB Ví tiền",
+  "eth_wallet_add_title": "Thêm ví",
+  "eth_wallet_address": "GTB Địa chỉ Wallet",
+  "eth_wallet_keystore_can_not_be_null": "Ví tiền Keystore Ví tiền",
+  "eth_wallet_name_can_not_be_null": "Tên ví không được để trống",
+  "eth_wallet_password_can_not_be_null": "Không được để trống mật khẩu",
+  "eth_wallet_private_key_can_not_be_null": "Khóa cá nhân của Wallet không được để trống",
+  "eth_wallet_seed_phrase_can_not_be_null": "Không được để trống chú thích trên Wallet",
+  "exchange": "Exchange",
+  "export_keystore": "Xuất Keystore",
+  "export_private_key": "Xuất khóa cá nhân",
+  "failed_to_get_permission": "Không được phép",
+  "failed_to_save_photo": "Không thể lưu ảnh",
+  "failed_to_transfer": "Chuyển không thành công",
+  "feedback": "Phản hồi",
+  "find_password": "Khôi phục mật khẩu",
+  "finish_operation": "Hoàn thành",
+  "first_name": "Tên",
+  "forgot_password": "Quên mật khẩu của bạn",
+  "forgot_password_hint": "Bạn có thể truy xuất mật khẩu của mình bằng số điện thoại di động đã đăng ký.",
+  "github_open_source_address": "Github Địa chỉ nguồn mở",
+  "good_saved": "Đã lưu",
+  "gtbwallet_term_title_1": "Chính sách bảo mật và dịch vụ",
+  "gtbwallet_term_title_2": "Tôi đã đọc kỹ và đồng ý {}",
+  "gtt_redeem_code": "Mã trao đổi GTT",
+  "gtt_top_up_title": "Nạp tiền GTT",
+  "have_new_version": "Có một phiên bản mới{}",
+  "hour": "Giờ",
+  "i_know": "Tôi biết",
+  "import": "Nhập",
+  "import_other_eth_wallet": "Nhập khẩu khác GTB Nhập khẩu khác",
+  "import_wallet": "Nhập ví",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "Khóa cá nhân",
+  "import_wallet_by_seed_phrase": "Ghi nhớ",
+  "import_wallet_title": "Nhập GTB Nhập",
+  "insured": "Được bảo hiểm",
+  "introduction": "Giới thiệu",
+  "invalid_eth_wallet_address": "Chỉ nhận ra GTB Chỉ nhận ra",
+  "invalid_eth_wallet_private_key": "Định dạng khóa riêng tư của Wallet sai",
+  "invalid_qr_code": "Mã QR không được công nhận",
+  "invalid_seed_phrase": "Bản ghi nhớ của bạn có định dạng sai",
+  "is_newest_version": "Đã là phiên bản mới nhất",
+  "k_line": "Dòng K",
+  "keystore_input_placeholder": "Sao chép và dán trực tiếp vào Ethereum Wallet Keystore Sao chép và dán trực tiếp vào Ethereum Wallet.",
+  "keystore_password": "Keystore Mật khẩu",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "Trung Quốc",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "Người Nhật",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "Tiếng Trung phồn thể",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "Ngôn ngữ đầu tiên \"{}\" ?",
+  "language_second": "Ngôn ngữ thứ hai \"{}\" ?",
+  "language_setting_title": "Cài đặt ngôn ngữ",
+  "last_name": "Họ",
+  "loading": "Đang tải",
+  "login": "Đăng nhập",
+  "login_failed": "Đăng nhập thất bại,Đăng nhập thất bại",
+  "login_with_exist_account": "Đăng nhập vào tài khoản hiện tại",
+  "logout": "Đăng xuất",
+  "mailbox": "Hộp thư",
+  "main_page_menu": {
+    "receive_money": "Biên nhận",
+    "scan": "Quét",
+    "transaction_history": "Lịch sử giao dịch",
+    "transfer": "Chuyển khoản"
+  },
+  "main_tab": {
+    "gtbwallet": "Tài sản",
+    "mine": "Của tôi",
+    "news": "Thông tin"
+  },
+  "main_tab_token_price": "Trích dẫn",
+  "make_sure_again": "Xác nhận lại",
+  "make_sure_again_for_eos_private_key": "GTB Wallet Sẽ không tải lên của bạn EOS Sẽ không tải lên của bạn,Sẽ không tải lên của bạn,Sẽ không tải lên của bạn.",
+  "manager_wallet": "Quản lý ví",
+  "mapping_contract": "Bản đồ hợp đồng",
+  "mapping_not": "Chưa được ánh xạ",
+  "mapping_now": "Bản đồ bây giờ",
+  "mapping_status": "Trạng thái ánh xạ",
+  "mapping_success": "Đã lập bản đồ",
+  "market": "Market",
+  "market_value_title": "Giá trị thị trường",
+  "max_supply": "Cung cấp tối đa",
+  "member_name": "Tên",
+  "member_title": "Tiêu đề",
+  "mine": "Của tôi",
+  "miner_fee": "Phí của thợ mỏ:",
+  "minute": "Phút",
+  "mobile_number": "Số điện thoại",
+  "mobile_or_email": "Điện thoại di động/Điện thoại di động",
+  "modify_success": "Đã sửa đổi thành công",
+  "multi_language": "Đa ngôn ngữ",
+  "my_eth_wallet": "Của tôi GTB Của tôi",
+  "newest": "Mới nhất{}",
+  "news_title": "Thông tin",
+  "news_type_title": {
+    "gtbwallet_self": "Cảnh báo",
+    "twitter": "Twitter",
+    "wechat": "Số điện thoại công cộng",
+    "weibo": "Weibo"
+  },
+  "next_step": "Bước tiếp theo",
+  "no_binding": "Chưa cam kết",
+  "no_internet": "Không có kết nối Internet",
+  "not_login_account": "Chưa đăng nhập",
+  "not_set": "Chưa được đặt",
+  "notification_page_title": "Thông báo",
+  "official_website": "Trang web chính thức",
+  "ok": "OK",
+  "operate_failed": "Thao tác thất bại,Thao tác thất bại",
+  "order_confirm": "Xác nhận đơn đặt hàng",
+  "order_number": "Số đơn đặt hàng",
+  "password": "Mật khẩu",
+  "password2": "Lặp lại mật khẩu",
+  "password_format_hint": "Độ dài mật khẩu mới là8-16Độ dài mật khẩu mới là,Độ dài mật khẩu mới là、Độ dài mật khẩu mới là,Độ dài mật khẩu mới là.",
+  "password_is_not_same": "Mật khẩu không giống nhau",
+  "password_modify_success": "Đã sửa đổi thành công, Đã sửa đổi thành công",
+  "password_old": "Mật khẩu cũ",
+  "password_tip_hint": "Thông tin gợi ý mật khẩu（Thông tin gợi ý mật khẩu）",
+  "password_verify": "Xác minh mật khẩu",
+  "phone_number": "Số điện thoại",
+  "please_agree_gtbwallet_term": "Vui lòng đồng ý với chính sách bảo mật và dịch vụ",
+  "please_inpput_address": "Vui lòng nhập địa chỉ nhận",
+  "please_inpput_first_name": "Vui lòng nhập tên",
+  "please_inpput_lase_name": "Vui lòng nhập họ",
+  "please_inpput_valide_address": "Vui lòng nhập địa chỉ nhận hợp lệ",
+  "please_input_amount": "Vui lòng nhập số tiền",
+  "please_input_gtt_code": "Vui lòng nhập mã trao đổi GTT",
+  "please_input_private_key": "Vui lòng nhập khóa cá nhân thô.",
+  "please_input_receiver_address": "Vui lòng nhập địa chỉ của người nhận",
+  "please_input_seed_phrase": "Vui lòng nhập ghi nhớ,Vui lòng nhập ghi nhớ.",
+  "please_input_verify_password": "Vui lòng nhập mật khẩu xác minh",
+  "please_input_wallet_password": "Vui lòng nhập mật khẩu ví của bạn",
+  "please_set_password_hint": "Đặt gợi ý mật khẩu",
+  "please_set_password_tip": "Vui lòng đặt ví bảo vệ mật khẩu",
+  "please_set_wallet_name": "Vui lòng đặt tên ví",
+  "pls_input_account": "Vui lòng nhập số tài khoản của bạn",
+  "pls_input_image_verify_code": "Vui lòng nhập mã xác minh đồ họa",
+  "pls_input_phone": "Vui lòng nhập số điện thoại",
+  "pls_input_pwd": "Vui lòng nhập mật khẩu của bạn",
+  "pls_input_token": "Vui lòng nhập mã xác minh",
+  "policy_amount": "Số tiền chính sách:",
+  "policy_details": "保单详情",
+  "policy_list": "Danh sách chính sách",
+  "price": "Giá",
+  "price_title": "Giá",
+  "privacy": "Chính sách bảo mật",
+  "profile": "Dữ liệu cá nhân",
+  "progress_link": "Liên kết tiến độ",
+  "proof": "Bằng chứng",
+  "push_setting_title": "Đẩy tin nhắn",
+  "qr_code_title": "Mã bộ sưu tập",
+  "qr_scan_title": "Quét",
+  "qr_share_tip_1": "Mã QR báo chí dài",
+  "qr_share_tip_2": "Nhận EOS Nhận",
+  "quickly": "Nhanh",
+  "quit_app": "Quit",
+  "receive": "Biên nhận",
+  "receiver_address": "Địa chỉ nhận",
+  "receiver_wallet_address": "Địa chỉ nhận ví",
+  "recommend_gtbwallet": "Được đề xuấtGTB Wallet",
+  "recommend_to_friends": "Được đề xuất GTB Wallet Được đề xuất",
+  "register": "Đăng ký",
+  "register_failed": "Đăng ký không thành công,Đăng ký không thành công",
+  "register_hint": "GTB Wallet Hiện tại chỉ hỗ trợ đăng ký số điện thoại di động ở Trung Quốc đại lục.",
+  "register_mean_agree": "Đăng ký được thỏa thuận",
+  "register_new_account": "Đăng ký tài khoản mới",
+  "release": "Giải phóng",
+  "remark": "Lưu ý",
+  "repeat_password": "Lặp lại mật khẩu",
+  "repeat_password_error": "Vui lòng nhập lại cùng một mật khẩu",
+  "request_failed": "Yêu cầu không thành công,Yêu cầu không thành công",
+  "request_permission": "Đăng ký xin phép",
+  "request_permission_album": "Bạn muốn lưu ảnh vào album của mình",
+  "resend": "Gửi lại",
+  "resend_count_down": "Gửi lại({})",
+  "road_map": "Bản đồ đường",
+  "save_keystore_tip_1": "Vui lòng sao chép và dán Keystore Vui lòng sao chép và dán、Vui lòng sao chép và dán.Vui lòng sao chép và dán、Vui lòng sao chép và dán、Vui lòng sao chép và dán、Vui lòng sao chép và dán,Vui lòng sao chép và dán.",
+  "save_keystore_tip_2": "Không sử dụng truyền dẫn mạng",
+  "save_keystore_tip_3": "Không chuyển qua các công cụ web Keystore Không chuyển qua các công cụ web,Không chuyển qua các công cụ web.",
+  "save_keystore_tip_4": "Đặt cọc mật khẩu an toàn",
+  "save_keystore_tip_5": "Nếu bạn cần lưu trực tuyến,Nếu bạn cần lưu trực tuyến 1Password Nếu bạn cần lưu trực tuyến Keystore.",
+  "save_offline": "Lưu vào ngoại tuyến",
+  "scan": "Quét",
+  "scan_download_app": "Quét mã QR tải xuống App",
+  "scan_qr_to_pay": "Quét mã QR để thanh toán cho tôi",
+  "search": "Tìm kiếm",
+  "select": "Chọn",
+  "select_qr_code": "Chọn mã QR",
+  "sender_address": "Địa chỉ thanh toán",
+  "sent_verify_code_hint": "Chúng tôi là {} Chúng tôi là 4 Chúng tôi là,Chúng tôi là.",
+  "set_new_password": "Đặt mật khẩu mới",
+  "set_password": "Đặt mật khẩu",
+  "set_password_hint": "Để bảo mật tài khoản của bạn,Để bảo mật tài khoản của bạn 8-16 Để bảo mật tài khoản của bạn,Để bảo mật tài khoản của bạn.",
+  "share": "Chia sẻ",
+  "share_bull": "Chia sẻ tốt",
+  "share_read_more": "Tải xuống GTB Wallet Tải xuống",
+  "share_title": "Chia sẻ",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "Vòng kết bạn",
+    "weibo": "Weibo"
+  },
+  "slow": "Chậm",
+  "start_create": "Bắt đầu tạo",
+  "start_time": "Ngày bắt đầu",
+  "submit": "Gửi",
+  "success_to_change_wallet_password": "Đã thay đổi mật khẩu thành công",
+  "success_to_delete_contact": "Đã xóa liên hệ thành công",
+  "success_to_delete_wallet": "Đã xóa ví thành công",
+  "success_to_save_photo": "Lưu ảnh thành công",
+  "success_to_submit_order": "Gửi đơn đặt hàng thành công",
+  "success_to_transfer": "Giao dịch thành công",
+  "system_settings": "Cài đặt hệ thống",
+  "team": "Team",
+  "this_is_my_eth_wallet": "Đây là của tôi GTB Đây là của tôi",
+  "time_title": "Ngày",
+  "title": "Chức vụ",
+  "token_list_title": "Thêm nội dung mới",
+  "top_up_gtt_success": "Nạp tiền GTT thành công",
+  "total_balance": "Tổng tài sản {}",
+  "total_supply": "Tổng cung",
+  "trade_pair": "Cặp giao dịch",
+  "transaction_amount": "Số tiền chuyển",
+  "transaction_amount_1": "Số tiền chuyển,Số tiền chuyển {} {}",
+  "transaction_detail": "Chi tiết giao dịch",
+  "transaction_hash": "Số giao dịch",
+  "transaction_history": "Lịch sử giao dịch",
+  "transaction_list_title": "Danh sách giao dịch",
+  "transaction_time": "Thời gian giao dịch",
+  "transaction_tip": "Sau khi chuyển thành công và đạt đến số tiền tối thiểu,Sau khi chuyển thành công và đạt đến số tiền tối thiểu",
+  "transfer": "Chuyển khoản",
+  "transfer_amount": "Số tiền thanh toán:",
+  "transfer_progress_title": "Tiến độ chuyển",
+  "transfer_success": "Chuyển đã được gửi đến blockchain để đóng gói",
+  "transfer_title": "Chuyển khoản",
+  "unbind": "Unbinding",
+  "unlock": "Mở khóa",
+  "unlock_list": "Mở khóa danh sách",
+  "unverified": "Chưa được xác minh",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "Thỏa thuận người dùng",
+  "user_name": "Tên người dùng",
+  "user_name_exist": "Biệt hiệu đã được sử dụng",
+  "validity_period": "Thời gian hiệu lực",
+  "verify": "Xác minh",
+  "verify_code": "Mã xác minh",
+  "verify_email_hint": "Email này chưa được xác minh,Email này chưa được xác minh.",
+  "verify_email_resent": "Gửi lại email xác minh",
+  "verify_password": "Xác minh mật khẩu",
+  "verify_phone": "Xác minh điện thoại của bạn",
+  "verify_success": "Xác minh thành công！",
+  "verify_wallet_password": "Xác minh mật khẩu",
+  "version_check": "Version Upgrade",
+  "view_more": "Xem thêm",
+  "view_progress": "Kiểm tra tiến độ",
+  "view_progress_1": "Kiểm tra tiến độ：",
+  "volume_24h": "Tập 24H",
+  "wait_to_confirm_transaction": "Đơn đặt hàng đang chờ xử lý",
+  "waiting_time_for_transaction": "Chờ đợi {} Chờ đợi",
+  "wallet_address": "Địa chỉ Wallet",
+  "wallet_already_exist": "Tài khoản đã tồn tại",
+  "wallet_change_password": "Thay đổi mật khẩu",
+  "wallet_delete": "Xóa ví",
+  "wallet_edit_title": "Chỉnh sửa Wallet",
+  "wallet_import": "Nhập ví",
+  "wallet_manager_title": "Quản lý ví",
+  "wallet_name": "Tên ví",
+  "wallet_name_change_title": "Thay đổi tên ví",
+  "wallet_name_format_1": "Ví mới",
+  "wallet_name_format_2": "Ví mới-{}",
+  "wallet_password": "Mật khẩu Wallet",
+  "wallet_password_change_title": "Thay đổi mật khẩu ví",
+  "wallet_seed_phrase_show_title": "Ví tiền",
+  "wallet_seed_phrase_tip_1": "Nếu ai đó có được ví Mnemonic truy cập trực tiếp của bạn với tài sản của bạn！Nếu ai đó có được ví Mnemonic truy cập trực tiếp của bạn với tài sản của bạn.",
+  "warranty": "Sự bảo đảm",
+  "website_title": "Trang web",
+  "website_title_fangwei": "GT Blockchain Antifraude",
+  "wechat_public_account": "Số điện thoại công cộng"
+}

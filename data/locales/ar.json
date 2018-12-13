@@ -1,0 +1,1289 @@
+{
+  "about_us": "عنا",
+  "account": "رقم الحساب",
+  "add": "إضافة",
+  "add_a_new_eth_wallet": "أضف واحدة GTB أضف واحدة",
+  "add_contact": "إضافة جهة اتصال",
+  "add_contacts_successful": "أضف جهات الاتصال بنجاح",
+  "add_new_token": "إضافة أصول جديدة",
+  "add_new_wallet": "أضف محفظة جديدة",
+  "address": "عنوان",
+  "album": "ألبوم الصور",
+  "algorithm": "خوارزمية",
+  "amount": "نقود",
+  "app_name": "GTB Wallet",
+  "asset_name": "اسم الأصل",
+  "assets": "ممتلكات",
+  "auto_translate": "الترجمة الآلية：",
+  "available_credit": "الاعتمادات المتاحة:",
+  "backup_keystore": "نسخ احتياطي Keystore",
+  "backup_private_key_tip_1": "حفظ بلا اتصال",
+  "backup_private_key_tip_2": "يوصى بنسخ أو طباعة المفتاح الخاص وحفظه في مكان آمن.",
+  "backup_private_key_tip_3": "لا تستخدم نقل الشبكة",
+  "backup_private_key_tip_4": "لا تنقل المفاتيح الخاصة عبر أدوات الويب,لا تنقل المفاتيح الخاصة عبر أدوات الويب.لا تنقل المفاتيح الخاصة عبر أدوات الويب.",
+  "backup_private_key_title": "المفتاح الخاص للنسخ الاحتياطي",
+  "balance_24h": "24H التوازن",
+  "basic_info": "معلومات أساسية",
+  "beneficiary": "المستفيدون",
+  "bind": "ملزم",
+  "bind_email": "ربط علبة",
+  "birthday": "عيد ميلاد",
+  "block_number": "رقم البلوك",
+  "can_not_transfer_to_myself": "لا يمكنك تحويل الأموال لنفسك",
+  "cancel": "ألغيت",
+  "change": "تغيير",
+  "change_24h": "24H التغيير",
+  "change_email_hint": "إذا قمت بتغيير عنوان البريد الإلكتروني,إذا قمت بتغيير عنوان البريد الإلكتروني.",
+  "change_name": "تغيير اسم المستخدم",
+  "change_password": "تغيير كلمة المرور",
+  "change_pwd": "تغيير كلمة المرور",
+  "check_again": "تحقق من ذلك",
+  "check_update": "تحقق من وجود تحديثات",
+  "choose_country": "اختر الدولة أو المنطقة",
+  "choose_eth_wallet": "اختر واحدة GTB اختر واحدة",
+  "choose_token": "حدد رمزًا مميزًا",
+  "close": "قريب",
+  "complete": "كامل",
+  "confirm_to_delete_contact": "تأكد من حذف جهة الاتصال",
+  "confirm_to_top_up": "تأكيد الشحن",
+  "confirm_to_transfer": "تأكيد النقل",
+  "contact_detail": "اتصال",
+  "contact_number": "رقم الاتصال",
+  "contacts": "جهات الاتصال",
+  "copy": "نسخة",
+  "copy_address_success": "بالفعل نسخ عنوان",
+  "copy_success": "نسخ بالفعل!",
+  "copy_wallet_address": "نسخ عنوان المحفظة",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "أندورا"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "الإمارات العربية المتحدة"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "أفغانستان"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "أنتيغوا وبربودا"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "أنغيلا"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "ألبانيا"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "أرمينيا"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "جزر الأنتيل الهولندية"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "أنغولا"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "الأرجنتين"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "النمسا"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "أستراليا"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "أروبا"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "أذربيجان"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "البوسنة و الهرسك"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "بربادوس"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "بنغلاديش"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "بلجيكا"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "بوركينا فاسو"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "البلغارية"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "البحرين"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "بوروندي"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "بنين"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "برمودا"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "بروناي دار السلام"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "بوليفيا"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "البرازيل"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "الباهاما"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "بوتان"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "بوتسوانا"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "روسيا البيضاء"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "بليز"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "كندا"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "الكونغو（الكونغو）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "جمهورية افريقيا الوسطى"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "الكونغو（الكونغو）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "سويسرا"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "جزر كوك"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "تشيلي"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "الكاميرون"
+    },
+    "CN": {
+      "currency_name": "الرنمينبي",
+      "sort": "ZHONG GUO",
+      "value": "الصين"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "كولومبيا"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "كوستاريكا"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "كوبا"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kafoweide"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "قبرص"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "جمهورية التشيك"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "ألمانيا"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "جيبوتي"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "الدنمارك"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "دومينيكا"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "جمهورية الدومينيكان"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "الجزائر"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "الإكوادور"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "استونيا"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "مصر"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "إسبانيا"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "أثيوبيا"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "فنلندا"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "فيجي"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "ميكرونيزيا"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "جزر فارو"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "فرنسا"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "الغابون"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "المملكة المتحدة"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "غرينادا"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "جورجيا"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "غيانا الفرنسية"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "غيرنسي"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "غانا"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "جبل طارق"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "غرينلاند"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "غامبيا"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "غينيا"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "جوادلوب"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "غينيا الاستوائية"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "يونان"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "غواتيمالا"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "غوام"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "غينيا بيساو"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "غيانا"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "هونغ كونغ"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "هندوراس"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "كرواتيا"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "هايتي"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "هنغاريا"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "أندونيسيا"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "جمهورية أيرلندا"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "إسرائيل"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "جزيرة مان"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "الهند"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "العراق"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "إيران"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "أيسلندا"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "إيطاليا"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "جيرسي"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "جامايكا"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "الأردن"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "اليابان"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "كينيا"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "قرغيزستان"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "كمبوديا"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "كيريباس"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "جزر القمر"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "سانت كيتس ونيفيس"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "كوريا الشمالية"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "كوريا الجنوبية"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "الكويت"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "جزر كايمان"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "كازاخستان"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "لاوس"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "لبنان"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "سانت لوسيا"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "ليختنشتاين"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "سري لانكا"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "ليبيريا"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "ليسوتو"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "ليتوانيا"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "لوكسمبورغ"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "لاتفيا"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "ليبيا"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "المغرب"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "موناكو"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "مولدوفا"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "الجبل الأسود"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "سانت مارتن（سانت مارتن）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "مدغشقر"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "مقدونيا"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "مالي"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "ميانمار"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "منغوليا"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "ماكاو"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "جزر ماريانا الشمالية"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "مارتينيك"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "موريتانيا"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "مونتسيرات"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "مالطا"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "موريشيوس"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "جزر المالديف"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "مالاوي"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "المكسيك"
+    },
+    "MY": {
+      "currency_name": "عملة ماليزية（عملة ماليزية）",
+      "sort": "MA LAI XI YA",
+      "value": "ماليزيا"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "موزمبيق"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "ناميبيا"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "كاليدونيا الجديدة"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "النيجر"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "جزيرة نورفولك"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "نيجيريا"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "نيكاراغوا"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "هولندا"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "النرويج"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "نيبال"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "ناورو"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "نيوزيلندا"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "عمان"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "بناما"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "بيرو"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "بولينيزيا الفرنسية"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "بابوا غينيا الجديدة"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "الفلبين"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "باكستان"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "بولندا"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "بورتوريكو"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "دولة فلسطين"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "البرتغال"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "بالاو"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "باراغواي"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "قطر"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "جمع شمل"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "رومانيا"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "صربيا"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "روسيا"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "رواندا"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "المملكة العربية السعودية"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "سيشيل"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "سودان"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "السويد"
+    },
+    "SG": {
+      "currency_name": "دولار سنغافوري",
+      "sort": "XIN JIA PO",
+      "value": "سنغافورة"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "سانت هيلانة,سانت هيلانة"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "سلوفينيا"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "سلوفاكيا"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "سيراليون"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "سان مارينو（سان مارينو）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "السنغال"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "سورينام"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "السلفادور"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "سوريا"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "سوازيلاند"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "جزر تركس وكايكوس"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "تشاد"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "توغو"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "تايلاند"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "طاجيكستان"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "تيمور الشرقية"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "تركمانستان"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "تونس"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "تونغا"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "تركيا"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "ترينيداد وتوباغو"
+    },
+    "TW": {
+      "currency_name": "دولار تايوان",
+      "sort": "TAI WAN",
+      "value": "تايوان"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "تنزانيا"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "أوكرانيا"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "أوغندا"
+    },
+    "US": {
+      "currency_name": "الدولار الأمريكي",
+      "sort": "MEI GUO",
+      "value": "الولايات المتحدة"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "أوروغواي"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "أوزبكستان"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "سانت فنسنت وجزر غرينادين"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "فنزويلا"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "جزر فيرجن البريطانية"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "جزر العذراء（جزر العذراء）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "فيتنام"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "فانواتو"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "ساموا"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "الجمهورية اليمنية"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "مايوت"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "جنوب افريقيا"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "زامبيا"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "زيمبابوي"
+    }
+  },
+  "create_again": "إعادة بناء",
+  "create_eos_wallet": "توليدEOSتوليد",
+  "create_time": "تاريخ التكوين",
+  "create_wallet": "إنشاء محفظة",
+  "currency": {
+    "AED": "درهم الإمارات العربية المتحدة",
+    "AUD": "الدولار الأسترالي",
+    "CNY": "الرنمينبي",
+    "EUR": "اليورو",
+    "GBP": "الجنيه الإسترليني",
+    "HKD": "دولار هونج كونج",
+    "IDR": "الروبية الاندونيسية",
+    "INR": "الروبية الهندية",
+    "JPY": "ين",
+    "KRW": "وون كوريا الجنوبية",
+    "MYR": "ماليزيا رينغيت",
+    "PHP": "بيزو فلبيني",
+    "SAR": "الريال السعودي",
+    "SGD": "دولار سنغافوري",
+    "THB": "البات التايلندي",
+    "USD": "الدولار الأمريكي",
+    "VND": "الفيتنامية دونغ"
+  },
+  "currency_setting_title": "إعداد وحدة العملة",
+  "current_password": "كلمة المرور الحالية",
+  "current_password_error": "كلمة المرور الحالية خاطئة",
+  "current_version": "الإصدار الحالي {}",
+  "date": "تاريخ",
+  "day": "يوم",
+  "delete": "حذف",
+  "delete_wallet": "حذف المحفظة",
+  "details": "التفاصيل",
+  "do_not_take_screenshots": "لا تأخذ لقطات",
+  "email": "صندوق البريد",
+  "email_address": "عنوان البريد الالكتروني",
+  "email_format_error": "يرجى إدخال عنوان البريد الإلكتروني",
+  "empty_data": "لا توجد بيانات",
+  "eos_entrance": "EOS مدخل بيئي",
+  "eos_key_save_tip_2": "يرجى الاحتفاظ بالمفاتيح العامة والخاصة بشكل صحيح：",
+  "eos_key_save_tip_3": ".يوصى بالنسخ أو الطباعة ووضعها في مكان آمن.",
+  "eos_key_save_tip_4": ".لا ينصح باستخدام المفتاح الخاص لنقل البيانات عبر الشبكة,لا ينصح باستخدام المفتاح الخاص لنقل البيانات عبر الشبكة.",
+  "eos_mapping_open_source": "EOS رسم الخرائط",
+  "eos_mapping_submit_contract": "تقديم العقد",
+  "eos_mapping_submit_title": "تقديم عقد رسم الخرائط",
+  "eos_mapping_success_title": "EOS رسم الخرائط",
+  "eos_mapping_tip_title": "EOS رسم الخرائط",
+  "eos_mapping_title": "EOS رسم الخرائط",
+  "eos_mapping_verify": "خريطة التحقق",
+  "eos_mapping_verify_title": "خريطة التحقق",
+  "eos_mapping_wallet": "EOS أداة رسم الخرائط",
+  "eos_not_mapping_tip": "ك EOS ك.",
+  "eos_private_key": "مفتاح خاص Private Key",
+  "eos_private_key_tip_1": "إذا حصل شخص ما على مفتاحك الخاص ، فستحصل على أصولك مباشرةً！إذا حصل شخص ما على مفتاحك الخاص ، فستحصل على أصولك مباشرةً.",
+  "eos_public_key": "المفتاح العام Public Key",
+  "eos_public_key_1": "EOS المفتاح العام للمحفظة(Public key)",
+  "eos_public_key_for_return": "عودة EOS عودة：",
+  "eos_wallet_mapping_description": "\"رسم الخرائط\"رسم الخرائط EOSرسم الخرائط EOS رسم الخرائط.رسم الخرائط EOSرسم الخرائط.GTB Wallet رسم الخرائط EOS رسم الخرائط.",
+  "eth_address_for_mapping": "خريطة مع GTB خريطة مع：",
+  "eth_private_key_tip_1": "إذا حصل شخص ما على مفتاحك الخاص ، فستحصل على أصولك مباشرةً！إذا حصل شخص ما على مفتاحك الخاص ، فستحصل على أصولك مباشرةً.",
+  "eth_wallet": "GTB محفظة",
+  "eth_wallet_add_title": "أضف محفظة",
+  "eth_wallet_address": "GTB عنوان المحفظة",
+  "eth_wallet_keystore_can_not_be_null": "محفظة Keystore محفظة",
+  "eth_wallet_name_can_not_be_null": "لا يمكن أن يكون اسم المحفظة فارغًا",
+  "eth_wallet_password_can_not_be_null": "لا يمكن أن تكون كلمة المرور فارغة",
+  "eth_wallet_private_key_can_not_be_null": "لا يمكن أن يكون المفتاح الخاص للمحفظة فارغًا",
+  "eth_wallet_seed_phrase_can_not_be_null": "لا يمكن أن تكون محفظة mnemonic فارغة",
+  "exchange": "تبادل",
+  "export_keystore": "تصدير Keystore",
+  "export_private_key": "تصدير المفتاح الخاص",
+  "failed_to_get_permission": "فشل في الحصول على إذن",
+  "failed_to_save_photo": "فشل حفظ الصورة",
+  "failed_to_transfer": "فشل النقل",
+  "feedback": "ردود الفعل",
+  "find_password": "استعادة كلمة المرور",
+  "finish_operation": "كامل",
+  "first_name": "الاسم الأول",
+  "forgot_password": "نسيت كلمة المرور",
+  "forgot_password_hint": "يمكنك استرداد كلمة المرور الخاصة بك عن طريق رقم الجوال المسجل.",
+  "github_open_source_address": "Github عنوان المصدر المفتوح",
+  "good_saved": "حفظ",
+  "gtbwallet_term_title_1": "سياسة الخدمة و الخصوصية",
+  "gtbwallet_term_title_2": "لقد قرأت بعناية ووافقت {}",
+  "gtt_redeem_code": "رمز الصرف GTT",
+  "gtt_top_up_title": "إعادة شحن GTT",
+  "have_new_version": "هناك نسخة جديدة{}",
+  "hour": "ساعة",
+  "i_know": "أنا أعلم",
+  "import": "استيراد",
+  "import_other_eth_wallet": "استيراد أخرى GTB استيراد أخرى",
+  "import_wallet": "استيراد المحفظة",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "مفتاح خاص",
+  "import_wallet_by_seed_phrase": "ذاكري",
+  "import_wallet_title": "استيراد GTB استيراد",
+  "insured": "مؤمن عليه",
+  "introduction": "المقدمة",
+  "invalid_eth_wallet_address": "فقط تعترف GTB فقط تعترف",
+  "invalid_eth_wallet_private_key": "تنسيق المفتاح الخاص للمحفظة خاطئ",
+  "invalid_qr_code": "رمز الاستجابة السريعة غير معروف",
+  "invalid_seed_phrase": "ذاكري الخاص بك هو في تنسيق خاطئ",
+  "is_newest_version": "بالفعل أحدث إصدار",
+  "k_line": "ك لاين",
+  "keystore_input_placeholder": "انسخ والصق مباشرة في محفظة Ethereum Keystore انسخ والصق مباشرة في محفظة Ethereum.",
+  "keystore_password": "Keystore كلمة المرور",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "الصينية",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "اليابانية",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "الصينية التقليدية",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "اللغة الأولى \"{}\" ?",
+  "language_second": "اللغة الثانية \"{}\" ?",
+  "language_setting_title": "إعدادات اللغة",
+  "last_name": "اسم العائلة",
+  "loading": "تحميل",
+  "login": "تسجيل الدخول",
+  "login_failed": "فشل تسجيل الدخول,فشل تسجيل الدخول",
+  "login_with_exist_account": "تسجيل الدخول إلى حساب موجود",
+  "logout": "تسجيل الخروج",
+  "mailbox": "صندوق البريد",
+  "main_page_menu": {
+    "receive_money": "ذمم مدينة",
+    "scan": "اكتساح",
+    "transaction_history": "سجل المعاملات",
+    "transfer": "نقل"
+  },
+  "main_tab": {
+    "gtbwallet": "ممتلكات",
+    "mine": "لي",
+    "news": "معلومات"
+  },
+  "main_tab_token_price": "السعر",
+  "make_sure_again": "تأكيد",
+  "make_sure_again_for_eos_private_key": "GTB Wallet لن تحميل لك EOS لن تحميل لك,لن تحميل لك,لن تحميل لك.",
+  "manager_wallet": "إدارة المحفظة",
+  "mapping_contract": "عقد رسم الخرائط",
+  "mapping_not": "تفاصيلها",
+  "mapping_now": "الخريطة الآن",
+  "mapping_status": "حالة رسم الخرائط",
+  "mapping_success": "تعيين",
+  "market": "سوق",
+  "market_value_title": "القيمة السوقية",
+  "max_supply": "ماكس العرض",
+  "member_name": "اسم",
+  "member_title": "عنوان",
+  "mine": "لي",
+  "miner_fee": "أجور عمال المناجم:",
+  "minute": "دقيقة",
+  "mobile_number": "رقم الهاتف المحمول",
+  "mobile_or_email": "الهاتف الخليوي/الهاتف الخليوي",
+  "modify_success": "تعديل بنجاح",
+  "multi_language": "متعدد اللغات",
+  "my_eth_wallet": "لي GTB لي",
+  "newest": "آخر{}",
+  "news_title": "معلومات",
+  "news_type_title": {
+    "gtbwallet_self": "أخبار",
+    "twitter": "تغريد",
+    "wechat": "الرقم العام",
+    "weibo": "ويبو"
+  },
+  "next_step": "الخطوة التالية",
+  "no_binding": "غير مقيد",
+  "no_internet": "لا رابط على شبكة الإنترنت",
+  "not_login_account": "لم تقم بتسجيل الدخول",
+  "not_set": "لم يتم التعيين",
+  "notification_page_title": "إشعار",
+  "official_website": "الموقع الرسمي",
+  "ok": "حدد",
+  "operate_failed": "فشلت العملية,فشلت العملية",
+  "order_confirm": "تأكيد الطلب",
+  "order_number": "رقم الطلب",
+  "password": "كلمة المرور",
+  "password2": "كرر كلمة المرور",
+  "password_format_hint": "طول كلمة المرور8-16طول كلمة المرور,طول كلمة المرور、طول كلمة المرور,طول كلمة المرور.",
+  "password_is_not_same": "كلمة المرور ليست هي نفسها",
+  "password_modify_success": "تعديل بنجاح, تعديل بنجاح",
+  "password_old": "كلمة المرور القديمة",
+  "password_tip_hint": "تلميح كلمة المرور المعلومات（تلميح كلمة المرور المعلومات）",
+  "password_verify": "تحقق من كلمة المرور",
+  "phone_number": "رقم الهاتف",
+  "please_agree_gtbwallet_term": "يرجى الموافقة على سياسة الخدمة والخصوصية",
+  "please_inpput_address": "يرجى إدخال عنوان الإيصال",
+  "please_inpput_first_name": "يرجى إدخال الاسم الأول",
+  "please_inpput_lase_name": "يرجى إدخال الاسم الأخير",
+  "please_inpput_valide_address": "يرجى إدخال عنوان استلام صالح",
+  "please_input_amount": "يرجى إدخال المبلغ",
+  "please_input_gtt_code": "يرجى إدخال كود الصرف GTT",
+  "please_input_private_key": "يرجى إدخال المفتاح الخاص للنص العادي.",
+  "please_input_receiver_address": "يرجى إدخال عنوان المستلم",
+  "please_input_seed_phrase": "يرجى إدخال ذاكري,يرجى إدخال ذاكري.",
+  "please_input_verify_password": "يرجى إدخال كلمة مرور التحقق",
+  "please_input_wallet_password": "يرجى إدخال كلمة السر الخاصة بحفظك",
+  "please_set_password_hint": "تعيين تلميح كلمة المرور",
+  "please_set_password_tip": "يرجى ضبط محفظة حماية بكلمة مرور",
+  "please_set_wallet_name": "يرجى تحديد اسم المحفظة",
+  "pls_input_account": "يرجى إدخال رقم حسابك",
+  "pls_input_image_verify_code": "يرجى إدخال رمز التحقق للرسم",
+  "pls_input_phone": "يرجى إدخال رقم الهاتف",
+  "pls_input_pwd": "يرجى إدخال كلمة المرور الخاصة بك",
+  "pls_input_token": "يرجى إدخال رمز التحقق",
+  "policy_amount": "مبلغ السياسة:",
+  "policy_details": "保单详情",
+  "policy_list": "قائمة السياسات",
+  "price": "السعر",
+  "price_title": "السعر",
+  "privacy": "سياسة الخصوصية",
+  "profile": "البيانات الشخصية",
+  "progress_link": "رابط التقدم",
+  "proof": "دليل",
+  "push_setting_title": "دفع رسالة",
+  "qr_code_title": "كود المجموعة",
+  "qr_scan_title": "اكتساح",
+  "qr_share_tip_1": "اضغط لفترة طويلة على رمز الاستجابة السريعة",
+  "qr_share_tip_2": "الحصول على EOS الحصول على",
+  "quickly": "بسرعة",
+  "quit_app": "استقال",
+  "receive": "ذمم مدينة",
+  "receiver_address": "عنوان الاستلام",
+  "receiver_wallet_address": "عنوان محفظة الاستلام",
+  "recommend_gtbwallet": "توصيةGTB Wallet",
+  "recommend_to_friends": "توصية GTB Wallet توصية",
+  "register": "تسجيل",
+  "register_failed": "فشل التسجيل,فشل التسجيل",
+  "register_hint": "GTB Wallet حاليا يدعم فقط تسجيل أرقام الهاتف المحمول في الصين القارية.",
+  "register_mean_agree": "التسجيل متفق عليه",
+  "register_new_account": "تسجيل حساب جديد",
+  "release": "فتح",
+  "remark": "تعليق",
+  "repeat_password": "كرر كلمة المرور",
+  "repeat_password_error": "يرجى إعادة إدخال كلمة المرور نفسها",
+  "request_failed": "فشل الطلب,فشل الطلب",
+  "request_permission": "التقدم بطلب للحصول على إذن",
+  "request_permission_album": "تريد حفظ الصور لألبومك",
+  "resend": "إعادة إرسال",
+  "resend_count_down": "إعادة إرسال({})",
+  "road_map": "خريطة الطريق",
+  "save_keystore_tip_1": "يرجى نسخ ولصق Keystore يرجى نسخ ولصق、يرجى نسخ ولصق.يرجى نسخ ولصق、يرجى نسخ ولصق、يرجى نسخ ولصق、يرجى نسخ ولصق,يرجى نسخ ولصق.",
+  "save_keystore_tip_2": "لا تستخدم نقل الشبكة",
+  "save_keystore_tip_3": "لا تنقل عبر أدوات الويب Keystore لا تنقل عبر أدوات الويب,لا تنقل عبر أدوات الويب.",
+  "save_keystore_tip_4": "إيداع آمن لكلمة المرور",
+  "save_keystore_tip_5": "إذا كنت بحاجة إلى توفير عبر الإنترنت,إذا كنت بحاجة إلى توفير عبر الإنترنت 1Password إذا كنت بحاجة إلى توفير عبر الإنترنت Keystore.",
+  "save_offline": "حفظ بلا اتصال",
+  "scan": "اكتساح",
+  "scan_download_app": "مسح رمز الاستجابة السريعة تنزيل App",
+  "scan_qr_to_pay": "مسح رمز الاستجابة السريعة لدفع لي",
+  "search": "بحث",
+  "select": "اختر",
+  "select_qr_code": "اختر رمز الاستجابة السريعة",
+  "sender_address": "عنوان الدفع",
+  "sent_verify_code_hint": "نحن {} نحن 4 نحن,نحن.",
+  "set_new_password": "قم بتعيين كلمة مرور جديدة",
+  "set_password": "ضبط كلمة المرور",
+  "set_password_hint": "لأمن حسابك,لأمن حسابك 8-16 لأمن حسابك,لأمن حسابك.",
+  "share": "سهم",
+  "share_bull": "شارك جيدًا",
+  "share_read_more": "تحميل GTB Wallet تحميل",
+  "share_title": "سهم",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "بريد إلكتروني الصغير",
+    "wechat_moment": "دائرة الأصدقاء",
+    "weibo": "ويبو"
+  },
+  "slow": "بطيء",
+  "start_create": "ابدأ في توليد",
+  "start_time": "تاريخ البدء",
+  "submit": "عرض",
+  "success_to_change_wallet_password": "تم تغيير كلمة المرور بنجاح",
+  "success_to_delete_contact": "تم حذف جهة الاتصال بنجاح",
+  "success_to_delete_wallet": "تم حذف المحفظة بنجاح",
+  "success_to_save_photo": "حفظ الصورة بنجاح",
+  "success_to_submit_order": "أرسل الطلب بنجاح",
+  "success_to_transfer": "صفقة ناجحة",
+  "system_settings": "إعدادات النظام",
+  "team": "الفريق",
+  "this_is_my_eth_wallet": "هذا هو بلدي GTB هذا هو بلدي",
+  "time_title": "تاريخ",
+  "title": "عنوان رئيسي",
+  "token_list_title": "إضافة أصول جديدة",
+  "top_up_gtt_success": "إعادة شحن GTT النجاح",
+  "total_balance": "مجموع الأصول CNY",
+  "total_supply": "مجموع التوريد",
+  "trade_pair": "زوج التجارة",
+  "transaction_amount": "مبلغ التحويل",
+  "transaction_amount_1": "مبلغ التحويل,مبلغ التحويل {} {}",
+  "transaction_detail": "تفاصيل المعاملة",
+  "transaction_hash": "رقم المعاملة",
+  "transaction_history": "سجل المعاملات",
+  "transaction_list_title": "قائمة المعاملات",
+  "transaction_time": "وقت التداول",
+  "transaction_tip": "بعد نجاح عملية النقل والوصول إلى الحد الأدنى للمبلغ,بعد نجاح عملية النقل والوصول إلى الحد الأدنى للمبلغ",
+  "transfer": "نقل",
+  "transfer_amount": "مبلغ الدفع:",
+  "transfer_progress_title": "تقدم النقل",
+  "transfer_success": "تم إرسال التحويلات إلى blockchain للتغليف",
+  "transfer_title": "نقل",
+  "unbind": "حل قيد",
+  "unlock": "فتح",
+  "unlock_list": "فتح القائمة",
+  "unverified": "غير مثبت عليه",
+  "update_later": "الترقية لاحقًا",
+  "update_now": "ترقية الآن",
+  "user_agreement": "اتفاق المستخدم",
+  "user_name": "اسم المستخدم",
+  "user_name_exist": "اللقب تم استخدامه",
+  "validity_period": "فترة الصلاحية",
+  "verify": "التحقق",
+  "verify_code": "رمز التحقق",
+  "verify_email_hint": "لم يتم التحقق من هذا البريد الإلكتروني,لم يتم التحقق من هذا البريد الإلكتروني.",
+  "verify_email_resent": "إعادة إرسال رسالة التحقق",
+  "verify_password": "تحقق من كلمة المرور",
+  "verify_phone": "تحقق من هاتفك",
+  "verify_success": "تحقق ناجح！",
+  "verify_wallet_password": "تحقق من كلمة المرور",
+  "version_check": "ترقية الإصدار",
+  "view_more": "شاهد المزيد",
+  "view_progress": "تحقق من التقدم",
+  "view_progress_1": "تحقق من التقدم：",
+  "volume_24h": "حجم 24 ساعة",
+  "wait_to_confirm_transaction": "في انتظار النظام",
+  "waiting_time_for_transaction": "لقد كنت في انتظار {} لقد كنت في انتظار",
+  "wallet_address": "عنوان المحفظة",
+  "wallet_already_exist": "الحساب موجود بالفعل",
+  "wallet_change_password": "تغيير كلمة المرور",
+  "wallet_delete": "حذف المحفظة",
+  "wallet_edit_title": "تحرير المحفظة",
+  "wallet_import": "استيراد المحفظة",
+  "wallet_manager_title": "إدارة المحفظة",
+  "wallet_name": "اسم المحفظة",
+  "wallet_name_change_title": "تغيير اسم المحفظة",
+  "wallet_name_format_1": "محفظة جديدة",
+  "wallet_name_format_2": "محفظة جديدة-{}",
+  "wallet_password": "كلمة مرور المحفظة",
+  "wallet_password_change_title": "تغيير كلمة مرور المحفظة",
+  "wallet_seed_phrase_show_title": "محفظة mnemonic",
+  "wallet_seed_phrase_tip_1": "إذا حصل شخص ما على محفظة محفظتك ، فستحصل على أصولك مباشرة！إذا حصل شخص ما على محفظة محفظتك ، فستحصل على أصولك مباشرة.",
+  "warranty": "بوليصة التأمين",
+  "website_title": "الموقع",
+  "website_title_fangwei": "GT Blockchain Antifraude",
+  "wechat_public_account": "الرقم العام"
+}

@@ -1,0 +1,1289 @@
+{
+  "about_us": "회사 소개",
+  "account": "계좌 번호",
+  "add": "추가",
+  "add_a_new_eth_wallet": "하나 추가 GTB 하나 추가",
+  "add_contact": "주소록 추가",
+  "add_contacts_successful": "주소록 추가 성공",
+  "add_new_token": "새 저작물 추가",
+  "add_new_wallet": "새 지갑 추가",
+  "address": "주소",
+  "album": "사진 앨범",
+  "algorithm": "알고리즘",
+  "amount": "양",
+  "app_name": "GTB Wallet",
+  "asset_name": "애셋 이름",
+  "assets": "자산",
+  "auto_translate": "자동 번역：",
+  "available_credit": "사용 가능한 크레딧 :",
+  "backup_keystore": "백업 Keystore",
+  "backup_private_key_tip_1": "오프라인 저장",
+  "backup_private_key_tip_2": "개인 키를 복사하거나 인쇄하여 안전한 장소에 보관하는 것이 좋습니다.",
+  "backup_private_key_tip_3": "네트워크 전송을 사용하지 마십시오.",
+  "backup_private_key_tip_4": "웹 도구를 통해 개인 키를 전송하지 마십시오.,웹 도구를 통해 개인 키를 전송하지 마십시오..웹 도구를 통해 개인 키를 전송하지 마십시오..",
+  "backup_private_key_title": "개인 키 백업",
+  "balance_24h": "밸런스 24H",
+  "basic_info": "기본 정보",
+  "beneficiary": "수익자",
+  "bind": "바인딩",
+  "bind_email": "편지함 바인딩",
+  "birthday": "생일",
+  "block_number": "블록 번호",
+  "can_not_transfer_to_myself": "저작물을 자신에게 양도 할 수 없습니다.",
+  "cancel": "취소",
+  "change": "변경",
+  "change_24h": "24H 변경",
+  "change_email_hint": "이메일 주소를 변경 한 경우,이메일 주소를 변경 한 경우.",
+  "change_name": "사용자 이름 변경",
+  "change_password": "비밀번호 변경",
+  "change_pwd": "비밀번호 변경",
+  "check_again": "그것을 확인하십시오",
+  "check_update": "업데이트 확인",
+  "choose_country": "국가 또는 지역 선택",
+  "choose_eth_wallet": "하나 선택 GTB 하나 선택",
+  "choose_token": "토큰 선택",
+  "close": "휴무일",
+  "complete": "완료",
+  "confirm_to_delete_contact": "연락처를 삭제해야합니다.",
+  "confirm_to_top_up": "충전 확인",
+  "confirm_to_transfer": "송금 확인",
+  "contact_detail": "연락처",
+  "contact_number": "연락 전화 번호",
+  "contacts": "연락처",
+  "copy": "중복",
+  "copy_address_success": "이미 복사 한 주소",
+  "copy_success": "이미 복사 됨!",
+  "copy_wallet_address": "지갑 주소 복사",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "안도라"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "아랍 에미리트"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "아프가니스탄"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "앤티가 바부 다"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "앵 귈라"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "알바니아"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "아르메니아"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "네덜란드 령 안틸레스"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "앙골라"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "아르헨티나"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "오스트리아"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "호주"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "아루바"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "아제르바이잔"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "보스니아 헤르체고비나"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "바베이도스"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "방글라데시"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "벨기에"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "부르 키나 파소"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "불가리아"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "바레인"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "부룬디"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "베냉"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "버뮤다"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "브루나이 다루 살람"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "볼리비아"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "브라질"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "바하마"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "부탄"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "보츠와나"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "벨로루시"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "벨리즈"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "캐나다"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "콩고（콩고）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "중앙 아프리카 공화국"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "콩고（콩고）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "스위스"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "쿡 제도"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "칠레"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "카메룬"
+    },
+    "CN": {
+      "currency_name": "인민폐",
+      "sort": "ZHONG GUO",
+      "value": "중국"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "컬럼비아"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "코스타리카"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "쿠바"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "Kavverd"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "키프로스"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "체코"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "독일"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "지부티"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "덴마크"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "도미니크"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "도미니카 공화국"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "알제리아"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "에콰도르"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "에스토니아"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "이집트"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "스페인어"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "에티오피아"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "핀란드어"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "피지"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "미크로네시아"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "페로 제도"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "프랑스어"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "가봉"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "영국"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "그레나다"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "조지아"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "프랑스 령 기아나"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "건지 섬"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "가너"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "지브롤터"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "그린란드"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "감비아"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "기니"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "과들루프"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "적도 기니"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "그리스"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "과테말라"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "괌"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "기니 비사우"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "가이아나"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "홍콩"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "온두라스"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "크로아티아"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "아이티"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "헝가리"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "인도네시아"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "아일랜드 공화국"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "이스라엘"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "아일 오브 맨"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "인도"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "이라크"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "이란"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "아이슬란드"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "이탈리아"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "저지"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "자메이카"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "요르단"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "일본"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "케냐"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "키르기스스탄"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "캄보디아"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "키리바시"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "코모로"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "세인트 키츠 네비스"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "북한"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "한국"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "쿠웨이트"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "케이맨 군도"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "카자흐스탄"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "라오스"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "레바논 사람"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "세인트 루시아"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "리히텐슈타인"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "스리랑카"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "라이베리아"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "레소토"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "리투아니아"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "룩셈부르크"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "라트비아"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "리비아"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "모로코"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "모나코"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "몰도바"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "몬테네그로"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "세인트 마틴（세인트 마틴）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "마다가스카르"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "마케도니아"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "말리"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "버마"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "몽골"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "마카오"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "북 마리아나 군도"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "마르티니크"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "모리타니"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "몬세 라트"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "몰타"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "모리셔스"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "몰디브"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "말라위"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "멕시코 사람"
+    },
+    "MY": {
+      "currency_name": "말레이시아 통화（말레이시아 통화）",
+      "sort": "MA LAI XI YA",
+      "value": "말레이시아"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "모잠비크"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "나미비아"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "뉴 칼레도니아"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "니제르"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "노퍽 섬"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "나이지리아"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "니카라과"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "네덜란드"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "노르웨이어의"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "네팔"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "나우루"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "뉴질랜드"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "오만"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "파나마"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "페루"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "프랑스 령 폴리네시아"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "파푸아 뉴기니"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "필리핀"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "파키스탄"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "폴란드"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "푸에르토 리코"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "팔레스타인의 상태"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "포르투갈"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "팔라우"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "파라과이"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "카타르"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "레위니옹"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "루마니아"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "세르비아"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "러시아"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "르완다"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "사우디 아라비아"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "세이셸"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "술탄"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "스웨덴"
+    },
+    "SG": {
+      "currency_name": "싱가포르 달러",
+      "sort": "XIN JIA PO",
+      "value": "싱가포르"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "세인트 헬레나,세인트 헬레나"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "슬로베니아"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "슬로바키아"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "시에라 리온"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "산 마리노（산 마리노）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "세네갈"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "수리남"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "엘살바도르"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "시리아"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "스와질란드"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "터크 스 케이 커스 제도"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "차드"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "토고"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "태국 사람"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "타지키스탄"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "동 티모르"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "투르크 메니스탄"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "튀니지"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "통가"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "터키"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "트리니다드 토바고"
+    },
+    "TW": {
+      "currency_name": "대만 달러",
+      "sort": "TAI WAN",
+      "value": "대만"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "탄자니아"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "우크라이나"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "우간다"
+    },
+    "US": {
+      "currency_name": "미화",
+      "sort": "MEI GUO",
+      "value": "미국"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "우루과이"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "우즈베키스탄"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "세인트 빈센트 그레나딘"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "베네수엘라"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "영국령 버진 아일랜드"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "버진 아일랜드（버진 아일랜드）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "베트남"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "바누아투"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "사모아"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "예멘 공화국"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "마 요트"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "남아프리카 공화국"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "잠비아"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "짐바브웨"
+    }
+  },
+  "create_again": "재생성하다",
+  "create_eos_wallet": "생성 된EOS생성 된",
+  "create_time": "날짜 만들기",
+  "create_wallet": "지갑 만들기",
+  "currency": {
+    "AED": "아랍 에미리트 디람",
+    "AUD": "호주 달러",
+    "CNY": "인민폐",
+    "EUR": "유로",
+    "GBP": "GBP",
+    "HKD": "홍콩 달러",
+    "IDR": "인도네시아 루피",
+    "INR": "인도 루피",
+    "JPY": "엔",
+    "KRW": "한국 원",
+    "MYR": "말레이시아 링깃",
+    "PHP": "필리핀 페소",
+    "SAR": "사우디 리얄",
+    "SGD": "싱가포르 달러",
+    "THB": "태국 바트",
+    "USD": "미화",
+    "VND": "베트남 동"
+  },
+  "currency_setting_title": "통화 단위 설정",
+  "current_password": "현재 비밀번호",
+  "current_password_error": "현재 비밀번호가 잘못되었습니다.",
+  "current_version": "현재 버전 {}",
+  "date": "날짜",
+  "day": "주간",
+  "delete": "제거",
+  "delete_wallet": "지갑 삭제",
+  "details": "세부",
+  "do_not_take_screenshots": "스크린 샷을 가져 가지 마십시오.",
+  "email": "이메일",
+  "email_address": "이메일 주소",
+  "email_format_error": "이메일 주소를 입력하십시오.",
+  "empty_data": "데이터 없음",
+  "eos_entrance": "EOS 생태 입구",
+  "eos_key_save_tip_2": "공개 키와 개인 키를 올바르게 보관하십시오.：",
+  "eos_key_save_tip_3": ".복사하거나 인쇄하여 안전한 장소에 보관하는 것이 좋습니다..",
+  "eos_key_save_tip_4": ".네트워크 전송 개인 키는 사용하지 않는 것이 좋습니다.,네트워크 전송 개인 키는 사용하지 않는 것이 좋습니다..",
+  "eos_mapping_open_source": "EOS 매핑",
+  "eos_mapping_submit_contract": "계약서 제출",
+  "eos_mapping_submit_title": "매핑 계약 제출",
+  "eos_mapping_success_title": "EOS 매핑",
+  "eos_mapping_tip_title": "EOS 매핑",
+  "eos_mapping_title": "EOS 매핑",
+  "eos_mapping_verify": "검증지도",
+  "eos_mapping_verify_title": "검증지도",
+  "eos_mapping_wallet": "EOS 매핑 도구",
+  "eos_not_mapping_tip": "너의 것 EOS 너의 것.",
+  "eos_private_key": "개인 키 Private Key",
+  "eos_private_key_tip_1": "누군가가 귀하의 비공개 키를 얻으면 직접 자산을 얻을 수 있습니다.！누군가가 귀하의 비공개 키를 얻으면 직접 자산을 얻을 수 있습니다..",
+  "eos_public_key": "공개 키 Public Key",
+  "eos_public_key_1": "EOS 월렛 공개 키(Public key)",
+  "eos_public_key_for_return": "반품 됨 EOS 반품 됨：",
+  "eos_wallet_mapping_description": "\"매핑\"매핑 EOS매핑 EOS 매핑.매핑 EOS매핑.GTB Wallet 매핑 EOS 매핑.",
+  "eth_address_for_mapping": "매핑 된 GTB 매핑 된：",
+  "eth_private_key_tip_1": "누군가가 귀하의 비공개 키를 얻으면 직접 자산을 얻을 수 있습니다.！누군가가 귀하의 비공개 키를 얻으면 직접 자산을 얻을 수 있습니다..",
+  "eth_wallet": "GTB 월렛",
+  "eth_wallet_add_title": "지갑 추가",
+  "eth_wallet_address": "GTB 월렛 주소",
+  "eth_wallet_keystore_can_not_be_null": "월렛 Keystore 월렛",
+  "eth_wallet_name_can_not_be_null": "월렛 이름은 비워 둘 수 없습니다.",
+  "eth_wallet_password_can_not_be_null": "비밀번호는 비워 둘 수 없습니다.",
+  "eth_wallet_private_key_can_not_be_null": "월렛의 비공개 키는 비워 둘 수 없습니다.",
+  "eth_wallet_seed_phrase_can_not_be_null": "월렛 니모닉은 비워 둘 수 없습니다.",
+  "exchange": "교환",
+  "export_keystore": "수출 Keystore",
+  "export_private_key": "개인 키 내보내기",
+  "failed_to_get_permission": "권한을 얻지 못했습니다.",
+  "failed_to_save_photo": "사진을 저장하지 못했습니다.",
+  "failed_to_transfer": "전송 실패",
+  "feedback": "피드백",
+  "find_password": "비밀번호 복구",
+  "finish_operation": "완료",
+  "first_name": "이름",
+  "forgot_password": "비밀 번호를 잊어 버렸습니다.",
+  "forgot_password_hint": "등록 된 휴대폰 번호로 비밀번호를 검색 할 수 있습니다..",
+  "github_open_source_address": "Github 공개 소스 주소",
+  "good_saved": "저장 됨",
+  "gtbwallet_term_title_1": "서비스 및 개인 정보 보호 정책",
+  "gtbwallet_term_title_2": "나는 신중하게 읽고 동의했다. {}",
+  "gtt_redeem_code": "GTT 교환 코드",
+  "gtt_top_up_title": "GTT 충전",
+  "have_new_version": "새 버전이 있습니다.{}",
+  "hour": "시간",
+  "i_know": "나는 알고있다.",
+  "import": "가져 오기",
+  "import_other_eth_wallet": "기타 가져 오기 GTB 기타 가져 오기",
+  "import_wallet": "지갑 가져 오기",
+  "import_wallet_by_keystore_title": "Keystore",
+  "import_wallet_by_private_key": "개인 키",
+  "import_wallet_by_seed_phrase": "니모닉",
+  "import_wallet_title": "가져 오기 GTB 가져 오기",
+  "insured": "보험",
+  "introduction": "소개",
+  "invalid_eth_wallet_address": "인식 만 GTB 인식 만",
+  "invalid_eth_wallet_private_key": "월렛 개인 키 형식이 잘못되었습니다.",
+  "invalid_qr_code": "알 수없는 QR 코드",
+  "invalid_seed_phrase": "니모닉의 형식이 잘못되었습니다.",
+  "is_newest_version": "이미 최신 버전",
+  "k_line": "K 라인",
+  "keystore_input_placeholder": "Ethereum Wallet에 직접 복사하여 붙여 넣기 Keystore Ethereum Wallet에 직접 복사하여 붙여 넣기.",
+  "keystore_password": "Keystore 비밀번호",
+  "language": {
+    "arabic": "العربية",
+    "chinese": "중국어",
+    "english": "English",
+    "french": "français",
+    "hindi": "हिंदी",
+    "indonesian": "bahasa Indonesia",
+    "japanese": "일본어",
+    "korean": "한국어",
+    "malay": "malay",
+    "nepali": "nepali",
+    "russian": "русский",
+    "spanish": "Español",
+    "taiwan": "중국어 번체",
+    "thai": "ไทย",
+    "vietnamese": "Tiếng Việt"
+  },
+  "language_first": "첫 번째 언어 \"{}\" ?",
+  "language_second": "제 2 언어 \"{}\" ?",
+  "language_setting_title": "언어 설정",
+  "last_name": "성",
+  "loading": "로드 중",
+  "login": "로그인",
+  "login_failed": "로그인 실패,로그인 실패",
+  "login_with_exist_account": "기존 계정에 로그인하십시오.",
+  "logout": "로그 아웃",
+  "mailbox": "사서함",
+  "main_page_menu": {
+    "receive_money": "영수증",
+    "scan": "스윕",
+    "transaction_history": "거래 내역",
+    "transfer": "전송"
+  },
+  "main_tab": {
+    "gtbwallet": "자산",
+    "mine": "내",
+    "news": "정보"
+  },
+  "main_tab_token_price": "인용문",
+  "make_sure_again": "재확인",
+  "make_sure_again_for_eos_private_key": "GTB Wallet 너의 것을 올리지 않을 것이다. EOS 너의 것을 올리지 않을 것이다.,너의 것을 올리지 않을 것이다.,너의 것을 올리지 않을 것이다..",
+  "manager_wallet": "지갑 관리",
+  "mapping_contract": "매핑 계약",
+  "mapping_not": "매핑 해제 됨",
+  "mapping_now": "지금지도 작성",
+  "mapping_status": "매핑 상태",
+  "mapping_success": "매핑 된",
+  "market": "시장",
+  "market_value_title": "시장 가치",
+  "max_supply": "최대 공급량",
+  "member_name": "이름",
+  "member_title": "제목",
+  "mine": "내",
+  "miner_fee": "광부 비용:",
+  "minute": "분",
+  "mobile_number": "휴대 전화 번호",
+  "mobile_or_email": "휴대 전화/휴대 전화",
+  "modify_success": "성공적으로 수정 됨",
+  "multi_language": "다국어",
+  "my_eth_wallet": "내 GTB 내",
+  "newest": "최신{}",
+  "news_title": "정보",
+  "news_type_title": {
+    "gtbwallet_self": "알리미",
+    "twitter": "트위터",
+    "wechat": "공개 번호",
+    "weibo": "웨이 보"
+  },
+  "next_step": "다음 단계",
+  "no_binding": "언 바운드",
+  "no_internet": "인터넷에 연결되지 않음",
+  "not_login_account": "로그인하지 않았습니다.",
+  "not_set": "설정되지 않음",
+  "notification_page_title": "공지 사항",
+  "official_website": "공식 웹 사이트",
+  "ok": "확인",
+  "operate_failed": "작업 실패,작업 실패",
+  "order_confirm": "주문 확인",
+  "order_number": "주문 번호",
+  "password": "비밀번호",
+  "password2": "비밀번호 반복",
+  "password_format_hint": "비밀번호 길이8-16비밀번호 길이,비밀번호 길이、비밀번호 길이,비밀번호 길이.",
+  "password_is_not_same": "암호가 같지 않습니다.",
+  "password_modify_success": "성공적으로 수정 됨, 성공적으로 수정 됨",
+  "password_old": "이전 암호",
+  "password_tip_hint": "비밀번호 힌트 정보（비밀번호 힌트 정보）",
+  "password_verify": "비밀번호 확인",
+  "phone_number": "전화 번호",
+  "please_agree_gtbwallet_term": "서비스 및 개인 정보 보호 정책에 동의하십시오.",
+  "please_inpput_address": "영수증 주소를 입력하십시오.",
+  "please_inpput_first_name": "이름을 입력하십시오.",
+  "please_inpput_lase_name": "성을 입력하십시오.",
+  "please_inpput_valide_address": "유효한 영수증 주소를 입력하십시오.",
+  "please_input_amount": "금액을 입력하십시오.",
+  "please_input_gtt_code": "GTT 교환 코드를 입력하십시오.",
+  "please_input_private_key": "일반 텍스트 개인 키를 입력하십시오..",
+  "please_input_receiver_address": "수령인의 주소를 입력하십시오.",
+  "please_input_seed_phrase": "니모닉을 입력하십시오.,니모닉을 입력하십시오..",
+  "please_input_verify_password": "확인 비밀번호를 입력하십시오.",
+  "please_input_wallet_password": "지갑 비밀번호를 입력하십시오.",
+  "please_set_password_hint": "비밀번호 힌트 설정",
+  "please_set_password_tip": "암호 보호 지갑을 설정하십시오.",
+  "please_set_wallet_name": "지갑 이름을 설정하십시오.",
+  "pls_input_account": "계좌 번호를 입력하십시오.",
+  "pls_input_image_verify_code": "그래픽 인증 코드를 입력하십시오.",
+  "pls_input_phone": "전화 번호를 입력하십시오.",
+  "pls_input_pwd": "비밀번호를 입력하십시오.",
+  "pls_input_token": "인증 코드를 입력하십시오.",
+  "policy_amount": "정책 금액 :",
+  "policy_details": "保单详情",
+  "policy_list": "정책 목록",
+  "price": "가격",
+  "price_title": "가격",
+  "privacy": "개인 정보 보호 정책",
+  "profile": "개인 데이터",
+  "progress_link": "진행 링크",
+  "proof": "증명",
+  "push_setting_title": "메시지 푸시",
+  "qr_code_title": "소장 코드",
+  "qr_scan_title": "스윕",
+  "qr_share_tip_1": "긴 보도 자료 QR 코드",
+  "qr_share_tip_2": "가져 오기 EOS 가져 오기",
+  "quickly": "빠른",
+  "quit_app": "Quit",
+  "receive": "영수증",
+  "receiver_address": "영수증 주소",
+  "receiver_wallet_address": "영수증 지갑 주소",
+  "recommend_gtbwallet": "추천GTB Wallet",
+  "recommend_to_friends": "추천 GTB Wallet 추천",
+  "register": "등록",
+  "register_failed": "등록 실패,등록 실패",
+  "register_hint": "GTB Wallet 현재 중국 본토에서만 휴대 전화 번호 등록 지원.",
+  "register_mean_agree": "등록 동의 됨",
+  "register_new_account": "새 계정 등록",
+  "release": "해제",
+  "remark": "참고",
+  "repeat_password": "비밀번호 반복",
+  "repeat_password_error": "동일한 비밀번호를 다시 입력하십시오.",
+  "request_failed": "요청 실패,요청 실패",
+  "request_permission": "허가 신청",
+  "request_permission_album": "사진을 앨범에 저장하고 싶습니다.",
+  "resend": "재전송",
+  "resend_count_down": "재전송({})",
+  "road_map": "로드맵",
+  "save_keystore_tip_1": "복사하여 붙여 넣으십시오. Keystore 복사하여 붙여 넣으십시오.、복사하여 붙여 넣으십시오..복사하여 붙여 넣으십시오.、복사하여 붙여 넣으십시오.、복사하여 붙여 넣으십시오.、복사하여 붙여 넣으십시오.,복사하여 붙여 넣으십시오..",
+  "save_keystore_tip_2": "네트워크 전송을 사용하지 마십시오.",
+  "save_keystore_tip_3": "웹 도구를 통해 전송하지 마십시오. Keystore 웹 도구를 통해 전송하지 마십시오.,웹 도구를 통해 전송하지 마십시오..",
+  "save_keystore_tip_4": "비밀번호 안전 예금",
+  "save_keystore_tip_5": "온라인으로 저장해야하는 경우,온라인으로 저장해야하는 경우 1Password 온라인으로 저장해야하는 경우 Keystore.",
+  "save_offline": "오프라인 저장",
+  "scan": "스윕",
+  "scan_download_app": "스캔 QR 코드 다운로드 App",
+  "scan_qr_to_pay": "나를 지불 QR 코드를 스캔",
+  "search": "검색",
+  "select": "선택",
+  "select_qr_code": "QR 코드 선택",
+  "sender_address": "지불 주소",
+  "sent_verify_code_hint": "우리는 {} 우리는 4 우리는,우리는.",
+  "set_new_password": "새 암호 설정",
+  "set_password": "비밀번호 설정",
+  "set_password_hint": "계정 보안을 위해,계정 보안을 위해 8-16 계정 보안을 위해,계정 보안을 위해.",
+  "share": "공유",
+  "share_bull": "잘 공유",
+  "share_read_more": "다운로드 GTB Wallet 다운로드",
+  "share_title": "공유",
+  "share_to": {
+    "qq": "QQ",
+    "wechat": "WeChat",
+    "wechat_moment": "친구들의 서클",
+    "weibo": "웨이 보"
+  },
+  "slow": "느리게",
+  "start_create": "생성 시작",
+  "start_time": "시작 날짜",
+  "submit": "제출",
+  "success_to_change_wallet_password": "암호를 변경했습니다.",
+  "success_to_delete_contact": "연락처를 삭제했습니다.",
+  "success_to_delete_wallet": "지갑을 삭제했습니다.",
+  "success_to_save_photo": "사진 저장 성공",
+  "success_to_submit_order": "주문을 성공적으로 제출",
+  "success_to_transfer": "성공적인 거래",
+  "system_settings": "시스템 설정",
+  "team": "팀",
+  "this_is_my_eth_wallet": "이게 내거야. GTB 이게 내거야.",
+  "time_title": "날짜",
+  "title": "표제",
+  "token_list_title": "새 저작물 추가",
+  "top_up_gtt_success": "GTT 성공 재충전",
+  "total_balance": "총자산 {}",
+  "total_supply": "총 공급",
+  "trade_pair": "무역 쌍",
+  "transaction_amount": "양도 금액",
+  "transaction_amount_1": "양도 금액,양도 금액 {} {}",
+  "transaction_detail": "거래 세부 정보",
+  "transaction_hash": "거래 번호",
+  "transaction_history": "거래 내역",
+  "transaction_list_title": "거래 목록",
+  "transaction_time": "거래 시간",
+  "transaction_tip": "전송이 성공하고 최소 금액에 도달 한 후,전송이 성공하고 최소 금액에 도달 한 후",
+  "transfer": "전송",
+  "transfer_amount": "지불 금액:",
+  "transfer_progress_title": "전송 진행",
+  "transfer_success": "패키징을 위해 블록 체인으로 전송되었습니다.",
+  "transfer_title": "전송",
+  "unbind": "바인딩 해제",
+  "unlock": "잠금 해제",
+  "unlock_list": "목록 잠금 해제",
+  "unverified": "확인되지 않음",
+  "update_later": "Upgrade later",
+  "update_now": "Upgrade now",
+  "user_agreement": "사용자 동의서",
+  "user_name": "사용자 이름",
+  "user_name_exist": "닉네임이 사용되었습니다.",
+  "validity_period": "유효 기간",
+  "verify": "검증",
+  "verify_code": "인증 코드",
+  "verify_email_hint": "이 이메일은 확인되지 않았습니다.,이 이메일은 확인되지 않았습니다..",
+  "verify_email_resent": "확인 이메일 재발송",
+  "verify_password": "비밀번호 확인",
+  "verify_phone": "휴대 전화 확인",
+  "verify_success": "성공적인 검증！",
+  "verify_wallet_password": "비밀번호 확인",
+  "version_check": "Version Upgrade",
+  "view_more": "더보기",
+  "view_progress": "진행 상황 확인",
+  "view_progress_1": "진행 상황 확인：",
+  "volume_24h": "24H 볼륨",
+  "wait_to_confirm_transaction": "대기중인 주문",
+  "waiting_time_for_transaction": "기다림 {} 기다림",
+  "wallet_address": "월렛 주소",
+  "wallet_already_exist": "계정이 이미 있습니다.",
+  "wallet_change_password": "비밀번호 변경",
+  "wallet_delete": "지갑 삭제",
+  "wallet_edit_title": "월렛 수정",
+  "wallet_import": "지갑 가져 오기",
+  "wallet_manager_title": "지갑 관리",
+  "wallet_name": "월렛 이름",
+  "wallet_name_change_title": "지갑 이름 변경",
+  "wallet_name_format_1": "새 지갑",
+  "wallet_name_format_2": "새 지갑-{}",
+  "wallet_password": "월렛 비밀번호",
+  "wallet_password_change_title": "지갑 암호 변경",
+  "wallet_seed_phrase_show_title": "월렛 니모닉",
+  "wallet_seed_phrase_tip_1": "누군가가 지갑을 니모닉으로 만들면 자산을 직접 얻을 수 있습니다.！누군가가 지갑을 니모닉으로 만들면 자산을 직접 얻을 수 있습니다..",
+  "warranty": "보증",
+  "website_title": "웹 사이트",
+  "website_title_fangwei": "GT 블록 체 안티 플로 우드",
+  "wechat_public_account": "공개 번호"
+}
