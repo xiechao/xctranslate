@@ -3,8 +3,20 @@
 const fs = require( "fs" );
 
 const FileUtil = {
+    fsExistsSync: function ( path ) {
+        try {
+            fs.accessSync( path, fs.F_OK );
+        } catch ( e ) {
+            return false;
+        }
+        return true;
+    },
 
     readDirSync: function ( path ) {
+        if ( !this.fsExistsSync( path ) ) {
+            throw new Error( "The folder can not be find: " + path );
+        }
+
         const files = [];
 
         const pa = fs.readdirSync( path );

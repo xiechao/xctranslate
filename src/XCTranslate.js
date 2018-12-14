@@ -30,16 +30,17 @@ const XCTranslate = {
             }
         }
 
+        if (fileCompareArray && fileCompareArray.length > 0) {
+            this.mergerFiles( fromFolder, fileCompareArray, 0, ( error ) => {
+                if ( error ) {
+                    throw error;
+                } else {
+                    console.log( "mergerFiles complete" )
 
-        this.mergerFiles( fromFolder, fileCompareArray, 0, ( error ) => {
-            if ( error ) {
-                throw error;
-            } else {
-                console.log( "mergerFiles complete" )
-
-                this.createKeys( fromFolder, files[ 0 ], toFile );
-            }
-        } );
+                    this.createKeys( fromFolder, files[ 0 ], toFile );
+                }
+            } );
+        }
     },
 
     mergerFiles: function ( fromFolder, fileCompareArray, index, callback ) {
