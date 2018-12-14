@@ -4,7 +4,7 @@
 const program = require( 'commander' );
 const colors = require( 'colors' );
 
-const {XCTranslate} = require('./src/XCTranslate');
+const { XCTranslate } = require( './src/XCTranslate' );
 
 program
     .version( '0.1.0' )
@@ -18,7 +18,7 @@ program.on( '--help', function () {
     console.log( '  $ translate-macos --help' );
     console.log( '  $ translate-macos -h' );
     console.log( '' );
-    console.log( '  $ translate-macos -f /Users/xiechao/codes/xctranslate/data/locales -t /Users/xiechao/codes/xctranslate/src/configs/Keys.js' );
+    console.log( '  $ translate-macos -f /Users/xiechao/codes/xctranslate/data/locales -t /Users/xiechao/codes/xctranslate/data/configs/Keys.js' );
     console.log( '' );
     console.log( '' );
 } );
@@ -26,12 +26,12 @@ program.on( '--help', function () {
 let argvAmount = process.argv.slice( 2 ).length;
 
 if ( program.fromFolder && program.toFile && argvAmount === 4 ) {
-    XCTranslate.translate(program.fromFolder, program.toFile);
+    XCTranslate.translate( program.fromFolder, program.toFile );
 } else {
     let fromFolder = "/Users/xiechao/codes/xctranslate/data/locales";
-    let toFile = "/Users/xiechao/codes/xctranslate/src/configs/Keys.js";
+    let toFile = "/Users/xiechao/codes/xctranslate/data/configs/Keys.js";
 
-    XCTranslate.translate(fromFolder, toFile);
+    XCTranslate.translate( fromFolder, toFile );
     // program.outputHelp( make_red );
 }
 

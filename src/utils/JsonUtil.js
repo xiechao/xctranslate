@@ -1,9 +1,5 @@
 'use strict';
 
-var fs = require( "fs" );
-var path = require( "path" );
-var shell = require( 'shelljs' );
-
 const JsonUtil = {
     differenceSet: function ( origin, compareTo ) {
 
@@ -33,7 +29,7 @@ const JsonUtil = {
             }
         }
 
-        return this.sortSet(objectDiff);
+        return this.sortSet( objectDiff );
     },
 
     mergerSet: function ( origin, mergerTo ) {
@@ -65,7 +61,7 @@ const JsonUtil = {
             }
         }
 
-        return this.sortSet(objectDiff);
+        return this.sortSet( objectDiff );
     },
 
     sortSet: function ( obj ) {
@@ -99,32 +95,32 @@ const JsonUtil = {
 
 exports.JsonUtil = JsonUtil;
 
-const a = {
-    aaa: 'aaa',
-    bbb: { ee: 11, ff: 22 },
-    ccc: 1.2,
-    dddd: true,
-    gg: { a: 11 },
-    "country": {
-        "AD": {
-            "sort": "AN DAO ER",
-            "value": "أندورا"
-        },
-    }
-};
-const b = {
-    gg: { b: 22, a: 11 },
-    aaa: 'aaa',
-    bbb: 2,
-    eee: 1.2,
-    fff: true,
-    "country": {
-        "AD": {
-            "sort": "",
-            "value": "Andorra"
-        },
-    }
-};
+// const a = {
+//     aaa: 'aaa',
+//     bbb: { ee: 11, ff: 22 },
+//     ccc: 1.2,
+//     dddd: true,
+//     gg: { a: 11 },
+//     "country": {
+//         "AD": {
+//             "sort": "AN DAO ER",
+//             "value": "أندورا"
+//         },
+//     }
+// };
+// const b = {
+//     gg: { b: 22, a: 11 },
+//     aaa: 'aaa',
+//     bbb: 2,
+//     eee: 1.2,
+//     fff: true,
+//     "country": {
+//         "AD": {
+//             "sort": "",
+//             "value": "Andorra"
+//         },
+//     }
+// };
 //
 // console.log( typeof ( a ) );
 // console.log( typeof ( b ) );

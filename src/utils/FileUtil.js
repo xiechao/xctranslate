@@ -1,8 +1,6 @@
 'use strict';
 
-var fs = require( "fs" );
-var path = require( "path" );
-var shell = require( 'shelljs' );
+const fs = require( "fs" );
 
 const FileUtil = {
 
@@ -16,8 +14,7 @@ const FileUtil = {
                 // console.log( "dir: " + ele );
                 // this.readDirSync( path + "/" + ele );
             } else {
-                console.log( "file: " + ele )
-
+                // console.log( "file: " + ele );
                 files.push( ele );
             }
         } );
@@ -27,16 +24,12 @@ const FileUtil = {
 
 
     readTextFile: function ( file ) {
-        var data = fs.readFileSync( file, "utf-8" );
-
-        return data
+        return fs.readFileSync( file, "utf-8" )
     },
 
     writeTextFile: function ( file, content ) {
         fs.writeFileSync( file, content )
     }
-
-
 };
 
 exports.FileUtil = FileUtil;

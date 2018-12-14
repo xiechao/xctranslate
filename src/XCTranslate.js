@@ -1,9 +1,5 @@
 'use strict';
 
-var fs = require( "fs" );
-var path = require( "path" );
-var shell = require( 'shelljs' );
-
 const { FileUtil } = require( './utils/FileUtil' );
 const { JsonUtil } = require( './utils/JsonUtil' );
 
@@ -35,39 +31,13 @@ const XCTranslate = {
         }
 
 
-        this.mergerFiles( fromFolder, fileCompareArray, 0, ( error, result ) => {
+        this.mergerFiles( fromFolder, fileCompareArray, 0, ( error ) => {
             if ( error ) {
                 throw error;
             } else {
                 console.log( "mergerFiles complete" )
             }
         } );
-        //usage:
-
-
-        // console.log( data.about_us );
-
-        // FileUtil.writeTextFile( "/Users/xiechao/codes/xctranslate/data/locales/ar.json", JSON.stringify( data, null, 2 ) + "\n" )
-        //
-        //
-        // const { stdout, stderr, code } = shell.exec( 'ls /Users/xiechao/codes/xctranslate/data/locales', { silent: true } )
-
-        // console.log( "www" + stdout );
-
-        // jq -S -s '.[0] * .[1]' /Users/xiechao/codes/xctranslate/data/locales/en.json /Users/xiechao/codes/xctranslate/data/locales/ar.json
-        // jq -S -s '.[0] - .[1]' /Users/xiechao/codes/xctranslate/data/locales/en.json /Users/xiechao/codes/xctranslate/data/locales/ar.json
-        // jq -n /Users/xiechao/codes/xctranslate/data/locales/en.json /Users/xiechao/codes/xctranslate/data/locales/ar.json
-        //
-        //
-        // jq --argfile a /Users/xiechao/codes/xctranslate/data/locales/en.json --argfile b /Users/xiechao/codes/xctranslate/data/locales/ar.json -n 'def post_recurse(f): def r: (f | select(. != null) | r), .; r; def post_recurse: post_recurse(.[]?); ($a | (post_recurse | arrays) |= sort) as $a | ($b | (post_recurse | arrays) |= sort) as $b | $a == $b'
-
-        // console.log( "1 = : " + JSON.stringify( JsonUtil.differenceSet( data1, data2 ), null, 4 ) );
-        // console.log( "2 = : " + JSON.stringify( JsonUtil.differenceSet( data2, data1 ), null, 4 ) );
-
-
-        // Imports the Google Cloud client library
-
-
     },
 
     mergerFiles: function ( fromFolder, fileCompareArray, index, callback ) {
@@ -93,30 +63,20 @@ const XCTranslate = {
 
             this.mergerFiles( fromFolder, fileCompareArray, index + 1, callback )
         } else {
-            // Your Google Cloud Platform project ID
             const projectId = 'gtdollar-production';
 
-            // Instantiates a client
             const translate = new Translate( {
                 projectId: projectId,
             } );
-
-            // The text to translate
-            const text = 'Hello, world!';
-            // The target language
-            const target = 'ru';
 
             const options = {
                 from: this.calcTranslateLangFromFileName( file1 ),
                 to: this.calcTranslateLangFromFileName( file2 )
             };
 
-            // Translates some text into Russian
             translate
                 .translate( needTranslated, options )
                 .then( results => {
-                    const translation = results[ 0 ];
-
                     const translatedMap = {};
                     for ( let index = 0; index < results[ 0 ].length; index++ ) {
                         translatedMap[ needTranslated[ index ] ] = results[ 0 ][ index ];
@@ -229,6 +189,6 @@ const XCTranslate = {
             return "zh-CN"
         }
     }
-}
+};
 
 exports.XCTranslate = XCTranslate;
