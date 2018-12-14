@@ -35,9 +35,15 @@ const XCTranslate = {
                 if ( error ) {
                     throw error;
                 } else {
-                    console.log( "mergerFiles complete" )
+                    console.log( "" );
+                    console.log( "mergerFiles complete" );
+                    console.log( "" );
 
                     this.createKeys( fromFolder, files[ 0 ], toFile );
+
+                    console.log( "" );
+                    console.log( "create keys complete" );
+                    console.log( "" );
                 }
             } );
         }
@@ -66,36 +72,76 @@ const XCTranslate = {
 
             this.mergerFiles( fromFolder, fileCompareArray, index + 1, callback )
         } else {
-            const projectId = 'gtdollar-production';
-
-            const translate = new Translate( {
-                projectId: projectId,
-            } );
 
             const options = {
                 from: this.calcTranslateLangFromFileName( file1 ),
                 to: this.calcTranslateLangFromFileName( file2 )
             };
 
-            translate
-                .translate( needTranslated, options )
-                .then( results => {
-                    const translatedMap = {};
-                    for ( let index = 0; index < results[ 0 ].length; index++ ) {
-                        translatedMap[ needTranslated[ index ] ] = results[ 0 ][ index ];
-                    }
-
-                    const dataDiffAfterTranslate = this.replaceTranslatedStr( dataDiff, true, translatedMap );
+            const translatedMap = {};
+            this.doTranslate( needTranslated, options, 0, translatedMap, ( err, result ) => {
+                if ( err ) {
+                    callback && callback( err, null );
+                } else {
+                    const dataDiffAfterTranslate = this.replaceTranslatedStr( dataDiff, true, result );
 
 
                     FileUtil.writeTextFile( fromFolder + "/" + file2, JSON.stringify( JsonUtil.mergerSet( data2, dataDiffAfterTranslate ), null, 2 ) + "\n" );
 
                     this.mergerFiles( fromFolder, fileCompareArray, index + 1, callback );
-                } )
-                .catch( err => {
-                    callback && callback( err, null );
-                } );
+                }
+            } )
         }
+    },
+
+    doTranslate: function ( needTranslated, options, index, translatedMap, callback ) {
+        if ( index >= needTranslated.length ) {
+            callback && callback( null, translatedMap );
+            return;
+        }
+
+        const translateStep = 10;
+
+        const stepData = [];
+        for ( let index1 = index; index1 < needTranslated.length && index1 - index < translateStep; index1++ ) {
+            stepData.push( needTranslated[ index1 ] )
+        }
+
+        console.log( "Start Translate: " + JSON.stringify( stepData ) );
+        this.googleTranslate( stepData, options, ( err, result ) => {
+            console.log( "Translate Success: " + JSON.stringify( stepData ) );
+
+            if ( err ) {
+                callback && callback( err, null )
+            } else {
+                translatedMap = JsonUtil.mergerSet( translatedMap, result );
+
+                this.doTranslate( needTranslated, options, index + translateStep, translatedMap, callback );
+            }
+        } );
+    },
+
+    googleTranslate: function ( needTranslated, options, callback ) {
+        const projectId = 'gtdollar-production';
+
+        const translate = new Translate( {
+            projectId: projectId,
+        } );
+
+        translate
+            .translate( needTranslated, options )
+            .then( results => {
+                const translatedMap = {};
+                for ( let index = 0; index < results[ 0 ].length; index++ ) {
+                    translatedMap[ needTranslated[ index ] ] = results[ 0 ][ index ];
+                }
+
+                callback && callback( null, translatedMap );
+            } )
+            .catch( err => {
+                callback && callback( err, null );
+            } );
+
     },
 
     replaceTranslatedStr: function ( obj, isOutermostLayer, translatedMap ) {
