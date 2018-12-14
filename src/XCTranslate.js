@@ -123,13 +123,17 @@ const XCTranslate = {
             stepData.push( needTranslated[ index1 ] )
         }
 
-        console.log( "Start Translate: " + JSON.stringify( stepData ) );
+        console.log( "Start Translate < " + options.from + " -> " + options.to + " > : " + JSON.stringify( stepData ) );
         this.googleTranslate( stepData, options, ( err, result ) => {
-            console.log( "Translate Success: " + JSON.stringify( stepData ) );
+
 
             if ( err ) {
+                console.log( "Translate Failed: " + err.message );
+
                 callback && callback( err, null )
             } else {
+                console.log( "Translate Success: " + JSON.stringify( stepData ) );
+
                 translatedMap = JsonUtil.mergerSet( translatedMap, result );
 
                 this.doTranslate( needTranslated, options, index + translateStep, translatedMap, callback );
