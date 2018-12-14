@@ -30,7 +30,7 @@ const XCTranslate = {
             }
         }
 
-        if (fileCompareArray && fileCompareArray.length > 0) {
+        if ( fileCompareArray && fileCompareArray.length > 0 ) {
             this.mergerFiles( fromFolder, fileCompareArray, 0, ( error ) => {
                 if ( error ) {
                     throw error;
