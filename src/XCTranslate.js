@@ -36,6 +36,8 @@ const XCTranslate = {
                 throw error;
             } else {
                 console.log( "mergerFiles complete" )
+
+                this.createKeys( fromFolder, files[ 0 ], toFile );
             }
         } );
     },
@@ -139,6 +141,59 @@ const XCTranslate = {
         }
 
         return data;
+    },
+
+    createKeys: function ( fromFolder, fromFile, toFile ) {
+        const text = FileUtil.readTextFile( fromFolder + "/" + fromFile );
+        const data = JSON.parse( text );
+
+        const keysObject = this.createKeysByObject( data, null, null );
+
+        let fileContent = "const Keys = {" + "\n";
+
+        const keys = Object.keys( keysObject );
+        for ( let index = 0; index < keys.length; index++ ) {
+            const key = keys[ index ];
+
+            fileContent += "    \"" + key + "\"" + ": " + "\"" + keysObject[ key ] + "\"" + "," + "\n";
+        }
+
+        fileContent += "};\n" +
+            "export default Keys;" + "\n";
+
+        FileUtil.writeTextFile( toFile, fileContent );
+
+    },
+
+    createKeysByObject: function ( data, keyParent, valueParent ) {
+        if ( typeof ( data ) !== 'object' ) {
+            throw new Error( "data is not object" );
+        }
+
+        if ( data instanceof Array ) {
+            throw new Error( "data can not be array" );
+        }
+
+        let keysObject = {};
+
+        const keys = Object.keys( data );
+
+        for ( let index = 0; index < keys.length; index++ ) {
+            const key = keys[ index ];
+
+            const keyParentNew = ( keyParent && keyParent.length > 0 ? ( keyParent + "_" ) : '' ) + key;
+            const valueParentNew = ( valueParent && valueParent.length > 0 ? ( valueParent + "." ) : '' ) + key;
+
+            keysObject[ keyParentNew ] = valueParentNew;
+
+            if ( typeof ( data[ key ] ) === 'object' ) {
+                const childKeysObject = this.createKeysByObject( data[ key ], keyParentNew, valueParentNew );
+
+                keysObject = JsonUtil.mergerSet( keysObject, childKeysObject )
+            }
+        }
+
+        return keysObject;
     },
 
 
