@@ -132,7 +132,7 @@ const XCTranslate = {
 
                 callback && callback( err, null )
             } else {
-                console.log( "Translate Success: " + JSON.stringify( stepData ) );
+                console.log( "Translate Success: " + JSON.stringify( result ) );
 
                 translatedMap = JsonUtil.mergerSet( translatedMap, result );
 
