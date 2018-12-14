@@ -13,6 +13,22 @@ const XCTranslate = {
 
         const files = FileUtil.readDirSync( fromFolder );
 
+        {
+            let index = files.indexOf( 'en.json' );
+            if ( index >= 0 ) {
+                files.splice( index, 1 );
+                files.unshift( 'en.json' );
+            }
+        }
+
+        {
+            let index = files.indexOf( 'zh.json' );
+            if ( index >= 0 ) {
+                files.splice( index, 1 );
+                files.unshift( 'zh.json' );
+            }
+        }
+
         const fileCompareArray = [];
 
         for ( let index = 0; index < files.length; index++ ) {
