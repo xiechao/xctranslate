@@ -265,7 +265,7 @@ const XCTranslate = {
 
 
     calcTranslateLangFromFileName: function ( file ) {
-        if ( file === 'ar.json' ) {
+        if ( file === 'ar.json' || file === 'ar-AE.json' ) {
             return "ar"
         }
         else if ( file === 'en.json' ) {
@@ -289,7 +289,7 @@ const XCTranslate = {
         else if ( file === 'ko.json' ) {
             return "ko"
         }
-        else if ( file === 'ms.json' ) {
+        else if ( file === 'ms.json' || file === 'ml.json' ) {
             return "ms"
         }
         else if ( file === 'ne.json' ) {
@@ -304,7 +304,7 @@ const XCTranslate = {
         else if ( file === 'vi.json' ) {
             return "vi"
         }
-        else if ( file === 'zh-tw.json' ) {
+        else if ( file === 'zh-tw.json' || file === 'zh-rTW.json' ) {
             return "zh-TW"
         }
         else if ( file === 'zh.json' ) {
