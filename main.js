@@ -20,6 +20,7 @@ program.on( '--help', function () {
     console.log( '' );
     console.log( '  $ translate-macos -f ~/codes/gtb-wallet/data/locales -t ~/codes/gtb-wallet/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/gtrobotrn/data/locales -t ~/codes/gtrobotrn/src/configs/Keys.js' );
+    console.log( '  $ translate-macos -f ~/codes/gtdollar-hh/data/locales -t ~/codes/gtdollar-hh/src/configs/Keys.js' );
     console.log( '' );
     console.log( '' );
 } );
