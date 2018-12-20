@@ -22,10 +22,26 @@ const XCTranslate = {
         }
 
         {
+            let index = files.indexOf( 'en-us.json' );
+            if ( index >= 0 ) {
+                files.splice( index, 1 );
+                files.unshift( 'en-us.json' );
+            }
+        }
+
+        {
             let index = files.indexOf( 'zh.json' );
             if ( index >= 0 ) {
                 files.splice( index, 1 );
                 files.unshift( 'zh.json' );
+            }
+        }
+
+        {
+            let index = files.indexOf( 'zh-cn.json' );
+            if ( index >= 0 ) {
+                files.splice( index, 1 );
+                files.unshift( 'zh-cn.json' );
             }
         }
 
@@ -268,7 +284,7 @@ const XCTranslate = {
         if ( file === 'ar.json' || file === 'ar-AE.json' ) {
             return "ar"
         }
-        else if ( file === 'en.json' ) {
+        else if ( file === 'en.json' || file === 'en-us.json' ) {
             return "en"
         }
         else if ( file === 'es.json' ) {
@@ -304,10 +320,10 @@ const XCTranslate = {
         else if ( file === 'vi.json' ) {
             return "vi"
         }
-        else if ( file === 'zh-tw.json' || file === 'zh-rTW.json' ) {
+        else if ( file === 'zh-tw.json' || file === 'zh-rTW.json' || file === 'zh-hk.json' ) {
             return "zh-TW"
         }
-        else if ( file === 'zh.json' ) {
+        else if ( file === 'zh.json' || file === 'zh-cn.json' ) {
             return "zh-CN"
         }
     }
