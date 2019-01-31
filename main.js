@@ -22,6 +22,7 @@ program.on( '--help', function () {
     console.log( '  $ translate-macos -f ~/codes/gtrobotrn/data/locales -t ~/codes/gtrobotrn/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/gtdollar-hh/data/locales -t ~/codes/gtdollar-hh/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/exchange-webapp/src/Lang/locales -t ~/codes/exchange-webapp/src/Lang/Keys.js' );
+    console.log( '  $ translate-macos -f ~/codes/gtins-app/data/locales -t ~/codes/gtins-app/src/configs/Keys.js' );
     console.log( '' );
     console.log( '' );
 } );
