@@ -24,6 +24,7 @@ program.on( '--help', function () {
     console.log( '  $ translate-macos -f ~/codes/exchange-webapp/src/Lang/locales -t ~/codes/exchange-webapp/src/Lang/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/gtins-app/data/locales -t ~/codes/gtins-app/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/gls-app/data/locales -t ~/codes/gls-app/src/configs/Keys.js' );
+    console.log( '  $ translate-macos -f ~/codes/gt-exchange-app/data/locales -t ~/codes/gt-exchange-app/src/configs/Keys.js' );
     console.log( '' );
     console.log( '' );
 } );
