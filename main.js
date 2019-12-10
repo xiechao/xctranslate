@@ -26,6 +26,7 @@ program.on( '--help', function () {
     console.log( '  $ translate-macos -f ~/codes/gls-app/data/locales -t ~/codes/gls-app/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/gt-exchange-app/data/locales -t ~/codes/gt-exchange-app/src/configs/Keys.js' );
     console.log( '  $ translate-macos -f ~/codes/aim-app/data/locales -t ~/codes/aim-app/src/configs/Keys.js' );
+    console.log( '  $ translate-macos -f ~/codes/ai-robot/data/locales -t ~/codes/ai-robot/src/configs/Keys.js' );
     console.log( '' );
     console.log( '' );
 } );
