@@ -4,7 +4,7 @@
 const program = require( 'commander' );
 const colors = require( 'colors' );
 
-const { XCTranslate } = require( './src/XCTranslate' );
+const { JSTranslate } = require( './src/JSTranslate' );
 
 program
     .version( '0.1.0' )
@@ -36,10 +36,9 @@ program.on( '--help', function () {
 let argvAmount = process.argv.slice( 2 ).length;
 
 if ( program.fromFolder && program.toFile && argvAmount === 4 ) {
-    XCTranslate.translate( program.fromFolder, program.toFile );
+    JSTranslate.translate( program.fromFolder, program.toFile );
 } else {
     program.outputHelp( make_red );
-    // XCTranslate.translate( "/Users/xiechao/codes/gtb-wallet/data/locales", "/Users/xiechao/codes/gtb-wallet/src/configs/Keys.js" );
 }
 
 

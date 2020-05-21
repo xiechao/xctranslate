@@ -5,7 +5,7 @@ const { JsonUtil } = require( './utils/JsonUtil' );
 
 const { Translate } = require( '@google-cloud/translate' );
 
-const XCTranslate = {
+const JSTranslate = {
 
     translate: function ( fromFolder, toFile ) {
         console.log( "fromFolder: " + fromFolder );
@@ -329,4 +329,4 @@ const XCTranslate = {
     }
 };
 
-exports.XCTranslate = XCTranslate;
+exports.JSTranslate = JSTranslate;
